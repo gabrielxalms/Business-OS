@@ -1,176 +1,197 @@
 # The Forever Full Guarantee: Gabe Gets Jobs
 
-A guarantee stack built for the **Forever Full Formula**, using the playbooks in this repo: *$100M Offers* (Guarantees chapter), *$100M Money Models*, *$100M Closing* and *$100M Pricing*.
+Built for the **Forever Full Formula** from *$100M Offers* (Guarantees), *$100M Money Models* (Pay Less Now or Pay More Later, Win Your Money Back) and *$100M Closing* (Guarantee Closes).
 
-Every number comes from your own offer doc: **$150/day ≈ 30 jobs/month (~$150 per job)**, **$2,497/mo or 15%**, **$2,997 setup (free on annual)**, **3 clients max**.
+**Price:** $997/month or **20% of every job I book**, whichever is more. $0 to start. No contract.
 
 ---
 
-## 1. The stack at a glance
+## 1. The whole thing on one page
 
-Each layer removes one specific worry a contractor has. Each one follows Hormozi's rule: *"If you don't get X in Y time, we will Z."*
-
-| # | Name | Window | Promise | Worry it kills |
+| # | Name | When | Promise | Worry it kills |
 |---|---|---|---|---|
-| 1 | **10 Jobs or It's Free** | First 30 days | 10 booked jobs, or you pay $0 and we keep working until you hit 10 | "What if it doesn't work?" |
-| 1b | **Ad-Spend Safety Net** | First 30 days | Under 5 jobs? We also pay back every dollar you spent on ads | "I've burned money on ads before" |
-| 2 | **Forever Full or We Work Free** | By day 90 | Tomorrow is full, or you pay us nothing each month until it is | "What if it never really fills up?" |
-| 3 | **Stay Full** | Every month after | Any month tomorrow isn't full, no $2,497 minimum: you only pay 15% of the jobs we booked | "What if it stops working later?" |
-| 4 | **Walk-Away Pass** | Annual plan | Miss Stay Full 2 months in a row and you can cancel with no fee. You keep your number, customers and website. | "I don't want to get locked into a year" |
+| 0 | **Pay Later Start** | Month 1 | $0 to start. No minimum in month 1. You pay only 20% of jobs I booked, after they're done | "I'm paying you *and* paying for ads before I've seen anything" |
+| 1 | **First Job in 7 Days, or the Ads Are On Me** | Week 1 | I book you a job from the ads within 7 days, or I pay back that week's ad spend and keep paying your ads until I do | "What if the ads just burn my money?" |
+| 2 | **Fire Me Anytime** | Every month, forever | Not happy for any reason? Text "you're fired" and that month's fee comes back | "What if I don't like it?" |
+| 3 | **Forever Full or I Work Free** | By day 90 | Tomorrow is full, or you pay me nothing until it is | "What if it never actually fills up?" |
 
-The sequence follows Hormozi's "stack two conditional guarantees around sequential outcomes": a first result (30 days), then the full result (90 days), then keeping it (forever). It **future-paces** them into believing the outcome.
-
----
-
-## 2. Definitions (put these in the contract)
-
-**Booked Job:** a job in your service area, scheduled in Housecall Pro **with a deposit taken**. It counts whether it came from ads, Google, a referral, or the Kickstart past-customer text. It doesn't count if you cancel it.
-
-**Daily Target:** set together on the onboarding call. It's how many jobs you want booked for tomorrow, at least **1 per crew**. Each job per day needs about **$150/day in ads**.
-> 1 crew, 1 job/day → $150/day. 2 crews → $300/day. "No crew limit: more crews, more jobs" still holds. The budget just scales with it.
-
-**Forever Full:** tomorrow's Daily Target is booked by **7 pm the night before** on at least **80% of workdays** (about 18 of 22) **for a calendar month**. Both of you can see it in Housecall Pro, so nobody argues about whether it happened.
-
-**Clock starts** the day your ads go live, not the day you sign.
-
-> Start at 80%. When your data shows you beat it consistently, raise it to 90%. Hormozi: guarantee what you reliably deliver, not your best case.
+**Why this order works:** Hormozi's stack is an *unconditional* guarantee for "do I like it" plus *conditional* guarantees on **sequential outcomes**. Here that's a first job (week 1), then a full schedule (day 90), with the satisfaction promise covering every month in between.
 
 ---
 
-## 3. The layers in detail
+## 2. Pricing + Pay Later (layer 0)
 
-### Layer 1: "10 Jobs or It's Free" (30 days)
-> If we don't book you **10 jobs in your first 30 days**, you don't pay us a cent: your first month is refunded. **We keep working until you hit 10**, and we don't bill you again until you do.
+### The core price
+> **$997/month or 20% of every job I book, whichever is more.**
 
-- Combines the **money-back**, **delayed second payment** and **service** guarantees (*Offers*).
-- Charge month one up front and refund it if you miss. That keeps cash coming in (*Fast Cash*), and the refund rarely happens.
-- **Your margin of safety:** at $150/day you spend about $4,500. Failing means each job cost **more than $450**, which is **3x worse** than your $150 estimate.
+- $997 ÷ 20% = **$4,985 of job revenue**. Your notes imply jobs average about **$555** (30 jobs at 15% ≈ $2.5k), so that's about **9 jobs a month**.
+- So the $997 minimum only matters in a month where you book them fewer than ~9 jobs. In every other month they pay purely on performance. Hormozi calls that an **implied guarantee**: *"If I don't perform, I don't get paid."*
+- At ~30 jobs a month: 20% × $16,650 ≈ **$3,330/month per client**, about **$10k/month** with 3 clients.
 
-### Layer 1b: "Ad-Spend Safety Net" (inside the same 30 days)
-> And if we book you **fewer than 5**, we also **pay back every dollar you spent on ads.**
+> **Sales line:** "My minimum only kicks in if I book you fewer than about 9 jobs in a month. And if that ever happens, you can fire me and get it back."
 
-- Hormozi's own example: *"20 clients in your first 30 days, or we give you your money back + your advertising dollars spent with us."*
-- This uses the 5-job version from your notes as the floor. Your doc had two different guarantees (10 jobs / "don't pay" and 5 jobs / "money back + ads"), so now they work together.
-- It costs you the most of any layer, so it has the lowest bar. It only triggers if each job costs **more than $900 (6x your estimate)**.
+### Pay Later (*Money Models*: "Pay Less Now or Pay More Later")
+Hormozi: pay-later *"combines the benefits of a delayed payment and a satisfaction guarantee… Almost anyone will agree to pay later if they are satisfied."* You're right that the sting is ad spend plus a fee with nothing to show yet. So:
 
-### Layer 2: "Forever Full or We Work Free" (90 days)
-> If you're not **Forever Full within 90 days**, you **stop paying us: no minimum, no 15%**. We keep working, every month, until tomorrow is full.
+- **$0 to start.** Card on file, no setup fee. (Keep "$2,997 setup" in the value stack as **waived**.)
+- **Month 1 has no minimum.** They pay only 20% of jobs you booked.
+- **Billed weekly, after jobs are done.** They pay you out of money they've already collected. Your first charge comes *after* their first job, so **the first job pays you, not them.**
+- **Month 2 on:** billed weekly at 20%. At month end, if the total is under $997, charge the difference.
 
-- This is the **service guarantee**, Hormozi's favorite: *"I have yet to have a single person say a client took them up on it."* Clients who did their part are usually close, and they'd rather have a full calendar than a free month.
-- Your cost if it triggers: a month's fee you don't collect plus the software you already pay for (Housecall Pro and Quo). The client keeps paying their own ad spend.
+### Optional: a "Pay Now" option (gets you cash on day one)
+Hormozi pairs pay-later with a pay-now choice that has bonuses:
+> **Pay Later:** $0 today. Month 1 = only 20% of jobs booked.
+> **Pay Now:** $997 today (credited toward your first bills) + **[Street Cred + Contract Hunter, $X value] free**, because I reward action-takers.
 
-### Layer 3: "Stay Full" (every month after)
-> Once you're full, any month where tomorrow **isn't** full (and you did your part), the **$2,497 minimum disappears**. You pay only **15% of the jobs we booked** that month.
-
-- This is an **implied, performance-based guarantee** (*Offers*): *"If I don't perform, I don't get paid."* It works because you have transparency and control. You run Housecall Pro, so you see every job and invoice.
-- This is what makes "Forever" believable. The promise doesn't expire after 90 days.
-- Your cost: only the gap between $2,497 and 15% in a bad month. At ~30 jobs averaging ~$555 they're about equal, so it's often close to $0.
-
-### Layer 4: "Walk-Away Pass" (annual plan only)
-> On the annual plan, if we miss Stay Full **2 months in a row**, you can **cancel the rest of the year with no fee**, and your setup stays free. You leave with **your phone number, your customer list, your website and your pages.**
-
-- This is the **release of service guarantee** (*Offers*). You can only enforce annual contracts so much anyway, so you're giving up little.
-- **This is your best closing tool.** Annual = $2,997 setup free + they can walk away if you fail, so picking monthly looks silly. That gets you 12-month LTV from your 3 slots.
-- "You keep your number and customers" also addresses the **Safe Hands** fear head-on.
+This uses the "buy today, get the $1,000 bonus" idea from your notes. *If too many people pick Pay Later, add better Pay Now bonuses. If too many pick Pay Now, do the opposite.*
 
 ---
 
-## 4. Their side of the deal (the conditions)
+## 3. The guarantees
 
-Hormozi: tie the guarantee to *the things they must do to be successful*. More conditions make the guarantee weaker, so there are only six, and you can check each one.
+### Guarantee 1: "First Job in 7 Days, or the Ads Are On Me"
+> Within **7 days of your ads going live**, I'll book you **at least 1 job from the ads**. If I don't, **I pay you back that week's ad spend, and I keep paying for your ads until I do.**
 
-1. **Fund the ads**: keep the agreed daily budget (about $150/day per job per day) on your card, without pausing. *Spend less, and the 10 and 5 scale down with it (e.g. $100/day → 6 jobs and 3 jobs).*
-2. **Onboarding within 3 days**: headshot, body shot, voice recording, business details (start date, equipment, homes you serve), and the steps Google needs to verify you.
-3. **Approve within 48 hours**: your AI look, your first ads, and your price list (we quote and close using it).
-4. **Show up**: do every booked job as scheduled. If you have to move one, give us 24 hours' notice. Don't turn down jobs in your area that match your price list.
-5. **Keep your calendar open**: the crews, hours and Daily Target set at onboarding. Give us 48 hours' notice before blocking a day.
-6. **Film and snap**: up to **3 videos** and **10 photos** a month when we ask, within 5 days.
+- Combines Hormozi's **First Outcome Guarantee** (*"If you don't make your first sale in 14 days, we will pay for your ad spend until you do"*) and *"your money back + your advertising dollars."*
+- **It goes straight at the sting.** In week 1 the ads are risk-free, because if they don't book a job, the ads were on you.
+- **Why it's safe:** at $150/day, week 1 is about $1,050 of ads. At your ~$150 per job that should book about 7 jobs. It only fails if the whole week books **zero**.
+- **Your worst case:** about $1,050 plus about $150/day until the first job lands.
+- **Promise the speed:** ads live within **[3] days** of getting their onboarding stuff. Signing → first job then feels like ~10 days.
+- **Conditions:** ads funded at the agreed budget, and they accept jobs in their area at their approved prices.
 
-This replaces "fulfill in a satisfactory manner," which can't be measured. "Show up and don't cancel on us" can be.
+### Guarantee 2: "Fire Me Anytime" (the satisfaction guarantee)
+> **Any month, for any reason**, if you don't think I earned my money, text me **"you're fired."** I'll **refund that month's fee**. No questions, no exit call, no hard feelings. **You keep every job I booked, your phone number, your customers and your website.**
 
-**Present it as the plan, not fine print:**
-> "Your job is to show up and do great work. I handle everything else. If you do your part and I don't do mine, it's on me. Not you."
+- *$100M Offers:* *"Satisfaction/No questions asked is the highest form of guarantee."* Hormozi used this exact type for his gyms: **2 claims out of 4,000 sales.**
+- **Named so people remember it** (Hormozi's tip: never "30-day money back satisfaction guarantee").
+- **One condition, straight from *Money Models*:** *"Make a Conditional Satisfaction Guarantee… they can't say you suck if they never try it."* To qualify, they kept the ads funded that month and showed up to the jobs you booked. You never ask **why** they're unhappy, only **whether they used it**.
+- **No contract.** "Fire me anytime" and a 12-month lock-in contradict each other. Drop the annual plan. They stay because tomorrow's full.
+- **Your worst case:** one month's fee ($997 in a slow month, up to ~$3,330 in a big one).
+- **The one abuse case:** someone takes a great month, fires you, and keeps the jobs. It's rare, it's capped at one month, and with 3 spots you'd want that client gone anyway.
+
+**How Hormozi pitched his (adapted):**
+> "Do you think I'd still be in business if I gave a guarantee like this and wasn't good at what I do? I can't do the jobs for you, and I can't control the weather. But I'm guaranteeing you'll feel I'm worth every dollar. The day you don't, tell me I suck and I'll write you a check."
+
+### Guarantee 3: "Forever Full or I Work Free" (the dream outcome)
+> If you're not **Forever Full within 90 days**, you **stop paying me: no $997, no 20%**. I keep working, every month, until tomorrow is full.
+
+- This is the **service guarantee**, Hormozi's favorite: *"I have yet to have a single person say a client took them up on it."* Contractors who did their part are usually close, and they'd rather have the full calendar than a free month.
+- **Your worst case:** 20% of the jobs you book while they're not full yet (e.g. 20 jobs × $555 × 20% ≈ $2,220/month) plus software. They still pay their own ads.
+- **Softer version, if you're nervous:** "…you pay **half (10%)** until it is." It's weaker, but cheaper. I'd use the free version.
 
 ---
 
-## 5. The copy (paste into "THE DEAL")
+## 4. Definitions (put these in the agreement)
 
-> **The Forever Full Guarantee**
+**Booked Job:** a job in their service area, scheduled in Housecall Pro **with a deposit taken**, that **came from your systems**: ads, Google, Kickstart reactivation texts, Hype Machine referrals, Comeback Customers rebooks. You bill 20% of the final invoice once it's done. **If *they* cancel a job you booked, you still bill 20% of the quote.**
+
+**Daily Target:** set on the onboarding call. It's how many jobs they want booked for tomorrow, at least **1 per crew**. Each job per day needs about **$150/day in ads**. (1 crew → $150/day, 2 crews → $300/day. "No crew limit" still holds; the budget scales with it.)
+
+**Forever Full:** tomorrow's Daily Target is booked by **7 pm the night before** on at least **80% of workdays** (about 18 of 22) **for a calendar month**. Both of you can see it in Housecall Pro. Raise it to 90% once your data backs it.
+
+**Clocks** (7 days, 90 days) start the day **ads go live**, not the day they sign.
+
+---
+
+## 5. Their side (conditions)
+
+Hormozi: tie the guarantee to *the things they must do to be successful*. More conditions make it weaker, so keep it short.
+
+| Condition | Week-1 | Fire Me | Forever Full |
+|---|:-:|:-:|:-:|
+| Keep ads funded at the agreed budget, no pauses | ✓ | ✓ | ✓ |
+| Show up to every booked job (24-hour notice to move one) | ✓ | ✓ | ✓ |
+| Accept jobs in your area at your approved prices | ✓ | | ✓ |
+| Onboarding within 3 days: headshot, body shot, voice recording, business details, Google verification steps | | | ✓ |
+| Approve your AI look, first ads and price list within 48 hours | | | ✓ |
+| Keep your calendar open (crews and hours set on day 1); 48 hours' notice to block a day | | | ✓ |
+| Up to 3 videos + 10 photos a month when asked, within 5 days | | | ✓ |
+
+> **How to say it:** "Your job is to show up and do great work. I handle everything else. If you do your part and I don't do mine, it's on me. Not you."
+
+---
+
+## 6. Copy for "THE DEAL" (paste in)
+
+> **Price:** $0 to start. Then $997/month or 20% of every job I book, whichever is more. Ads go on your own card. No contract.
 >
-> **10 Jobs or It's Free.** If we don't book you 10 jobs in your first 30 days, your first month is free and we keep working until you hit 10. Book fewer than 5? We pay back your ad spend too.
+> **Pay Later:** No minimum in your first month. You only pay 20% of jobs I booked, after they're done. Your first job pays me. You don't.
 >
-> **Forever Full or We Work Free.** If tomorrow isn't fully booked within 90 days, you stop paying us until it is.
+> **Guarantee #1: First Job in 7 Days, or the Ads Are On Me.** If the ads don't book you a job in the first 7 days, I pay back that week's ads and keep paying them until they do.
 >
-> **Stay Full, Forever.** Any month tomorrow isn't full, there's no minimum: you only pay 15% of the jobs we booked.
+> **Guarantee #2: Fire Me Anytime.** Any month, any reason, text me "you're fired" and that month's fee comes back. You keep every job, your number, your customers and your website.
 >
-> **Walk-Away Pass.** Sign for a year and setup is free. If we miss two months in a row, walk away with no fee, and keep your number, customers and website.
+> **Guarantee #3: Forever Full or I Work Free.** If tomorrow isn't fully booked within 90 days, you stop paying me until it is.
 >
 > **Your part:** keep your ads funded, show up to every job, and film a clip now and then.
 >
-> *Why can I promise this? I only take 3 clients. I'm not spread thin, and I don't get paid unless you get jobs.*
-
-The last line uses your scarcity ("only 3 clients") as the **reason why**. Hormozi: *"Say it boldly and give the reason why."*
+> *Why can I promise all this? I only take 3 clients, and one owner per town. I'm not spread thin, and I don't get paid unless you get jobs.*
 
 ---
 
-## 6. How to say it on the call
+## 7. On the sales call
 
-**Order** (from your notes): ask for the sale on the core → reveal the bonuses → if they hesitate, use the guarantee layer that matches their worry, then ask again.
+**Order** (from your notes): ask for the sale on the core → reveal the bonuses as a surprise → if they hesitate, use the guarantee that matches their worry, then ask again.
 
-| They say | You answer with |
+| They say | You say |
 |---|---|
-| "What if it doesn't work for me?" | Layer 1: 10 jobs or it's free |
-| "I've wasted money on ads before." | Layer 1b: under 5 jobs, you get your ad money back |
-| "Marketing takes forever." | Kickstart bonus + the 30-day clock starts when ads go live |
-| "A year is a long time." | Walk-Away Pass + free setup |
-| "I don't trust someone with my customers." | Safe Hands + you keep your number and customer list |
+| "I can't spend on ads *and* pay you before I see anything." | Pay Later + First Job in 7 Days: "Your first job pays me. And if the ads don't book one in a week, they were on me." |
+| "I've burned money on ads before." | First Job in 7 Days, or the Ads Are On Me |
+| "What if I don't like working with you?" | Fire Me Anytime + no contract |
+| "Will this actually fill my schedule?" | Forever Full or I Work Free |
+| "20% is a lot." | "You only pay it on jobs I put on your calendar. I quote, close, schedule and take the deposit. That's a full-time office person you're not paying." |
+| "I don't trust someone with my customers." | Safe Hands + "if you ever fire me, you keep your number and customer list" |
 
 **Best case / worst case** (*Offers* and *Closing*):
-> "Best case, tomorrow's full every day and you're hiring a second crew. Worst case, you got 10 jobs this month and paid me nothing. Or you got fewer than 5 and I paid your ads back too. Every option is risk-free except one. Hanging up is the only thing guaranteed to leave tomorrow empty."
+> "Best case, tomorrow's full every day and you're hiring another crew. Worst case, the ads don't book a job in week one and I pay for them, or you fire me and get your money back. Either way you haven't paid me a dime that didn't come from a job I booked. The only option *guaranteed* to leave tomorrow empty is not starting."
 
-**Three options close** (*Closing*):
-> "Option one: you start, tomorrow fills up, life's good. Option two: you start, it doesn't hit, and I work for free until it does. Option three: you don't start, and next month looks exactly like this one. Which of those actually gets you a full schedule?"
-
-**Damaging admission** (reason why):
-> "Do you think I'd last long making promises like this if I couldn't keep them? With only 3 clients, one bad one hurts me badly. So I only take people I know I can fill."
+**Fully informed decision** (Fladlien, quoted in *Offers*), for Pay Later:
+> "I'm not asking you to decide forever today. You can't really know if this works from the outside. Get in, see the jobs show up. If it's not for you, fire me. Starting costs you nothing."
 
 ---
 
-## 7. The math (your worst case per client)
+## 8. Your risk, per client
 
-| Layer triggers | You lose | What has to go wrong |
+| What triggers | You lose | What has to go wrong |
 |---|---|---|
-| 1: under 10 jobs | $2,497 (+ $2,997 setup if they paid it monthly) | Cost per job above $450, 3x your estimate |
-| 1b: under 5 jobs | + up to $4,500 ad spend | Cost per job above $900, 6x your estimate |
-| 2: not full by day 90 | $2,497/mo + software until full | Fewer than ~18 full days a month despite the budget |
-| 3: a bad month later | $2,497 minus 15% of that month's jobs | Often about $0 at ~30 jobs |
-| 4: walk-away | The rest of the annual contract | 2 bad months in a row |
+| Pay Later month 1 | The $997 minimum, only if month 1 books under ~9 jobs | A slow first month |
+| First Job in 7 Days | ~$1,050 + ~$150/day until the first job | A full week of ads books **zero** jobs |
+| Fire Me Anytime | One month's fee ($997–~$3,330) | They're unhappy. Hormozi: 2 claims in 4,000 |
+| Forever Full | 20% of jobs per month until full (~$2.2k at 20 jobs) | Under ~18 full days a month by day 90, with the budget funded |
 
 **Before you launch:**
-- **Run one test first.** Layers 1b and 2 depend on your **$150-per-job estimate**. Prove it with one client (or a test campaign) before you promise the ad-spend refund. Until then, use Layer 1 without 1b.
-- **Don't count on Google Local Service Ads in month one.** Google's background and license checks can take weeks. Hit the first 10 with Facebook/Instagram ads plus the **Kickstart past-customer text**. That reactivation text is your best way to get early jobs.
-- **Qualify hard.** Only take a contractor who can fund $150/day, has a real crew available, and has prices that sell. With 3 slots, one bad fit is a third of your business.
-
-Why it's still worth it (*Offers*): *"For a guarantee to not be worth it, the increase in sales would have to be 100 percent offset by people who refunded."* With 3 slots, the guarantee isn't about volume. It's about **closing the 3 best contractors in town, at full price, on annual.**
+- **Prove your ~$150-per-job number** with one test campaign before you promise ad-spend refunds. Guarantee 1 and the Daily Target math both depend on it.
+- **Don't count on Google Local Service Ads in week one.** Google's background and license checks can take weeks. Guarantee 1 says "from the ads" so Facebook/Instagram carry it, and the Kickstart past-customer texts are extra.
+- **Qualify hard.** Only take contractors who can fund $150/day per crew, have a crew free, and charge prices that sell. With 3 spots, one bad fit is a third of your business.
 
 ---
 
-## 8. Fix these in your offer doc
+## 9. One honest warning: 20% plus ads
 
-1. **Two different guarantees.** "10 jobs or you don't pay" vs "5 jobs or money back + ad dollars." Now Layer 1 + 1b.
-2. **Two different minimums.** THE DEAL says **$2,497 or 15%**, but Qualifications says **$997 or 15%**. Pick one. (Using your own numbers, 15% of ~30 jobs ≈ $2.5k, so $2,497 matches.)
-3. **"Satisfactory" isn't measurable.** Replaced with the show-up / 24-hour notice rule.
-4. **"You don't pay" vs setup.** Spell it out: on monthly, the setup is refunded too. On annual, setup is already free.
-5. **Who owns the phone number and accounts** when you pay for Housecall Pro and Quo. Promise in writing that they keep them if they leave. It closes the Safe Hands objection.
+At a ~$555 job: **$150 in ads + $111 (20%) ≈ $261 to get each job, about 47% of the ticket.** A sharp contractor will do that math.
+
+- **Your counter:** rebooks (Comeback Customers) and referrals (Hype Machine) cost **$0 in ads**, so their cost per job drops every month. And you replace the office person who quotes, closes and schedules.
+- **If people balk:** charge **10% on repeat customers** and 20% on new ones. It still beats every other way they could get the work.
+- This depends heavily on the trade. 20% of a $300 gutter cleaning is easy. 20% of a $12k roof is a dealbreaker. **What do your clients do, and what's their average job size?** That tells us whether 20% holds.
 
 ---
 
-## 9. "Stupid to say no" check (Value Equation)
+## 10. Update your offer doc
 
-| Lever | How Forever Full moves it |
+1. Price → **$997 or 20%, whichever is more** (replaces $2,497/15% and $997/15%).
+2. Setup → **$0** (show $2,997 as *waived* in the value stack). Remove "free if you sign for a year." No contract now.
+3. Guarantee → replace "10 jobs / 5 jobs" with the three guarantees above.
+4. Replace "fulfill in a satisfactory manner" with "show up to every booked job, 24-hour notice to move one."
+5. Write down that they keep their phone number, customer list and website if they ever leave, even though you pay for Housecall Pro and Quo.
+
+---
+
+## 11. "Stupid to say no" check (Value Equation)
+
+| Lever | How it moves |
 |---|---|
 | Dream outcome ↑ | "Tomorrow is always full. Just show up and do the job." |
-| Perceived likelihood ↑ | Specific numbers (10, 5, 80%), deadlines, and a written plan |
-| Time delay ↓ | First jobs in week one (Kickstart), 10 in 30 days |
-| Effort ↓ | They don't do any marketing. They show up, and film 3 clips a month |
-| Risk → 0 | First month free → ad money back → we work free → no minimum → walk away |
+| Perceived likelihood ↑ | First job in 7 days, measurable "full," written plan |
+| Time delay ↓ | First job in week one |
+| Effort ↓ | No marketing. They show up and film 3 clips a month |
+| Risk → 0 | $0 to start → ads covered if no job → fire me anytime → work free until full |
