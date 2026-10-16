@@ -7,10 +7,11 @@
 - **The 20%:** 20% of what your customers pay for jobs I book. Not profit.
 - **End of month 1:** If 20% is more than $997, pay just the extra. If not, you owe $0.
 - **Every month after:** At the end of the month, $997 or 20%, whichever is more.
+- **Ads:** I run and pay for your ads. Every Monday, you pay back last week's ad money. No markup. You see the receipt.
 
 **"What if the ads don't work?"**
 **First Job in 7 Days, or the Ads Are On Me**
-No job booked in your first 7 days of ads? I pay back that week's ad money. Then I pay for your ads until I book one.
+No job booked in your first 7 days of ads? That week's ad money is on me. So is every week after, until I book one.
 
 **"What if I pay and get nothing?"**
 **10 Jobs in 30 Days, or It's All Free**
@@ -29,7 +30,7 @@ Not Full in your first 3 months? You pay $0 each month until you are. I keep wor
 Once you're Full, normal pay starts again.
 
 **Your part**
-- Keep your ads on (paid on your own card): about $150 a day for 1 job a day, $300 a day for 2.
+- Keep your ad budget on: about $150 a day for 1 job a day, $300 a day for 2.
 - Show up to every job.
 - Send the few photos and videos I ask for each month.
 
