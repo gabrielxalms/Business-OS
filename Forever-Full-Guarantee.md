@@ -2,7 +2,7 @@
 
 Built for the **Forever Full Formula** from *$100M Offers* (Guarantees, performance pricing), *$100M Pricing* (billing plays), *$100M Money Models* (Pay Less Now or Pay More Later, card on file) and *$100M Closing*.
 
-**Price:** $997 every 4 weeks or **20% of every job I book**, whichever is more. $0 to start. No contract.
+**Price:** $997 every 4 weeks or **20% of every job I book**, whichever is more. $997 to start (counts toward your first bill). No contract.
 
 ---
 
@@ -10,7 +10,7 @@ Built for the **Forever Full Formula** from *$100M Offers* (Guarantees, performa
 
 | # | Name | When | Promise | Worry it kills |
 |---|---|---|---|---|
-| 0 | **Pay Later Start** | Cycle 1 (first 28 days) | $0 to start. No minimum in your first cycle. You pay only 20% of the jobs I booked, after the cycle | "I'm paying you *and* paying for ads before I've seen anything" |
+| 0 | **$997 Start, Credited** | Signing | $997 today counts toward your first bill. Cycle 1 you pay the greater of $997 or 20%, minus the $997 you already paid | "Am I paying twice?" |
 | 1 | **First Job in 7 Days, or the Ads Are On Me** | Week 1 | I book you a job within 7 days of ads going live, or I pay back that week's ad spend and keep paying for your ads until I do | "What if the ads just burn my money?" |
 | 2 | **Fire Me Anytime** | Every cycle | Text "you're fired" and you don't pay for the cycle you're in. Fire me within 7 days of a charge and that charge comes back too | "What if I don't like it?" |
 | 3 | **Forever Full or I Work Free** | First 3 cycles (84 days) | If none of your first 3 cycles is Full, you pay $0 every cycle after that until one is | "What if it never actually fills up?" |
@@ -34,12 +34,12 @@ Built for the **Forever Full Formula** from *$100M Offers* (Guarantees, performa
 
 - **One charge every 28 days.** Weekly billing gives a client 52 chances a year to text "you're fired," and a rainy week gets judged on its own. Hormozi calls this the **"lookback window"**: clients judge you on the time since their last bill.
 - 28-day cycles give you 13 cycles a year instead of 12. That only raises the $997 minimum (Hormozi's 8.3%). It doesn't change the 20%.
-- **Being honest about one difference:** Hormozi bills **up front**. You bill **after the cycle**, because nobody knows the 20% until the jobs are done, and because you promised "pay later." That part is our design, built on his churn and collection advice.
+- **Up front + after:** the $997 is collected **up front** at signing, as Hormozi prefers. The 20% is billed **after each cycle**, because nobody knows it until the jobs are done.
 
 ### The billing timeline
 | When | What happens |
 |---|---|
-| **Signing** | They e-sign the one-page agreement and the autopay authorization. Save a **card as the main payment method + a bank account as backup**. Charge **$0**. No payment method on file = no launch. |
+| **Signing** | They e-sign the one-page agreement and the autopay authorization. Save a **card as the main payment method + a bank account as backup**. Charge **$997** (counts toward Cycle 1). No payment method on file = no launch. |
 | **Day 1** | Ads go live. **Cycle 1 starts.** |
 | **Every week** | The weekly report doubles as a **running tab**: jobs done this cycle, the 20% so far, the expected charge. It also shows **totals since day 1**, so they judge the whole relationship and not one week. |
 | **Day 28** | The cycle closes. Send a statement: every job (pulled from Housecall Pro), the 20%, any minimum top-up, any credits, the total. |
@@ -64,20 +64,14 @@ Built for the **Forever Full Formula** from *$100M Offers* (Guarantees, performa
 - **Callbacks and warranty visits** are never new billable jobs.
 - **You stay admin of their Housecall Pro** and set the lead source tag ("GGJ") yourself, so jobs can't quietly disappear from the count.
 
-### Pay Later (*Money Models*: "Pay Less Now or Pay More Later")
-> Pay-later *"combines the benefits of a delayed payment and a satisfaction guarantee… Almost anyone will agree to pay later if they are satisfied."*
+### The $997 start
+- **$997 at signing, counted toward Cycle 1.** At the end of Cycle 1 they owe the greater of $997 or 20%, **minus the $997 already paid**. A typical client (~$3,108 of 20%) pays ~$2,111 more on day 31. A slow client owes nothing more.
+- **Why it's good** (*Money Models*): Hormozi wants *"cash up front… enough cash to cover the cost of the customer,"* and *"people fall off if they don't pay something."* It also proves their card works before you launch.
+- **The ad-spend sting is covered by First Job in 7 Days**: if the ads don't book a job in week one, the ads were on you.
+- **Say it like this:** "It's $997 to start, and that counts toward your first bill, so you're not paying twice."
 
-- **Cycle 1 has no $997 minimum.** They pay only 20% of jobs, on day 31. **Their first jobs pay you before they pay anything.**
-- Hormozi's warning: *"people fall off if they don't pay something… keep some skin in the game."* They do have skin in the game: their own ad spend, plus 20% of real jobs.
-
-### Optional: a Pay Now choice (cash on day one)
-Hormozi offers Pay Now **after** they accept Pay Later, and Pay Now gets a **real discount plus bonuses**:
-> **Pay Now:** $997 today, credited to your first statement. **Cycle 1 at 15% instead of 20%**, plus **[Street Cred + Contract Hunter]** free.
-
-That's Hormozi's "get the discount and bonuses instead of the guarantee": Pay Now gives up only the "no minimum in Cycle 1" part. All the other guarantees stay.
-
-### Cash flow (be ready for this)
-Your first money from a new client lands around **day 31**, roughly 5 weeks after signing. Meanwhile you pay for Housecall Pro, Quo, and any First Job refunds. **Start clients at least 2 weeks apart, keep about $5k in reserve, and push Pay Now.**
+### Cash flow
+You get $997 on day 0, which covers Housecall Pro, Quo and most First Job refunds. The rest of Cycle 1 lands around day 31.
 
 ---
 
@@ -98,13 +92,14 @@ Your first money from a new client lands around **day 31**, roughly 5 weeks afte
 
 - *$100M Offers:* *"Satisfaction/No questions asked is the highest form of guarantee."* His gym version: **2 claims out of 4,000 sales.**
 - **Why "the cycle you're in":** it runs forever, so refunding everything ever paid could cost you a year of revenue. Refunding nothing ("just cancel") isn't a guarantee, because there's no contract anyway. One cycle is the smallest refund that still has teeth. They never pay for a cycle they weren't happy with.
+- **Fired during Cycle 1?** The $997 start was a prepayment for Cycle 1, so it comes back.
 - **Why the 7-day window:** without it, a client charged $997 after a slow cycle fires you the next day and gets nothing back. That breaks "fire me and get it back."
 - **Jobs I already booked that you do after firing me** are 20%, on **one final statement** 28 days later, charged under the same autopay authorization. Say this out loud on the call so it's never a surprise.
 - **One condition** (*Money Models*: *"they can't say you suck if they never try it"*): that cycle, they kept the ads funded and showed up to the jobs you booked. Never ask **why** they're unhappy, only **whether they used it**.
 - **Firing is final:**
   > "Fire me anytime and get your money back. Just know your town opens up the moment you do. It goes to the next contractor on my waitlist, and I can't take you back."
 
-  This also stops the loop where someone fires you to dodge the minimum, re-signs, and gets a fresh Pay Later cycle.
+  This also stops the loop where someone fires you to dodge the minimum, re-signs, and gets a fresh First Job guarantee.
 - **Your worst case:** about one cycle's fee ($997 to ~$3,108).
 
 **How Hormozi pitched his (adapted):**
@@ -161,9 +156,9 @@ Your first money from a new client lands around **day 31**, roughly 5 weeks afte
 
 ## 6. Copy for "THE DEAL" (paste in)
 
-> **Price:** $0 to start. Then $997 every 4 weeks or 20% of every job I book, whichever is more. Ads go on your own card. No contract.
+> **Price:** $997 to start, counted toward your first bill. Then $997 every 4 weeks or 20% of every job I book, whichever is more. Ads go on your own card. No contract.
 >
-> **Pay Later:** No minimum in your first 4 weeks. You only pay 20% of the jobs I booked, after they're done. Your first jobs pay me. You don't.
+> **No double-paying:** your $997 start counts toward your first bill. After that, you're billed every 4 weeks, after the jobs are done.
 >
 > **Guarantee #1: First Job in 7 Days, or the Ads Are On Me.** If I don't book you a job in your first 7 days, I pay back that week's ads and keep paying them until I do.
 >
@@ -182,11 +177,11 @@ Your first money from a new client lands around **day 31**, roughly 5 weeks afte
 **Order** (from your notes): ask for the sale on the core → reveal the bonuses as a surprise → if they hesitate, use the guarantee that matches their worry, then ask again.
 
 **Close** (adapted from the ACQ Closer Handbook: *"It's [PRICE] do want to use Visa, Amex, Mastercard, or Discover?"*):
-> "It's $997 every 4 weeks or 20% of every job I book, whichever is more. Nothing's due today. Which card do you want on file?"
+> "It's $997 every 4 weeks or 20% of every job I book, whichever is more. It's $997 to start, and that counts toward your first bill. Which card do you want to use?"
 
 | They say | You say |
 |---|---|
-| "I can't spend on ads *and* pay you before I see anything." | Pay Later + First Job in 7 Days: "Nothing's due today. Your first jobs pay me. And if the ads don't book a job in a week, they were on me." |
+| "I can't spend on ads *and* pay you before I see anything." | First Job in 7 Days + Fire Me Anytime: "If the ads don't book a job in a week, they were on me. And if you fire me, the $997 comes back." |
 | "I've burned money on ads before." | First Job in 7 Days, or the Ads Are On Me |
 | "What if I don't like working with you?" | Fire Me Anytime + no contract |
 | "Will this actually fill my schedule?" | Forever Full or I Work Free |
@@ -194,7 +189,7 @@ Your first money from a new client lands around **day 31**, roughly 5 weeks afte
 | "I don't trust someone with my customers." | Safe Hands + "if you ever fire me, you keep your number and customer list" |
 
 **Best case / worst case** (*Offers* and *Closing*):
-> "Best case, tomorrow's full every day and you're hiring another crew. Worst case, the ads don't book a job in week one and I pay for them, or you fire me and don't pay for that cycle. Either way you never pay me a dime that didn't come from a job I booked. The only option *guaranteed* to leave tomorrow empty is not starting."
+> "Best case, tomorrow's full every day and you're hiring another crew. Worst case, the ads don't book a job in week one and I pay for them, or you fire me and don't pay for that cycle. Either way, your risk is capped. The only option *guaranteed* to leave tomorrow empty is not starting."
 
 ---
 
@@ -202,7 +197,6 @@ Your first money from a new client lands around **day 31**, roughly 5 weeks afte
 
 | What triggers | You lose | What has to go wrong |
 |---|---|---|
-| Pay Later, Cycle 1 | The $997 minimum, only if Cycle 1 books under ~9 jobs | A slow first cycle |
 | First Job in 7 Days | ~$1,050 + ~$1,050/week until the first job (walk-away at 21 days) | A full week of ads books **zero** jobs |
 | Fire Me Anytime | About one cycle's fee ($997 to ~$3,108) | They're unhappy. Hormozi: 2 claims in 4,000 |
 | Forever Full | 20% of jobs per cycle until Full (~$2.2k at 20 jobs) | No Full cycle in the first 84 days, with the budget funded |
@@ -230,7 +224,7 @@ At a ~$555 job: **$150 in ads + $111 (20%) ≈ $261 to get each job, about 47% o
 
 ## 10. Agreement wording (one paragraph, have it checked for your state)
 
-> **Fees and Billing.** The day Client's ads go live is Day 1 and starts the first 28-day Billing Cycle. For each cycle Client pays the greater of $997 or 20% of Billable Job Revenue. A "Billable Job" is any job from a lead that came through Gabe Gets Jobs ("GGJ") systems. "Billable Job Revenue" is the higher of the accepted quote or the final invoice, before sales tax and tips, for Billable Jobs scheduled in that cycle. If Client no-shows or cancels a Billable Job without a valid reason, the fee is 20% of its quote. If the homeowner cancels or rejects an on-site re-quote, the fee is 20% of any deposit Client keeps. GGJ sends a statement at the end of each cycle and charges Client's main payment method 3 days later. Client authorizes GGJ to retry a declined charge and to charge Client's backup payment method. Billing errors reported within 7 days of a statement are corrected. Refunded or unpaid jobs are credited. GGJ stays an admin of Client's Housecall Pro account while this agreement is active. **Guarantees:** (0) Pay Later: Cycle 1 has no $997 minimum. (1) First Job in 7 Days: if GGJ books no job with a deposit by the end of Day 7, GGJ pays back Client's Day 1–7 ad spend, and each following week's, until the first job. (2) Fire Me Anytime: if Client texts "you're fired," the current cycle is not billed, any charge made in the prior 7 days is refunded, and jobs GGJ already booked that Client completes afterward are billed at 20% on one final statement. Client's territory is then released and the guarantees in (0)–(2) do not apply to any later agreement. (3) Forever Full: if none of Cycles 1–3 is a Full Cycle, Client pays $0 for each later cycle until the first Full Cycle. Each guarantee applies only if Client met that guarantee's conditions. Rates are locked for the first 6 cycles. After that, changes take 30 days' written notice and apply only to jobs booked afterward. There is no long-term contract.
+> **Fees and Billing.** The day Client's ads go live is Day 1 and starts the first 28-day Billing Cycle. For each cycle Client pays the greater of $997 or 20% of Billable Job Revenue. A "Billable Job" is any job from a lead that came through Gabe Gets Jobs ("GGJ") systems. "Billable Job Revenue" is the higher of the accepted quote or the final invoice, before sales tax and tips, for Billable Jobs scheduled in that cycle. If Client no-shows or cancels a Billable Job without a valid reason, the fee is 20% of its quote. If the homeowner cancels or rejects an on-site re-quote, the fee is 20% of any deposit Client keeps. GGJ sends a statement at the end of each cycle and charges Client's main payment method 3 days later. Client authorizes GGJ to retry a declined charge and to charge Client's backup payment method. Billing errors reported within 7 days of a statement are corrected. Refunded or unpaid jobs are credited. GGJ stays an admin of Client's Housecall Pro account while this agreement is active. Client pays $997 at signing, credited against the Cycle 1 charge. **Guarantees:** (1) First Job in 7 Days: if GGJ books no job with a deposit by the end of Day 7, GGJ pays back Client's Day 1–7 ad spend, and each following week's, until the first job. (2) Fire Me Anytime: if Client texts "you're fired," the current cycle is not billed (in Cycle 1, the $997 paid at signing is refunded), any charge made in the prior 7 days is refunded, and jobs GGJ already booked that Client completes afterward are billed at 20% on one final statement. Client's territory is then released and the guarantees in (1)–(2) do not apply to any later agreement. (3) Forever Full: if none of Cycles 1–3 is a Full Cycle, Client pays $0 for each later cycle until the first Full Cycle. Each guarantee applies only if Client met that guarantee's conditions. Rates are locked for the first 6 cycles. After that, changes take 30 days' written notice and apply only to jobs booked afterward. There is no long-term contract.
 
 This isn't legal advice. Have the agreement, the card fee, and the autopay authorization checked for your state, especially if a client uses a **personal** bank account for autopay.
 
@@ -254,4 +248,4 @@ This isn't legal advice. Have the agreement, the card fee, and the autopay autho
 | Perceived likelihood ↑ | First job in 7 days, measurable "Full," a 7 pm text every night |
 | Time delay ↓ | First job in week one |
 | Effort ↓ | No marketing. They show up and film 3 clips per cycle |
-| Risk → 0 | $0 to start → ads covered if no job → fire me anytime → work free until Full |
+| Risk → 0 | $997 start counts toward bill → ads covered if no job → fire me anytime → work free until Full |
