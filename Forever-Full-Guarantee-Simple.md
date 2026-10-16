@@ -4,9 +4,9 @@
 
 **How you pay**
 - **$997 to start.** It counts toward month 1.
-- **The 20%:** 20% of what your customers pay for jobs I book. Not profit.
-- **End of month 1:** If 20% is more than $997, pay just the extra. If not, you owe $0.
-- **Every month after:** At the end of the month, $997 or 20%, whichever is more.
+- **My cut:** 20% of every job I book. A $500 job = $100 to me.
+- **End of month 1:** If my cut is more than $997, pay just the extra. If not, you owe $0.
+- **Every month after:** At the end of the month, $997 or my cut, whichever is more.
 - **Ads:** I run and pay for your ads. Every Monday, you pay back last week's ad money. No markup. You see the receipt.
 
 **"What if the ads don't work?"**
