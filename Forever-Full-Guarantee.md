@@ -85,7 +85,16 @@ This uses the "buy today, get the $1,000 bonus" idea from your notes. *If too ma
 
 **Booked Job:** a job in their service area, scheduled in Housecall Pro **with a deposit taken**, that **came from your systems**: ads, Google, Kickstart reactivation texts, Hype Machine referrals, Comeback Customers rebooks. You bill 20% of the final invoice once it's done. **If *they* cancel a job you booked, you still bill 20% of the quote.**
 
-**Daily Target:** set on the onboarding call. It's how many jobs they want booked for tomorrow, at least **1 per crew**. Each job per day needs about **$150/day in ads**. (1 crew → $150/day, 2 crews → $300/day. "No crew limit" still holds; the budget scales with it.)
+**Daily Target:** set on the onboarding call: how many jobs each crew should have booked for tomorrow.
+
+| Crew size | "Full" range | **Guaranteed Daily Target** | Ad budget needed (~$150/day per job/day) |
+|---|---|---|---|
+| 1 person | 1–2 jobs/day | **1 job/day** | ~$150/day |
+| 2 people | 2–3 jobs/day | **2 jobs/day** | ~$300/day |
+
+- **Guarantee the bottom of the range and sell the top as the goal.** Hormozi: guarantee what you reliably deliver. Hitting the top of the range is upside, and you show it in the weekly report.
+- **The budget scales with the target.** A 2-person crew at 3 jobs/day needs ~$450/day. If they fund less, their Daily Target is whatever their budget covers (e.g. $150/day = 1 job/day, even for a 2-person crew). That keeps "No crew limit" true without trapping you.
+- Several crews? Add them up. Two 2-person crews = 4 jobs/day guaranteed at ~$600/day.
 
 **Forever Full:** tomorrow's Daily Target is booked by **7 pm the night before** on at least **80% of workdays** (about 18 of 22) **for a calendar month**. Both of you can see it in Housecall Pro. Raise it to 90% once your data backs it.
 
@@ -162,7 +171,7 @@ Hormozi: tie the guarantee to *the things they must do to be successful*. More c
 **Before you launch:**
 - **Prove your ~$150-per-job number** with one test campaign before you promise ad-spend refunds. Guarantee 1 and the Daily Target math both depend on it.
 - **Don't count on Google Local Service Ads in week one.** Google's background and license checks can take weeks. Guarantee 1 says "from the ads" so Facebook/Instagram carry it, and the Kickstart past-customer texts are extra.
-- **Qualify hard.** Only take contractors who can fund $150/day per crew, have a crew free, and charge prices that sell. With 3 spots, one bad fit is a third of your business.
+- **Qualify hard.** Only take contractors who can fund about $150/day **per job per day they want filled** ($150 for a solo operator, ~$300 for a 2-person crew), have a crew free, and charge prices that sell. With 3 spots, one bad fit is a third of your business.
 
 ---
 
