@@ -12,6 +12,9 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 - **Change the first frame, not just the words.** Meta groups ads that look almost the same and treats them as one ad. If all 10 hooks are you saying different lines in the same spot, Meta may treat them as one ad. Every hook below comes with its **own opening shot** (a different place, person, format or prop). Film it that way.
 - **Meta's personal-attributes policy.** You can't assert or imply things like a viewer's age, health, disability or financial situation ("Are you a retiree?", "Got a bad back?", "Can't afford…"). The hooks below talk around that ("If climbing a ladder isn't your idea of a Saturday…"). Calling out a location ("Crozet homeowners") is fine.
 - **Proof wins.** Hormozi's audit of his own ad account found that about 80% of his winning ads "told one story: this product works." That's why your process body worked: it *showed* the work. The reviews body should do the same thing for trust.
+- **Your own data says the same thing: your best ads show someone cleaning.** Either Gabe talking while he cleans, or the crew cleaning on screen. So that's the rule for every ad in this doc:
+  1. **Every body is filmed while someone is cleaning.** No sitting-down talking heads.
+  2. **Cleaning is on screen by second 3 of every ad.** If a hook opens on something else (a map, a phone, an AI problem shot), cut to real cleaning within 2–3 seconds.
 
 ### Fill these in before filming (never invent them)
 
@@ -40,7 +43,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 **How to get a body that sounds natural:**
 
 1. **Don't memorize the example takes.** Each body below has **talking points** (the beats you have to hit) and an **example take** that shows how it should *sound*. Read the example once to get the feel, then put it away and say it your way. A memorized "um" sounds more fake than a script.
-2. **Talk while you work.** Film the body on a real job: walking around the house, wiping a sill, on the tailgate. When your hands are busy, you talk normally.
+2. **Always be cleaning on camera.** This is what wins for you. Gabe talks *while* squeegeeing, pulling screens or running the surface cleaner, or talks while the crew works in the frame behind him. Prop the phone on a ladder or have someone hold it. When your hands are busy, you also talk more naturally. Pause the work for a second when you want to make a point, then go back to it.
 3. **Talk to one person.** Picture a neighbor leaning over the fence asking "so what do you guys actually do?" and answer them.
 4. **Do 3–5 takes and keep the most real one** that still hits every talking point. It's usually not the cleanest take.
 5. **Keep the stumbles in editing.** Only cut dead air longer than about a second, or a tangent that loses the thread. Leave the "um"s, restarts, laughs and "oh, look at this."
@@ -50,9 +53,10 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 **Rule: AI can show the *problem*. It can't show *your* results, *your* crew, *your* customers or *your* reviews.**
 
-**The bodies have to be real people and real footage.** Two reasons:
+**The bodies have to be real people and real footage.** Three reasons:
 1. **AI can't fake "unscripted" yet.** AI voices and avatars saying "um" and pausing sound uncanny. The natural feel you want only comes from you actually talking.
 2. **The body is the proof.** It's the part that says "this company is real and does good work." If it's AI, there's no proof in it.
+3. **Real cleaning is what makes your winners win.** It's also what AI video gets wrong most visibly: squeegee strokes, water sheeting off glass, a surface cleaner on concrete. If people are stopping to watch real work, that's the one part you never fake.
 
 **Legal lines:**
 - **No AI-generated customers, testimonials or reviews.** The FTC rule on fake reviews and testimonials (in effect since October 2024) bans them, and that includes AI-generated ones.
@@ -61,6 +65,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 **Making AI hook clips:**
 - **Make them look like Albemarle:** brick colonials, farmhouses, vinyl siding, Blue Ridge in the background, Virginia trees. No palm trees or stucco.
+- **Use your reference photos.** Upload photos of the homes and areas you work in, and the AI problem shots can match your actual service area. If your equipment shows up in an AI shot (e.g., your ladder against a house), use the equipment photos so it matches your real gear. That way the cut from the AI hook to the real body doesn't jump.
 - **AI makes the "different first frame" rule cheap** (see section 0). Generate a different setting for each hook so Meta treats them as separate ads.
 - **Keep each clip 2–4 seconds,** then cut to real footage when the body starts.
 
@@ -85,7 +90,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 ## 2. BODY A — "The Process" (your current winner, v2)
 
-**Format:** Demonstration. Walk-and-talk on a real job, with you narrating while the crew works.
+**Format:** Demonstration. Gabe walking and talking on a real job, cleaning as he goes, with the crew working in the frame.
 **Runtime:** about 45–60 seconds. Natural takes run longer, and that's fine.
 **If your current process body is working, keep running it.** This is a second version to test next to it, and its hooks also work on your original.
 
@@ -140,7 +145,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 ## 3. BODY B — "Trust and Reviews" (new: the trust-building body)
 
-**Format:** Owner talking to camera, sitting on the tailgate or in the truck, holding their phone. Real review screenshots pop up on screen as they're mentioned.
+**Format:** Gabe talking while cleaning a window (or with the crew working behind him). Real review screenshots pop up as overlays as he mentions them. When he "reads" a review, he can pause, pull out his phone, read it, and go back to the squeegee.
 **Runtime:** about 45–60 seconds.
 **Built around 3 questions every homeowner silently asks before letting someone near their house: Are you insured? Are you any good? What if I'm not happy?**
 
@@ -176,11 +181,11 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 | # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
-| B-H01 | "Almost 50 homeowners around Charlottesville gave us 5 stars. Here's what they actually said." | Phone screen scrolling your Google reviews | Comparison shoppers |
+| B-H01 | "Almost 50 homeowners around Charlottesville gave us 5 stars. Here's what they actually said." | Gabe mid-squeegee holding up his phone, Google reviews on screen | Comparison shoppers |
 | B-H02 | "Before you let anyone on a ladder at your house, watch this." | Tech on a ladder with a stabilizer, shot from below | Cautious homeowners |
 | B-H03 | "Don't hire a window cleaner until you ask these 3 questions." | Owner counting on fingers; on screen: "3 QUESTIONS" | Active shoppers (this one matches the body best) |
 | B-H04 | ⚠️ "Forest Lakes — we've cleaned [#] homes in your neighborhood. Here's what your neighbors said." | Slow drive down a recognizable street | Neighborhood callout. **Make one version per neighborhood** (Old Trail, Glenmore, Belvedere, Hollymead) |
-| B-H05 | ⚠️ "This is the review that made us pull the truck over." | Owner in the driver's seat, reading their phone | Everyone (story) |
+| B-H05 | ⚠️ "This is the review that made us pull the truck over." | Gabe on the ladder stops cleaning, pulls out his phone and reads | Everyone (story) |
 | B-H06 | "Letting a stranger into your house is a big deal. We get it." | Front door opens; tech in uniform with shoe covers on | Cautious homeowners |
 | B-H07 | ⚠️ "The #1 thing homeowners tell us after their first cleaning…" | On-screen quote: *"I wish I'd called you years ago."* | Fence-sitters |
 | B-H08 | ⚠️ "Realtors — this is who to call before listing photos." | Yard sign, then a sparkling front window | Realtors and home sellers |
@@ -191,7 +196,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 ## 4. BODY C — "The Offer" (your 50%-off ad, tightened)
 
-**Format:** Offer-driven. Owner talking casually by the truck, cut with fast cleaning B-roll.
+**Format:** Offer-driven. Gabe talking mid-job, squeegee in hand, cut with fast cleaning B-roll.
 **Runtime:** about 30–40 seconds.
 
 ### The guarantee: 30-Day Spotless Guarantee
@@ -237,7 +242,7 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 | C-H04 | "Your windows are crying out to be cleaned, and this week we're making it easy." | Window with rain streaks running down it ("crying") | Your original angle |
 | C-H05 | "Stop. Put the ladder down." | AI shot of someone on a ladder with a bucket; owner says the line as a voiceover | DIYers |
 | C-H06 | "Ivy, Keswick, Glenmore — we've got 8 openings in your area this week." | Map of Albemarle with pins dropping | Neighborhood callout |
-| C-H07 | "Why would a window cleaner give away half price? Honest answer." | Owner shrugging next to the truck | Skeptics (leads straight into the reason) |
+| C-H07 | "Why would a window cleaner give away half price? Honest answer." | Gabe shrugs mid-squeegee, then goes back to work | Skeptics (leads straight into the reason) |
 | C-H08 | "When's the last time someone actually cleaned your windows? If you have to think about it…" | Close-up of a cobweb in a window corner | Procrastinators |
 | C-H09 | "If climbing a ladder isn't your idea of a Saturday, this is for you." | Ladder leaning against a two-story house, nobody on it | People who'd rather not climb (policy-safe wording) |
 | C-H10 | "If your windows aren't spotless for 30 days, we come back free. And this week, it's half off." | Owner wiping a finger across the glass: clean | People worried about risk |
@@ -246,7 +251,7 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 
 ## 5. BODY D — "Meet the Owners" (adapted from the Mint Window Cleaning ad)
 
-**Format:** Founder story. All three owners talking to camera, finishing each other's sentences, with team and job B-roll.
+**Format:** Founder story. All three owners *working on the same house* while they talk: one on the ladder, one squeegeeing, one washing screens. The camera moves between them as each one speaks, and they jump into each other's sentences.
 **Runtime:** about 45–60 seconds.
 
 **Don't copy Mint's numbers or claims.** "1,500 reviews / highest rated in Utah" works for them because it's true. The *structure* is what you're borrowing: who we are → why we started → proof → gratitude → invitation. Your real numbers, even small ones, work in that structure. "We're a small team and the owners still do the walk-through on every house" is a selling point.
@@ -286,14 +291,14 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 
 | # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
-| D-H01 | "Hi, we're Gabe, [PARTNER 1] and [PARTNER 2], and we clean windows in Albemarle County." | All three owners in front of the truck, waving | Locals who buy from people |
+| D-H01 | "Hi, we're Gabe, [PARTNER 1] and [PARTNER 2], and we clean windows in Albemarle County." | All three owners mid-job (ladder, squeegee, screens) turn and wave | Locals who buy from people |
 | D-H02 | "We started this company because nobody around here would show up when they said they would." | Owner checking a watch in an empty driveway | People burned by contractors |
 | D-H03 | "This is our entire team." | Wide shot of the whole crew in front of the trucks | Small-business supporters |
 | D-H04 | "We're not a franchise. We're your neighbors." | Owners walking somewhere recognizably local | Shop-local buyers |
 | D-H05 | ⚠️ "[YEARS] years ago it was just me, one ladder, and a bucket in the back of my car." | Old phone photo from the early days | Everyone (story) |
 | D-H06 | "If a contractor has ever ghosted you, this one's for you." | Phone screen: unanswered texts reading *"Hey, are you still coming?"* | People burned by contractors |
-| D-H07 | "Charlottesville, we just want to say thank you." | Owners sitting on the tailgate, sincere | Warm audience, past customers' friends |
-| D-H08 | "Ever wonder who's actually behind the company you hire? Hi, it's us." | Owners pop into frame | Curious viewers |
+| D-H07 | "Charlottesville, we just want to say thank you." | Owners pausing mid-job at a customer's house, sincere | Warm audience, past customers' friends |
+| D-H08 | "Ever wonder who's actually behind the company you hire? Hi, it's us." | Owners pop up from behind a window they're cleaning | Curious viewers |
 | D-H09 | ⚠️ "We live in [TOWN]. That's exactly why we can't do a bad job." | Owners at a local spot in your town | Your home town. **Make one per town you actually live or work in** |
 | D-H10 | "Why we never send anyone to your house we wouldn't let into ours." | Owner handing a new tech a uniform shirt | Cautious homeowners |
 
