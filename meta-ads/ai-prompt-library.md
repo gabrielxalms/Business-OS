@@ -1,6 +1,6 @@
 # TideWater AI Prompt Library (Higgsfield)
 
-Companion to `albemarle-window-power-washing.md`. AI is only used for **problem shots** in hooks. All cleaning, crew, owners, results and reviews stay real (see section 1 of the ad doc).
+Companion to `albemarle-window-power-washing.md`. AI is only used for **scene and bright-side shots** in hooks (Hopkins: show the result, not the grime). All cleaning, crew, owners, results and reviews stay real (see section 1 of the ad doc).
 
 Workflow reference: `higgsfield-prompting-reference.md` (uploaded by Gabe). Build assets first, register them as Elements with exact @names, then write the video prompts.
 
@@ -32,6 +32,8 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 - Everyday stuff: a car in the driveway (no logo, plate unreadable), trash bin, coiled hose, doormat, house numbers, coach light, gutters with a few leaves, blinds at different heights.
 - Imperfection: uneven shrubs (one overgrown, one browning), faded patchy mulch, uneven lawn with thin patches, leaves clumped unevenly (curb, beds, under trees), mixed early-November trees (green, orange, brown, one partly bare), faint dirt splash on the brick, stained and cracked sidewalk.
 
+**Bright side (Hopkins):** AI clips show the *result and the feeling*: sun pouring through spotless glass, a sparkling, guest-ready house. No grime close-ups, no homeowner failing at a task.
+
 **Always exclude (unless the clip calls for it):** people, animals, text, signs, logos, holiday decorations, ladders, pumpkins, dirty or streaked windows, perfect symmetry, pristine surfaces.
 
 ---
@@ -40,10 +42,9 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 
 | @name | What it is | Used in | Status |
 |---|---|---|---|
-| `@loc_home` | Exterior: 2-story light gray vinyl home, brick skirt, covered porch, black door with sidelights, garage on the left, sunny autumn subdivision. 9:16. | B-H08, C-H02, C-H05, C-H09 (if not in B-roll) | ✅ Done |
-| `@loc_home_int` | Interior: living room window of the same house, seen from inside | A-H05, C-H04, C-H08 | ✅ Done |
+| `@loc_home` | Exterior: 2-story light gray vinyl home, brick skirt, covered porch, black door with sidelights, garage on the left, sunny autumn subdivision. 9:16. | B-H08, C-H02, C-H05 (garage), C-H08, C-H09 (if not in B-roll) | ✅ Done |
+| `@loc_home_int` | Interior: living room window of the same house, seen from inside | A-H05, C-H04 | ✅ Done |
 | `@prop_sign` | Generic realtor yard sign, no brand | B-H08 | Later |
-| `@homeowner` | Generic homeowner character sheet for the ladder shot | C-H05 | Later |
 
 Rules from the Higgsfield reference: register each element under **exactly** the name used in the prompts. Any change to an asset (e.g. the house with a wreath) gets its own image, not a text instruction, if the model keeps "repairing" it.
 
@@ -57,5 +58,5 @@ Built in three passes: base generation (Seedream / GPT Image 2), then a realism 
 ### `@loc_home_int`: approved
 Seedream 5.0 Pro, 9:16, with `@loc_home` attached as a reference. A white six-over-six window in the center, the sunny suburban street outside, a lived-in living room (uneven blinds, pothos and a photo on the sill, couch edge, worn rug).
 
-### A-H05 (video, Seedance 2.5): "Here's why your windows look worse after you clean them yourself."
-Settings: Seedance 2.5, 9:16, 5 s, 1080p, audio on (sound effects only). Reference: `@loc_home_int`. Full prompt in the chat; log it here once it's approved.
+### A-H05 (video, Seedance 2.5): "That first sunny morning after your windows get cleaned…"
+Rewritten for Hopkins (bright side, never insult the customer). Settings: Seedance 2.5, 9:16, 5 s, 1080p, audio on (sound effects only). Reference: `@loc_home_int`. Full prompt in the chat; log it here once it's approved.

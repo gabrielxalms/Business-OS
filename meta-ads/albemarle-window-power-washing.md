@@ -12,6 +12,14 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 - **Change the first frame, not just the words.** Meta groups ads that look almost the same and treats them as one ad. If all 10 hooks are you saying different lines in the same spot, Meta may treat them as one ad. Every hook below comes with its **own opening shot** (a different place, person, format or prop). Film it that way.
 - **Meta's personal-attributes policy.** You can't assert or imply things like a viewer's age, health, disability or financial situation ("Are you a retiree?", "Got a bad back?", "Can't afford…"). The hooks below talk around that ("If climbing a ladder isn't your idea of a Saturday…"). Calling out a location ("Crozet homeowners") is fine.
 - **Proof wins.** Hormozi's audit of his own ad account found that about 80% of his winning ads "told one story: this product works." That's why your process body worked: it *showed* the work. The reviews body should do the same thing for trust.
+- **Hopkins' rules (*Scientific Advertising*, in this repo). Every line in this doc has to pass them:**
+  1. **Never insult the customer.** Blame the pollen, the clay, the well water or the paper towels, never the homeowner's effort, home or judgment. Never imply neglect. Hopkins: *don't say "Why do you neglect this offer?" That suggests that people are neglecting.*
+  2. **Show the bright side.** Lead with the result and the feeling (sun through spotless glass, the view, a guest-ready home), not the grime. Hopkins found positive ads outpulled negative ones *"four to one."* Problem footage only appears as a quick moment inside a demonstration of your work.
+  3. **Never knock competitors.** No "most window cleaners skip…" and no "the last guy ghosted you." *"To attack a rival is never good advertising."*
+  4. **Tell people what to do, not what to avoid.** "3 questions to ask," not "Don't hire anyone until…"
+  5. **Be specific.** "Almost 50 reviews," "30 days," "8 spots," "screens hand-washed." *"Platitudes and generalities roll off the human understanding."*
+  6. **Offer service, don't beg for the sale.** The free quote is your "sample." Assume they'll act ("Tap below to grab a spot"), and invite them to follow the crowd ("your neighbors in Old Trail").
+  7. **Give the reason why** (the slow-season discount) and **test everything** (the Body-Hook-CTA naming is your keyed test).
 - **Your own data says the same thing: your best ads show someone cleaning.** Either Gabe talking while he cleans, or the crew cleaning on screen. So that's the rule for every ad in this doc:
   1. **Every body is filmed while someone is cleaning.** No sitting-down talking heads.
   2. **Cleaning is on screen by second 3 of every ad.** If a hook opens on something else (a map, a phone, an AI problem shot), cut to real cleaning within 2–3 seconds.
@@ -51,7 +59,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 ### What can be AI and what has to be real
 
-**Rule: AI can show the *problem*. It can't show *your* results, *your* crew, *your* customers or *your* reviews.**
+**Rule: AI can set the *scene* and show the *bright side* (sun through clear glass, a guest-ready front door). It can't show *your* crew's work, *your* customers or *your* reviews.**
 
 **The bodies have to be real people and real footage.** Three reasons:
 1. **AI can't fake "unscripted" yet.** AI voices and avatars saying "um" and pausing sound uncanny. The natural feel you want only comes from you actually talking.
@@ -71,10 +79,10 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 | Footage | Hooks |
 |---|---|
-| ✅ **AI is fine** (illustrating the problem) | A-H03, A-H04, A-H05, A-H06, B-H08, B-H09 (map graphic), C-H02, C-H04, C-H05, C-H06 (map graphic), C-H08, C-H09, D-H06 (phone mockup) |
-| 🔀 **AI first, then real** | A-H02: AI hazy-view shot, then cut to your real clean window |
+| ✅ **AI is fine** (scenes and the bright-side result, never your crew's work) | A-H05, B-H08, C-H02, C-H04, C-H05, C-H08, C-H09, B-H09 (map graphic), C-H06 (map graphic), D-H06 (phone mockup) |
+| 🔀 **Real if you have it, AI if not** | A-H02: a clear window framing the mountain view |
 | 🔤 **Text on screen, no footage needed** | B-H07 (quote must be real), B-H10 (real review screenshots), C-H01 (text over B-roll) |
-| 🎥 **Has to be real** (your crew, owners, customers, results) | A-H01, A-H07, A-H08, A-H09, A-H10, B-H01–B-H06, C-H03, C-H07, C-H10, D-H01–D-H05, D-H07–D-H10 |
+| 🎥 **Has to be real** (your crew, owners, customers, results) | A-H01, A-H03, A-H04, A-H06, A-H07, A-H08, A-H09, A-H10, B-H01–B-H06, C-H03, C-H07, C-H10, D-H01–D-H05, D-H07–D-H10 |
 
 ### Your existing B-roll comes first
 
@@ -83,8 +91,9 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 - **Bodies = Gabe's real audio over the real B-roll.** Record yourself talking through each body's talking points (loose, unscripted), and lay it over the cleaning footage. That's real voice plus real cleaning, the same ingredients as your winners. On-camera clips of Gabe cleaning are still the best version when you can get them.
 - **Body B:** audio plus review screenshots over the B-roll. **Body D:** all three owners' audio over the B-roll, with real photos of the three of you cut in when each one starts talking.
 - **Hooks your B-roll already covers:** A-H01 (squeegee stripe), A-H07 (surface cleaner on concrete), C-H01 (text over a squeegee shot).
-- **Check your B-roll before generating these with AI:** A-H02 (the clean half), A-H03 (spotted glass), A-H04 (dirty track), A-H06 (green siding), C-H09 (ladder against a house). If the shot is in your footage, use it.
-- **Still need AI or graphics (your B-roll won't have these):** A-H05 (DIY streaks + paper towel), B-H08 (yard sign), C-H02 (holiday door), C-H04 (rain streaks), C-H05 (homeowner on a ladder), C-H08 (cobweb), plus graphics for B-H09, C-H06 and D-H06.
+- **Your B-roll also covers (Hopkins rewrite):** A-H03 (spot removal), A-H04 (track vacuuming), A-H06 (siding soft wash), and C-H09 (ladder against a house) if you have it.
+- **Check your footage first:** A-H02 (a clear window with a mountain view). Use AI only if you don't have it.
+- **Still need AI or graphics:** A-H05 (sun through a spotless window), B-H08 (yard sign at a sparkling house), C-H02 (sunlit holiday door), C-H04 (raindrops, then sun), C-H05 (ladder hung up in the garage), C-H08 (whole house sparkling in the sun), plus graphics for B-H09, C-H06 and D-H06 (friendly text mockup).
 - **Hooks with Gabe on camera** (B-H03, C-H07, C-H10, the D hooks, etc.) need a quick phone clip. If you can't film one, turn it into a voiceover over B-roll; it'll be a bit weaker.
 
 ### Filming day (real footage only)
@@ -110,7 +119,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 2. Shoe covers go on before you go inside. *[booties at the door]*
 3. Screens get hand-washed, because a dirty screen makes a clean window look dirty. *[scrubbing screens]*
 4. Scrub, squeegee, then hand-detail the edges. *[squeegee pass]*
-5. The tracks and sills (show a gross one). *[gross track, then clean track]*
+5. The tracks and sills, the detail people notice. *[vacuuming a track until it's spotless]*
 6. ⚠️ Purified water on high glass.
 7. Siding and red clay: soft wash, no blasting. *[siding reveal, concrete stripe]*
 8. The walk-through and the 30-day guarantee.
@@ -119,15 +128,15 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 > So, uh, this is basically what happens when we come out to your house.
 >
-> Um, first thing, you get a text when we're on the way, so you're not sitting there like… *are they coming or not?*
+> Um, first thing, you get a text when we're on the way, so you know exactly when we'll be there.
 >
 > Shoe covers go on before we come inside. Every time.
 >
-> Then we pull all the screens and wash 'em by hand, because, honestly, this is the thing nobody thinks about. You can have a perfectly clean window, but if the screen's dirty… it still looks dirty.
+> Then we pull all the screens and wash 'em by hand, because, honestly, this is the part that makes the biggest difference. You can have a perfectly clean window, but if the screen's dirty… it still looks dirty.
 >
 > Then each pane, we scrub it, squeegee it, and go around the edges by hand so there's no, like, little drips in the corners.
 >
-> And then, okay, this is my favorite part. Look at this. *[points at a gross track]* Nobody does this. We vacuum all that out, wipe the sills…
+> And then, okay, this is my favorite part. The tracks. *[vacuums a track]* We vacuum 'em all out, wipe the sills… this is the part people always notice after.
 >
 > ⚠️ Up high we use purified water, so it dries without spots.
 >
@@ -139,18 +148,18 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 ### Hooks for Body A (curiosity, problem and demonstration)
 
-| # | Hook (say it and put it on screen) | First 2 seconds (visual) | Who it finds |
+| # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
-| A-H01 | "This is what a year of Virginia pollen looks like coming off one window." | Tight shot: one squeegee pass cuts a clean stripe through a yellow film | Everyone (curiosity) |
-| A-H02 | "Crozet — you paid for that Blue Ridge view. Here's what's been blocking it." | Hazy window with the mountains behind it, quick cut to the same window clean | View homes: Crozet, Ivy, Free Union, Old Trail |
-| A-H03 | "If you're on well water, those white spots on your windows won't come off with Windex." | Close-up of hard-water spots; a finger rubs them and nothing changes | Rural homes on wells: Earlysville, Free Union, North Garden |
-| A-H04 | "Most window cleaners skip the part that actually makes your windows look dirty." | Window track full of dead bugs and grime | Problem-aware |
-| A-H05 | "Here's why your windows look worse after you clean them yourself." | Streaky glass lit from behind by low sun, a paper towel in frame | DIYers |
-| A-H06 | "That green stuff on the north side of your house? It's not dirt." | Hand wipes a green film off vinyl siding | Power-wash buyers (didn't know they had a problem) |
-| A-H07 | "Red clay on your driveway? Watch this." | Surface cleaner leaves a white stripe through red-stained concrete | Power-wash buyers |
-| A-H08 | "Here's exactly what happens when we show up at your house." | Truck pulling into a driveway, tech putting on shoe covers | Cautious, product-aware buyers |
+| A-H01 | "One pass. Watch the glass disappear." | Real B-roll: one squeegee pass leaves glass so clear it looks invisible, sun glinting | Everyone (demonstration) |
+| A-H02 | "Crozet — this is the Blue Ridge view you bought your house for." | A crystal-clear window framing the mountains (real job footage, or AI) | View homes: Crozet, Ivy, Free Union, Old Trail |
+| A-H03 | "Well water leaves white spots on glass. Here's how we get them off for good." | Real B-roll: spot removal on glass, ending on a clear pane | Rural homes on wells: Earlysville, Free Union, North Garden |
+| A-H04 | "The detail that makes a clean window look brand new: the tracks." | Real B-roll: vacuuming a track until it's spotless | Detail-minded homeowners |
+| A-H05 | "That first sunny morning after your windows get cleaned…" | AI: sunlight pouring through a spotless living-room window, a coffee mug on the sill (`@loc_home_int`) | Everyone (the feeling) |
+| A-H06 | "Want your siding looking like the day you moved in?" | Real B-roll: soft wash turning vinyl siding bright again | Power-wash buyers |
+| A-H07 | "Watch red clay come right off this driveway." | Real B-roll: surface cleaner leaving a bright white stripe | Power-wash buyers |
+| A-H08 | "Here's exactly what happens when we come to your house." | Real B-roll: truck pulling in, tech putting on shoe covers | Cautious, product-aware buyers |
 | A-H09 | ⚠️ "We just finished a house in Earlysville and the owner asked if we'd taken the glass out." | A real customer reaching out to touch the glass | Everyone (story) |
-| A-H10 | "4 things a real window cleaning includes. Most companies only do one." | Owner holds up 4 fingers in front of a house | Comparison shoppers |
+| A-H10 | "Every cleaning includes these 4 things." | Gabe holds up 4 fingers mid-job, or a quick B-roll montage of the 4 steps | Comparison shoppers |
 
 ---
 
@@ -192,16 +201,16 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 | # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
-| B-H01 | "Almost 50 homeowners around Charlottesville gave us 5 stars. Here's what they actually said." | Gabe mid-squeegee holding up his phone, Google reviews on screen | Comparison shoppers |
-| B-H02 | "Before you let anyone on a ladder at your house, watch this." | Tech on a ladder with a stabilizer, shot from below | Cautious homeowners |
-| B-H03 | "Don't hire a window cleaner until you ask these 3 questions." | Owner counting on fingers; on screen: "3 QUESTIONS" | Active shoppers (this one matches the body best) |
-| B-H04 | ⚠️ "Forest Lakes — we've cleaned [#] homes in your neighborhood. Here's what your neighbors said." | Slow drive down a recognizable street | Neighborhood callout. **Make one version per neighborhood** (Old Trail, Glenmore, Belvedere, Hollymead) |
-| B-H05 | ⚠️ "This is the review that made us pull the truck over." | Gabe on the ladder stops cleaning, pulls out his phone and reads | Everyone (story) |
-| B-H06 | "Letting a stranger into your house is a big deal. We get it." | Front door opens; tech in uniform with shoe covers on | Cautious homeowners |
+| B-H01 | "Almost 50 homeowners around Charlottesville gave us 5 stars. Here's what they said." | Gabe mid-squeegee holding up his phone, Google reviews on screen | Comparison shoppers |
+| B-H02 | "Here's what to look for before anyone gets on a ladder at your house." | Real B-roll: tech on a ladder with a stabilizer, shot from below | Cautious homeowners |
+| B-H03 | "3 questions to ask before you hire a window cleaner." | Gabe counting on fingers mid-job; on screen: "3 QUESTIONS" | Active shoppers (matches the body best) |
+| B-H04 | ⚠️ "Forest Lakes — your neighbors have been booking us. Here's what they said." | Slow drive down a recognizable street, then cut to cleaning | Neighborhood callout. **One version per neighborhood** (Old Trail, Glenmore, Belvedere, Hollymead) |
+| B-H05 | ⚠️ "This is the review that made our whole week." | Gabe on the ladder stops cleaning, pulls out his phone and smiles | Everyone (story) |
+| B-H06 | "Inviting someone into your home is a big deal. Here's how we earn it." | Front door opens; tech in uniform with shoe covers on | Cautious homeowners |
 | B-H07 | ⚠️ "The #1 thing homeowners tell us after their first cleaning…" | On-screen quote: *"I wish I'd called you years ago."* | Fence-sitters |
-| B-H08 | ⚠️ "Realtors — this is who to call before listing photos." | Yard sign, then a sparkling front window | Realtors and home sellers |
-| B-H09 | "Every one of these reviews is from someone within 20 minutes of your house." | Map of Albemarle with review pins dropping on it | Shop-local buyers (local beats a big number) |
-| B-H10 | "Read these before you scroll." | Faceless: review screenshots stacking fast | Everyone (faceless format, a different look for Meta) |
+| B-H08 | "Realtors — here's how to make your listing photos shine." | AI: yard sign in front of a sunlit house with sparkling windows (`@loc_home`) | Realtors and home sellers |
+| B-H09 | "Every one of these reviews is from someone within 20 minutes of your house." | Map of Albemarle with review pins dropping on it | Shop-local buyers |
+| B-H10 | "Read these before you scroll." | Faceless: real review screenshots stacking fast | Everyone (faceless format) |
 
 ---
 
@@ -247,16 +256,16 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 
 | # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
-| C-H01 | "🧼 50% off for the first 8 Albemarle homeowners who book this week." | Big on-screen text "50% OFF · 8 SPOTS" over a squeegee shot | People ready to book now |
-| C-H02 | "Hosting Thanksgiving? Your guests will see your windows before they see you." | Streaky front-door glass with a wreath | Holiday hosts. **Runs through Nov 26.** Re-film as "Hosting Christmas?" for December |
+| C-H01 | "🧼 50% off for the first 8 Albemarle homeowners who book this week." | Big on-screen text "50% OFF · 8 SPOTS" over real squeegee B-roll | People ready to book now |
+| C-H02 | "Hosting Thanksgiving? Here's one thing you can cross off your list." | AI: sunlit front door with a wreath and sparkling sidelights (`@loc_home`) | Holiday hosts. **Runs through Nov 26.** Redo as "Hosting Christmas?" for December |
 | C-H03 | "We've got 8 half-price spots this week. Here's the catch." | Whiteboard with 8 boxes, some crossed out. **Update it for real as spots fill** | Curious, skeptical viewers |
-| C-H04 | "Your windows are crying out to be cleaned, and this week we're making it easy." | Window with rain streaks running down it ("crying") | Your original angle |
-| C-H05 | "Stop. Put the ladder down." | AI shot of someone on a ladder with a bucket; owner says the line as a voiceover | DIYers |
+| C-H04 | "Your windows are crying out to be cleaned, and this week we're making it easy." | AI: raindrops running down a window ("crying"), then cut to sun on clean glass | Your original angle (the windows cry, never the homeowner) |
+| C-H05 | "Put the ladder away. This one's on us." | AI: a ladder hanging on garage wall hooks in afternoon sun, then cut to real crew B-roll | People who'd rather not climb |
 | C-H06 | "Ivy, Keswick, Glenmore — we've got 8 openings in your area this week." | Map of Albemarle with pins dropping | Neighborhood callout |
 | C-H07 | "Why would a window cleaner give away half price? Honest answer." | Gabe shrugs mid-squeegee, then goes back to work | Skeptics (leads straight into the reason) |
-| C-H08 | "When's the last time someone actually cleaned your windows? If you have to think about it…" | Close-up of a cobweb in a window corner | Procrastinators |
-| C-H09 | "If climbing a ladder isn't your idea of a Saturday, this is for you." | Ladder leaning against a two-story house, nobody on it | People who'd rather not climb (policy-safe wording) |
-| C-H10 | "If your windows aren't spotless for 30 days, we come back free. And this week, it's half off." | Owner wiping a finger across the glass: clean | People worried about risk |
+| C-H08 | "Picture every window in your house this clear before the holidays." | AI: the front of the house in full sun, every window sparkling (`@loc_home`) | Everyone (the bright side) |
+| C-H09 | "If climbing a ladder isn't your idea of a Saturday, this is for you." | Ladder leaning against a two-story house in the sun (B-roll or AI) | People who'd rather not climb (policy-safe wording) |
+| C-H10 | "If your windows aren't spotless for 30 days, we come back free. And this week, it's half off." | Gabe wipes a finger across the glass: clean | People worried about risk |
 
 ---
 
@@ -269,7 +278,7 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 
 **Talking points:**
 1. Who you are and the company name.
-2. Why you started it (your real reason).
+2. Why you started it (your real reason). Tell it as what *you* set out to do, never what other companies did wrong.
 3. "So we built the company we'd want at our own house."
 4. Real numbers: years, homes, team size, almost 50 reviews.
 5. You live here, so your name's on every job.
@@ -281,17 +290,17 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 > **[PARTNER 1]:** I'm [PARTNER 1]…
 > **[PARTNER 2]:** …and I'm [PARTNER 2]. Um, and we own TideWater Window Cleaning.
 >
-> **GABE:** So we started this because, honestly, every time we talked to somebody around here about their window guy, it was the same story. Like, he showed up late…
-> **[PARTNER 1]:** …or didn't show up at all.
-> **GABE:** Or didn't show up, yeah. Left streaks, never called back… *(Use your real reason.)*
+> **GABE:** So we started this because, honestly, we wanted to be the company people actually look forward to having over. Like, show up on time…
+> **[PARTNER 1]:** …text you when we're on the way…
+> **GABE:** …yeah, and leave everything spotless. Every time. *(Use your real reason.)*
 >
-> **[PARTNER 2]:** So we were like, okay, let's just… let's build the company we'd actually want at our own house.
+> **[PARTNER 2]:** Basically the company we'd want at our own house.
 >
 > **GABE:** And now it's been [YEARS] years, we've done, what, [# HOMES]?
 > **[PARTNER 1]:** Something like that, yeah.
 > **GABE:** …homes all over Albemarle. We've got [# TEAM] people on the crew now, and almost 50 five-star reviews, which, like… still kind of blows my mind.
 >
-> **[PARTNER 2]:** And we live here. We're in [TOWN]. So if we do a bad job, we're gonna… *[laughs]* we're gonna run into you at [local grocery store].
+> **[PARTNER 2]:** And we live here. We're in [TOWN]. So, like… *[laughs]* we're gonna see you at [local grocery store]. Our name's on every house.
 > **[PARTNER 1]:** Seriously.
 >
 > **GABE:** So, um, we're just really grateful for everybody who's given us a shot. And if your windows or your siding need some love, we'd… yeah, we'd love to earn your business too.
@@ -303,15 +312,15 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 | # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
 | D-H01 | "Hi, we're Gabe, [PARTNER 1] and [PARTNER 2], and we clean windows in Albemarle County." | All three owners mid-job (ladder, squeegee, screens) turn and wave | Locals who buy from people |
-| D-H02 | "We started this company because nobody around here would show up when they said they would." | Owner checking a watch in an empty driveway | People burned by contractors |
-| D-H03 | "This is our entire team." | Wide shot of the whole crew in front of the trucks | Small-business supporters |
-| D-H04 | "We're not a franchise. We're your neighbors." | Owners walking somewhere recognizably local | Shop-local buyers |
+| D-H02 | "We started this company with one promise: show up when we say we will." | Gabe checks his watch, then the truck pulls into the driveway right on time | Reliability seekers |
+| D-H03 | "This is our entire team." | Wide shot of the whole crew mid-job or in front of the trucks | Small-business supporters |
+| D-H04 | "We're local. We're your neighbors." | Owners working at a house on a recognizable local street | Shop-local buyers |
 | D-H05 | ⚠️ "[YEARS] years ago it was just me, one ladder, and a bucket in the back of my car." | Old phone photo from the early days | Everyone (story) |
-| D-H06 | "If a contractor has ever ghosted you, this one's for you." | Phone screen: unanswered texts reading *"Hey, are you still coming?"* | People burned by contractors |
+| D-H06 | "You'll get a text the moment we're on our way. Every time." | Phone screen mockup: *"Hi! It's Gabe from TideWater, we're 15 min away 🙂"* | Reliability seekers |
 | D-H07 | "Charlottesville, we just want to say thank you." | Owners pausing mid-job at a customer's house, sincere | Warm audience, past customers' friends |
 | D-H08 | "Ever wonder who's actually behind the company you hire? Hi, it's us." | Owners pop up from behind a window they're cleaning | Curious viewers |
-| D-H09 | ⚠️ "We live in [TOWN]. That's exactly why we can't do a bad job." | Owners at a local spot in your town | Your home town. **Make one per town you actually live or work in** |
-| D-H10 | "Why we never send anyone to your house we wouldn't let into ours." | Owner handing a new tech a uniform shirt | Cautious homeowners |
+| D-H09 | ⚠️ "We live in [TOWN], so every house we clean is a neighbor's house." | Owners at a local spot in your town, then cut to cleaning | Your home town. **One per town you actually live or work in** |
+| D-H10 | "Everyone we send to your house is someone we'd welcome into ours." | Gabe handing a new tech a uniform shirt | Cautious homeowners |
 
 ---
 
@@ -385,12 +394,12 @@ Use this to write the next batches. Each row is a small audience Meta can find i
 | Audience | What they notice | Hook angle |
 |---|---|---|
 | Mountain-view homes (Crozet, Ivy, Free Union, Old Trail) | The view looks hazy | "You paid for the view" |
-| Rural homes on wells (Earlysville, North Garden, Keswick) | Hard-water spots from sprinklers | "Won't come off with Windex" |
+| Rural homes on wells (Earlysville, North Garden, Keswick) | Hard-water spots from sprinklers | "Here's how we get them off for good" |
 | North-facing / shaded homes | Green algae on siding | "That's not dirt" |
 | Anyone with concrete | Red clay stains, mildew on walkways | Before/after "watch this" |
 | Holiday hosts (Nov–Dec) | Guests coming | "Your guests will notice" |
 | Spring (Mar–May) | Yellow pollen on everything | "A year of pollen coming off" |
-| Home sellers and realtors | Listing photos | "Before the photographer comes" |
+| Home sellers and realtors | Listing photos | "Make your listing photos shine" |
 | New move-ins | "When were these last cleaned?" | "Just moved in? Start fresh" |
 | Dog owners and families | Nose prints, handprints on sliders | "Every nose print, gone" |
 | Airbnb / rental hosts (near UVA, wineries) | Reviews mention cleanliness | "Your guests leave reviews" |
