@@ -48,8 +48,9 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 | `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling, mums and pumpkins on the steps | C-H02 | ✅ Done |
 | `@loc_garage` | Inside the same home's garage: homeowner's extension ladder **leaning** against the wall (never mounted on hooks), cluttered family garage, sun through the open door | C-H05 | ✅ Done |
 | `@gabe` | Gabe's character sheet from his real photos (front full body, back full body, face close-up; one face only), in his work outfit | All AI talking clips, bodies A–D, ~20 hooks | ✅ Done |
-| `@tech1` | Crew tech character sheet: same work outfit as Gabe, visually distinct from Gabe (cap, sunglasses, different build) so the two faces don't blend | A1 background, other crew shots | ⏳ Next |
-| `@prop_wfp` | Gabe's real water-fed pole: telescoping pole, brush head, very thin blue hose (<1 cm) running from the bottom of the pole along the ground | A1 background, any pole shot | ⏳ Gabe uploading an example photo |
+| `@tech1` | Crew tech character sheet: same work outfit as Gabe, visually distinct from Gabe (cap, sunglasses, different build) so the two faces don't blend | A1 background, other crew shots | ✅ Done (full body + close-up) |
+| `@prop_wfp` | Gabe's real water-fed pole: black telescoping pole with a brush head. **Show it without a hose.** Scrubbing is slow and only on the **top sash** of a double-hung window | A1 background, any pole shot | ✅ Photo uploaded in Higgsfield |
+| `@prop_squeegee` | Gabe's real squeegee (photo) | Every AI-Gabe clip where he holds it | ✅ Photo uploaded in Higgsfield |
 | `@partner1`, `@partner2` | Partners' character sheets, same format | Body D, D hooks | Later |
 | `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
@@ -88,3 +89,7 @@ Gabe's real recorded audio runs the whole way through. AI-Gabe is on screen for 
 | A3 (~5 s) | **AI-Gabe** to camera, relaxed | 30-day guarantee + "So… yeah. That's pretty much it." |
 
 Order: record the audio → trim each segment into its own file (`gabe_a1`, `gabe_a2`, `gabe_a3`) → attach that file as the audio reference when generating, so Seedance lip-syncs to Gabe's real voice from the start → edit with real B-roll in between.
+
+### A1 upload order (final)
+image1 house · image2–4 Gabe · image5–6 tech · image7 water-fed pole · image8 squeegee · audio1 "This is what happens when we come out to your house." 4 s.
+Fixes from Gabe's review: no hose; black pole; the brush scrubs ONLY the top sash of the second-story window; slow, unhurried strokes.
