@@ -105,3 +105,6 @@ Always state: third-person, filmed by a coworker standing 2+ m away, NOT a selfi
 
 ### A-S2b (AI process demo): the track before → after
 Gabe's decision: the tracks before/after is AI (there's no real B-roll of it). It plays right after A-S2 ("…the tracks"), under Gabe's voiceover. Upload order: image1 interior, image2–4 Gabe (wardrobe only), image5 handheld brush. Close-up of the same window track from `@loc_home_int`; hands only (sleeve matches Gabe's outfit; the same gray microfiber towel as A-S2); Gabe's real handheld track brush (photo as image5); TideWater does NOT vacuum tracks: brush loosens and sweeps debris, a damp microfiber towel wipes it out. Realistic everyday dust, not gross; the "after" looks like a real cleaned track, not brand new.
+
+- **A-S2** ✅ / **A-S2b** ✅ `A-S2b_tracks-clean_v1`: AI track before/after with Gabe's handheld brush + a damp microfiber towel (no vacuum).
+- **A-S3** next: AI-Gabe at the bottom of the front steps of `@loc_home` at the end of the job (warmer, later light), towel on his shoulder, squeegee in hand. Audio `gabe_a3`: "And if anything's not spotless in the next 30 days, we just come back. Free. So… yeah. That's pretty much it." Upload: image1 house, image2–4 Gabe, image5 squeegee, audio1. ~8 s.
