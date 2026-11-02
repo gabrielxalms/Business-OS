@@ -76,7 +76,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 **Legal lines:**
 - **No AI-generated customers, testimonials or reviews.** The FTC rule on fake reviews and testimonials (in effect since October 2024) bans them, and that includes AI-generated ones.
-- **AI process demos (Gabe's decision, e.g. vacuuming a track) are OK if they show a step you really do and the result looks exactly like your real work.** Never make the "after" better than what you actually deliver; locals will compare the ad to their real job.
+- **AI process demos (Gabe's decision, e.g. brushing out a track) are OK if they show a step you really do and the result looks exactly like your real work.** Never make the "after" better than what you actually deliver; locals will compare the ad to their real job.
 - Meta may add an **"AI info"** label to ads it detects as AI-made. That's fine on a hook shot. It's another reason to keep the body real.
 
 **Making AI hook clips:**
@@ -99,14 +99,14 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 - **Bodies = Gabe's real audio over the real B-roll.** Record yourself talking through each body's talking points (loose, unscripted), and lay it over the cleaning footage. That's real voice plus real cleaning, the same ingredients as your winners. On-camera clips of Gabe cleaning are still the best version when you can get them.
 - **Body B:** audio plus review screenshots over the B-roll. **Body D:** all three owners' audio over the B-roll, with real photos of the three of you cut in when each one starts talking.
 - **Hooks your B-roll already covers:** A-H01 (squeegee stripe), A-H07 (surface cleaner on concrete), C-H01 (text over a squeegee shot).
-- **Your B-roll also covers (Hopkins rewrite):** A-H03 (spot removal), A-H04 (track vacuuming), A-H06 (siding soft wash), and C-H09 (ladder against a house) if you have it.
+- **Your B-roll also covers (Hopkins rewrite):** A-H03 (spot removal), A-H04 (track brushing, now AI per Gabe), A-H06 (siding soft wash), and C-H09 (ladder against a house) if you have it.
 - **Check your footage first:** A-H02 (a clear window with a mountain view). Use AI only if you don't have it.
 - **Still need AI or graphics:** A-H05 (sun through a spotless window), B-H08 (yard sign at a sparkling house), C-H02 (sunlit holiday door), C-H04 (raindrops, then sun), C-H05 (ladder hung up in the garage), C-H08 (whole house sparkling in the sun), plus graphics for B-H09, C-H06 and D-H06 (friendly text mockup).
 - **Hooks with Gabe on camera** (B-H03, C-H07, C-H10, the D hooks, etc.) need a quick phone clip. If you can't film one, turn it into a voiceover over B-roll; it'll be a bit weaker.
 
 ### Filming day (real footage only)
 
-1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoes coming off at the door, pulling screens, scrubbing, squeegee passes, track vacuuming, the walk-through, surface cleaner on concrete, soft wash on siding, before/after splits. You'll reuse this footage under every body.
+1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoes coming off at the door, pulling screens, scrubbing, squeegee passes, track brushing, the walk-through, surface cleaner on concrete, soft wash on siding, before/after splits. You'll reuse this footage under every body.
 2. **The "real" hooks, same day (about 20 clips, 3 seconds each).** Change spots between them.
 3. **CTAs (10 minutes).** Record all 3, plus a screen recording of someone filling out your lead form.
 4. **AI hook clips:** generate them separately, using the table above.
@@ -127,7 +127,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 2. Shoes come off at the door. Customers mention this in reviews. *[shoes off at the door]*
 3. Screens get hand-washed, because a dirty screen makes a clean window look dirty. *[scrubbing screens]*
 4. Scrub, squeegee, then hand-detail the edges. *[squeegee pass]*
-5. The tracks and sills, the detail people notice. *[vacuuming a track until it's spotless]*
+5. The tracks and sills, the detail people notice. *[brushing out a track, then a towel wipe]*
 6. Purified water on high glass (a customer called it "a special tool that takes all the minerals out of your water").
 7. Siding and red clay: soft wash, no blasting. *[siding reveal, concrete stripe]*
 8. The walk-through (you check our work before we leave) and the 30-day guarantee.
@@ -144,7 +144,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 >
 > Then each pane, we scrub it, squeegee it, and go around the edges by hand so there's no, like, little drips in the corners.
 >
-> And then, okay, this is my favorite part. The tracks. *[vacuums a track]* We vacuum 'em all out, wipe the sills… this is the part people always notice after.
+> And then, okay, this is my favorite part. The tracks. *[brushes out a track]* We brush 'em all out, wipe 'em down, do the sills… this is the part people always notice after.
 >
 > Up high we use purified water. It takes all the minerals out, so it dries without spots.
 >
@@ -161,7 +161,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 | A-H01 | "One pass. Watch the glass disappear." | Real B-roll: one squeegee pass leaves glass so clear it looks invisible, sun glinting | Everyone (demonstration) |
 | A-H02 | "Crozet — this is the Blue Ridge view you bought your house for." | A crystal-clear window framing the mountains (real job footage, or AI) | View homes: Crozet, Ivy, Free Union, Old Trail |
 | A-H03 | "Well water leaves white spots on glass. Here's how we get them off for good." | Real B-roll: spot removal on glass, ending on a clear pane | Rural homes on wells: Earlysville, Free Union, North Garden |
-| A-H04 | "The detail that makes a clean window look brand new: the tracks." | Real B-roll: vacuuming a track until it's spotless | Detail-minded homeowners |
+| A-H04 | "The detail that makes a clean window look brand new: the tracks." | AI process demo: a handheld brush cleaning a track, then a towel wipe (like A-S2b) | Detail-minded homeowners |
 | A-H05 | "That first sunny morning after your windows get cleaned…" | AI: sunlight pouring through a spotless living-room window, a coffee mug on the sill (`@loc_home_int`) | Everyone (the feeling) |
 | A-H06 | "Want your siding looking like the day you moved in?" | Real B-roll: soft wash turning vinyl siding bright again | Power-wash buyers |
 | A-H07 | "Watch red clay come right off this driveway." | Real B-roll: surface cleaner leaving a bright white stripe | Power-wash buyers |
@@ -203,7 +203,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 *Review placeholders: **#1** first name, neighborhood and one specific detail (e.g. "on time, took their shoes off, never seen my windows like this"). **#2** one that answers an objection (price, communication, careful with the house). **#3, optional** one about the result or rebooking.*
 
-**Picking reviews:** use ones with a **first name, a neighborhood and a specific detail**. "Great job!" proves nothing. "Sarah in Old Trail: they showed up 5 minutes early and vacuumed my window tracks" proves a lot. Choose reviews that answer the objections you hear on the phone.
+**Picking reviews:** use ones with a **first name, a neighborhood and a specific detail**. "Great job!" proves nothing. "Sarah in Old Trail: they showed up 5 minutes early and cleaned out my window tracks" proves a lot. Choose reviews that answer the objections you hear on the phone.
 
 ### Hooks for Body B (proof)
 
@@ -349,7 +349,7 @@ Per GOATed Ads: *show* what happens next. If you see the form on screen, filling
 ## 7. Ad copy (primary text + headline) per body
 
 **Body A:** Primary text:
-> Crystal clear, inside and out. Screens hand-washed, tracks vacuumed, shoes off at your door, and a walk-through before we leave. Let the light back in. 👇 Tap for a free quote.
+> Crystal clear, inside and out. Screens hand-washed, tracks brushed out, shoes off at your door, and a walk-through before we leave. Let the light back in. 👇 Tap for a free quote.
 
 Headline: *Windows you'll forget are there*
 
