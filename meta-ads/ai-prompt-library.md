@@ -93,3 +93,12 @@ Order: record the audio → trim each segment into its own file (`gabe_a1`, `gab
 ### A1 upload order (final)
 image1 house · image2–4 Gabe · image5–6 tech · image7 water-fed pole · image8 squeegee · audio1 "This is what happens when we come out to your house." 4 s.
 Fixes from Gabe's review: no hose; black pole; the brush scrubs ONLY the top sash of the second-story window; slow, unhurried strokes.
+
+### Clip naming (generated videos)
+`[Body]-S[segment]_[short-name]_v[take]`, e.g. `A-S1_intro_v1.mp4`. Keep the 720p take and add `_1080` to the upscaled version: `A-S1_intro_v1_1080.mp4`. Hook clips: `A-H05_sunny-window_v1.mp4`.
+
+- **A-S1** ✅ approved: AI-Gabe on the lawn, tech with the black pole on the top sash, third-person framing (fixed the selfie look by saying "filmed by a coworker, NOT a selfie, both hands visible, camera 2.2 m away").
+- **A-S2** next: AI-Gabe inside at the open window (`@loc_home_int`), in socks (shoes off, from reviews), pointing at the track. Audio: "And then, okay, this is my favorite part… the tracks."
+
+### Lesson: talking-to-camera + iPhone look + 9:16 makes the model default to a selfie
+Always state: third-person, filmed by a coworker standing 2+ m away, NOT a selfie, both hands visible and occupied, no arm reaching toward the lens.
