@@ -98,7 +98,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 ### Filming day (real footage only)
 
-1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoe covers, pulling screens, scrubbing, squeegee passes, track vacuuming, the walk-through, surface cleaner on concrete, soft wash on siding, before/after splits. You'll reuse this footage under every body.
+1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoes coming off at the door, pulling screens, scrubbing, squeegee passes, track vacuuming, the walk-through, surface cleaner on concrete, soft wash on siding, before/after splits. You'll reuse this footage under every body.
 2. **The "real" hooks, same day (about 20 clips, 3 seconds each).** Change spots between them.
 3. **CTAs (10 minutes).** Record all 3, plus a screen recording of someone filling out your lead form.
 4. **AI hook clips:** generate them separately, using the table above.
@@ -116,13 +116,13 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 **Talking points (hit all of these, in your own words):**
 1. You text when you're on the way. *[truck pulling in]*
-2. Shoe covers go on before you go inside. *[booties at the door]*
+2. Shoes come off at the door. Customers mention this in reviews. *[shoes off at the door]*
 3. Screens get hand-washed, because a dirty screen makes a clean window look dirty. *[scrubbing screens]*
 4. Scrub, squeegee, then hand-detail the edges. *[squeegee pass]*
 5. The tracks and sills, the detail people notice. *[vacuuming a track until it's spotless]*
-6. ⚠️ Purified water on high glass.
+6. Purified water on high glass (a customer called it "a special tool that takes all the minerals out of your water").
 7. Siding and red clay: soft wash, no blasting. *[siding reveal, concrete stripe]*
-8. The walk-through and the 30-day guarantee.
+8. The walk-through (you check our work before we leave) and the 30-day guarantee.
 
 **Example take (how it should sound, not lines to memorize):**
 
@@ -130,7 +130,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 >
 > Um, first thing, you get a text when we're on the way, so you know exactly when we'll be there.
 >
-> Shoe covers go on before we come inside. Every time.
+> Shoes come off before we come inside. Every time.
 >
 > Then we pull all the screens and wash 'em by hand, because, honestly, this is the part that makes the biggest difference. You can have a perfectly clean window, but if the screen's dirty… it still looks dirty.
 >
@@ -138,7 +138,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 >
 > And then, okay, this is my favorite part. The tracks. *[vacuums a track]* We vacuum 'em all out, wipe the sills… this is the part people always notice after.
 >
-> ⚠️ Up high we use purified water, so it dries without spots.
+> Up high we use purified water. It takes all the minerals out, so it dries without spots.
 >
 > And, uh, if your siding's got that green stuff on it, or the driveway's all red from the clay, we do that too. Soft wash, so we're not, you know, blasting your paint off.
 >
@@ -157,7 +157,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 | A-H05 | "That first sunny morning after your windows get cleaned…" | AI: sunlight pouring through a spotless living-room window, a coffee mug on the sill (`@loc_home_int`) | Everyone (the feeling) |
 | A-H06 | "Want your siding looking like the day you moved in?" | Real B-roll: soft wash turning vinyl siding bright again | Power-wash buyers |
 | A-H07 | "Watch red clay come right off this driveway." | Real B-roll: surface cleaner leaving a bright white stripe | Power-wash buyers |
-| A-H08 | "Here's exactly what happens when we come to your house." | Real B-roll: truck pulling in, tech putting on shoe covers | Cautious, product-aware buyers |
+| A-H08 | "Here's exactly what happens when we come to your house." | Real B-roll: truck pulling in, tech taking shoes off at the door | Cautious, product-aware buyers |
 | A-H09 | ⚠️ "We just finished a house in Earlysville and the owner asked if we'd taken the glass out." | A real customer reaching out to touch the glass | Everyone (story) |
 | A-H10 | "Every cleaning includes these 4 things." | Gabe holds up 4 fingers mid-job, or a quick B-roll montage of the 4 steps | Comparison shoppers |
 
@@ -172,10 +172,10 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 **Talking points:**
 1. Letting someone work on your house is a trust thing. Here are 3 questions to ask anyone.
 2. **Insured?** Yes, fully. ⚠️ Background-checked crew. *[insurance certificate / tech in uniform]*
-3. **What do customers say?** Read 2–3 real reviews off your phone. *[screenshot pops up for each one]*
+3. **What do customers say?** Read 2–3 real reviews off your phone. *[screenshot pops up for each one]* Pick ones that use the words customers use most: on time, respectful, no mess, reasonable price.
 4. Almost 50 of them, all from people right around here.
 5. **What if I'm not happy?** The 30-Day Spotless Guarantee.
-6. That's why people keep rebooking.
+6. That's why people keep rebooking and telling their neighbors.
 
 **Example take:**
 
@@ -191,9 +191,9 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 >
 > And then the third one: what if I'm not happy? So with us, um, if your windows aren't spotless any time in the next 30 days, we just come back and redo 'em. No charge.
 >
-> That's… yeah. That's kind of why people keep booking us again.
+> That's… yeah. That's kind of why people keep booking us again. And honestly, most of our new customers come from neighbors telling neighbors.
 
-*Review placeholders: **#1** first name, neighborhood and one specific detail (e.g. "on time, shoe covers, never seen my windows like this"). **#2** one that answers an objection (price, communication, careful with the house). **#3, optional** one about the result or rebooking.*
+*Review placeholders: **#1** first name, neighborhood and one specific detail (e.g. "on time, took their shoes off, never seen my windows like this"). **#2** one that answers an objection (price, communication, careful with the house). **#3, optional** one about the result or rebooking.*
 
 **Picking reviews:** use ones with a **first name, a neighborhood and a specific detail**. "Great job!" proves nothing. "Sarah in Old Trail: they showed up 5 minutes early and vacuumed my window tracks" proves a lot. Choose reviews that answer the objections you hear on the phone.
 
@@ -206,8 +206,8 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 | B-H03 | "3 questions to ask before you hire a window cleaner." | Gabe counting on fingers mid-job; on screen: "3 QUESTIONS" | Active shoppers (matches the body best) |
 | B-H04 | ⚠️ "Forest Lakes — your neighbors have been booking us. Here's what they said." | Slow drive down a recognizable street, then cut to cleaning | Neighborhood callout. **One version per neighborhood** (Old Trail, Glenmore, Belvedere, Hollymead) |
 | B-H05 | ⚠️ "This is the review that made our whole week." | Gabe on the ladder stops cleaning, pulls out his phone and smiles | Everyone (story) |
-| B-H06 | "Inviting someone into your home is a big deal. Here's how we earn it." | Front door opens; tech in uniform with shoe covers on | Cautious homeowners |
-| B-H07 | ⚠️ "The #1 thing homeowners tell us after their first cleaning…" | On-screen quote: *"I wish I'd called you years ago."* | Fence-sitters |
+| B-H06 | "Inviting someone into your home is a big deal. Here's how we earn it." | Front door opens; tech in uniform slipping shoes off at the door | Cautious homeowners |
+| B-H07 | "The #1 thing homeowners tell us after their first cleaning…" | On-screen quote from a real review: *"Windows have never looked this good!"* | Fence-sitters |
 | B-H08 | "Realtors — here's how to make your listing photos shine." | AI: yard sign in front of a sunlit house with sparkling windows (`@loc_home`) | Realtors and home sellers |
 | B-H09 | "Every one of these reviews is from someone within 20 minutes of your house." | Map of Albemarle with review pins dropping on it | Shop-local buyers |
 | B-H10 | "Read these before you scroll." | Faceless: real review screenshots stacking fast | Everyone (faceless format) |
@@ -234,7 +234,7 @@ Also: **"This week only" has to be true.** An ad can run for 3 weeks, so either 
 **Talking points:**
 1. Half off for the first 8 people who book this week.
 2. "What's the catch?" There isn't one: winter is your slow season. ⚠️ *(Or, if it's true: you're filling your route in [area].)*
-3. It's the full clean, just half price.
+3. It's the full clean (inside and out, screens, tracks, the walk-through), just half price.
 4. The 30-day guarantee still applies.
 5. Only 8 spots. Your windows are crying out to be cleaned, and this is the week.
 
@@ -314,7 +314,7 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 | D-H01 | "Hi, we're Gabe, [PARTNER 1] and [PARTNER 2], and we clean windows in Albemarle County." | All three owners mid-job (ladder, squeegee, screens) turn and wave | Locals who buy from people |
 | D-H02 | "We started this company with one promise: show up when we say we will." | Gabe checks his watch, then the truck pulls into the driveway right on time | Reliability seekers |
 | D-H03 | "This is our entire team." | Wide shot of the whole crew mid-job or in front of the trucks | Small-business supporters |
-| D-H04 | "We're local. We're your neighbors." | Owners working at a house on a recognizable local street | Shop-local buyers |
+| D-H04 | "A young crew that hustles. Here's what our customers say about that." | Real B-roll: the crew moving fast on a multi-story house, then a review screenshot ("These guys hustle") | People who value hard work (customers praise this a lot) |
 | D-H05 | ⚠️ "[YEARS] years ago it was just me, one ladder, and a bucket in the back of my car." | Old phone photo from the early days | Everyone (story) |
 | D-H06 | "You'll get a text the moment we're on our way. Every time." | Phone screen mockup: *"Hi! It's Gabe from TideWater, we're 15 min away 🙂"* | Reliability seekers |
 | D-H07 | "Charlottesville, we just want to say thank you." | Owners pausing mid-job at a customer's house, sincere | Warm audience, past customers' friends |
@@ -341,7 +341,7 @@ Per GOATed Ads: *show* what happens next. If you see the form on screen, filling
 ## 7. Ad copy (primary text + headline) per body
 
 **Body A:** Primary text:
-> Screens hand-washed. Tracks vacuumed. Every pane hand-detailed. Shoe covers on before we step inside. This is what a real window cleaning looks like in Albemarle County. 👇 Tap for a free quote.
+> Crystal clear, inside and out. Screens hand-washed, tracks vacuumed, shoes off at your door, and a walk-through before we leave. Let the light back in. 👇 Tap for a free quote.
 
 Headline: *Windows you'll forget are there*
 
@@ -405,3 +405,55 @@ Use this to write the next batches. Each row is a small audience Meta can find i
 | Airbnb / rental hosts (near UVA, wineries) | Reviews mention cleanliness | "Your guests leave reviews" |
 | Big historic or estate homes (Keswick, Farmington) | Old glass, lots of panes, fragile trim | "Careful with old glass" |
 | People who'd rather not climb ladders | Second-story windows | "Not your idea of a Saturday" (never mention age or health) |
+| Multi-story and hard-to-reach homes | Third-floor glass, steep back hills | "All three stories, front and back" |
+
+---
+
+## 10. Voice of the customer (from Gabe's reviews and testimonials)
+
+Use **their** words in hooks, bodies and ad copy. This is what homeowners actually notice and say. *(Source: Gabe's NYC and Cville reviews and doorstep testimonials. Use them as vocabulary only. Only quote a review on screen if it's a real TideWater Cville review.)*
+
+**The words they use for the result:** crystal clear, spotless, sparkling, "what a difference," "windows have never looked this good," "the best they've looked since they were installed," "we can see the beautiful outdoors again," "seeing clearly for the first time in months," "loving the additional light."
+
+**What they praise, roughly in order of how often it comes up:**
+1. **Professional, polite, courteous, respectful of the house.** Shoes off inside, no mess.
+2. **Reasonable price.** Mentioned constantly. Say "fair, upfront price" in bodies; let reviews say "reasonable."
+3. **On time, and they do what they say they'll do (and more).**
+4. **Hard-working young crew that hustles.**
+5. **Thorough:** screens removed and washed, inside and out, every window, going back over spots, the walk-through at the end, a supervisor checking in.
+6. **Easy to talk to, responsive, fast turnaround** ("called yesterday, here today").
+7. **Handles the hard stuff:** multi-story houses, a steep back hill, switching to cleaning from the inside when needed.
+8. **Neighbors refer neighbors** ("my neighbors were calling to schedule," "my picky neighbor said you did a great job, and that was all I needed to hear").
+
+**Lines to avoid even though customers say them:** "you don't realize how dirty your windows are" and "15 years of neglect." They're fine coming from a customer about their own house, but never put them in our voice (Hopkins rule #1).
+
+### Extra hooks built from customer language (next batch to test)
+
+| Hook | Best body | Visual |
+|---|---|---|
+| "Let the light back in." | A | Sun pouring through a just-cleaned window (B-roll or AI with `@loc_home_int`) |
+| "The best your windows have looked since the day they were installed." | A or B | Real B-roll: a final squeegee pass, then a sparkling pane |
+| "Inside, outside, and the screens. Every single window." | A | Real B-roll montage: screens off, inside pane, outside pane |
+| "Every job ends with a walk-through. You check our work before we leave." | A or B | Real: Gabe walking a homeowner around (with permission) |
+| "We take our shoes off at your door. Here's why that matters." | B | Real: tech slipping shoes off at a front door |
+| "On time, respectful, and a fair price. That's what our customers keep saying." | B | Review screenshots stacking over B-roll |
+| ⚠️ "Most of our new customers come from neighbors telling neighbors." | B or D | Real: crew working at two houses next to each other |
+| "Getting ready to sell? Windows, siding and screens in one visit." | C or B | Real B-roll: siding soft wash, then sparkling windows |
+| ⚠️ "Call today, and we might be there tomorrow." | C | Gabe on the phone, then cut to the truck pulling in. Only if your schedule allows it |
+| "All three stories, front and back." | A | Real B-roll: tech on a tall ladder on a 3-story house |
+
+---
+
+## 11. Optional Body E: the doorstep testimonial (Gabe's proven NYC format)
+
+You already ran these in NYC. It's Hormozi's "raw testimonial" format and it's the strongest proof you can make. Film one at the end of every Cville job where the homeowner is happy and agrees to be on camera.
+
+**Gabe asks 3 questions, every time, phone on a short tripod or held by a crew member:**
+1. "How did you hear about us?" (Answers like "my neighbor recommended you" are gold for "follow the crowd.")
+2. "How did we do?"
+3. "Would you recommend us to your neighbors?"
+
+**How to use it:**
+- **Each testimonial is a body.** Keep it raw: ums, laughs, the house behind them. Cut in B-roll from that same job.
+- **The customer's best line becomes the hook.** In NYC: *"150%."* *"I called you yesterday and you were here today."* *"My neighbor, who's very picky, said you did a great job, and that was all I needed to hear."* Put the line on screen in the first 2 seconds.
+- **Rules:** real customers only, with their permission (get a quick written OK). If you give them anything for it (a discount, a free screen cleaning), disclose that in the ad. That's an FTC rule.
