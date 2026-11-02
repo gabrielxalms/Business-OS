@@ -1,6 +1,6 @@
 # TideWater AI Prompt Library (Higgsfield)
 
-Companion to `albemarle-window-power-washing.md`. AI is only used for **scene and bright-side shots** in hooks (Hopkins: show the result, not the grime). All cleaning, crew, owners, results and reviews stay real (see section 1 of the ad doc).
+Companion to `albemarle-window-power-washing.md`. AI is used for **scene and bright-side shots** in hooks (Hopkins: show the result, not the grime) **and for AI-Gabe on camera, lip-synced to Gabe's real recorded voice.** Real cleaning stays real B-roll wherever possible. All cleaning, crew, owners, results and reviews stay real (see section 1 of the ad doc).
 
 Workflow reference: `higgsfield-prompting-reference.md` (uploaded by Gabe). Build assets first, register them as Elements with exact @names, then write the video prompts.
 
@@ -47,6 +47,8 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 | `@loc_home_sale` | `@loc_home` edited: plain "FOR SALE" yard sign on the lawn, no brokerage branding | B-H08, "Getting ready to sell?" hook | ✅ Done |
 | `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling, mums and pumpkins on the steps | C-H02 | ✅ Done |
 | `@loc_garage` | Inside the same home's garage: homeowner's extension ladder **leaning** against the wall (never mounted on hooks), cluttered family garage, sun through the open door | C-H05 | ✅ Done |
+| `@gabe` | Gabe's character sheet from his real photos (front full body, back full body, face close-up; one face only), in his work outfit | All AI talking clips, bodies A–D, ~20 hooks | ⏳ Next |
+| `@partner1`, `@partner2` | Partners' character sheets, same format | Body D, D hooks | Later |
 | `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
 Rules from the Higgsfield reference: register each element under **exactly** the name used in the prompts. Any change to an asset (e.g. the house with a wreath) gets its own image, not a text instruction, if the model keeps "repairing" it.

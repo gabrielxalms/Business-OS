@@ -43,6 +43,14 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 ## 1. Production plan
 
+### ✅ Decision (Gabe): the on-camera talent is an AI version of Gabe, voiced by Gabe's real recordings
+
+- **Voice = always Gabe's real audio.** Record each body (loose, unscripted, real "um"s) and each hook line on your phone. That audio drives the AI lip-sync. Never use an AI-generated voice; that's what makes it sound fake.
+- **Face = an AI character built from Gabe's real photos** (`@gabe` character sheet; partners get `@partner1` and `@partner2` for Body D).
+- **Cleaning = real B-roll wherever possible.** AI-Gabe is shown on the job site *pausing* to talk (squeegee in hand, ladder behind him), and the edit cuts to real B-roll for the actual cleaning. AI still gets hands, squeegee strokes and water wrong, so keep AI-Gabe's cleaning motion minimal.
+- **Testimonials (Body E) stay 100% real customers.** AI testimonials are banned by the FTC.
+- **Expect Meta's "AI info" label** on some ads. Test AI-Gabe ads against your existing real winners and let the numbers decide.
+
 ### Hooks are scripted. Bodies sound unscripted.
 
 - **Hook:** exact words, short and punchy. Said word for word or put on screen with a voiceover. This is the part you polish.
