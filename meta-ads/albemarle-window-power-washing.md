@@ -1,4 +1,4 @@
-# Meta Ads — Window Cleaning & Power Washing (Albemarle County)
+# Meta Ads — TideWater Window Cleaning (Albemarle County)
 
 **4 bodies × 10 hooks × 3 CTAs = 40 to 120 ads from one filming day.**
 
@@ -17,8 +17,8 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 | Placeholder | What it is |
 |---|---|
-| `[BUSINESS]` | Your company name |
-| `[OWNER 1]`, `[OWNER 2]` | Your first names |
+| Business | **Filled in: TideWater Window Cleaning** |
+| Owners | **Gabe** (filled in). `[PARTNER 1]`, `[PARTNER 2]`: your two partners' first names |
 | Reviews | **Filled in: "almost 50."** Switch to "50+" once you pass 50. Only say "five-star" if your Google average is 5.0; otherwise say your real rating ("4.9 stars"). |
 | `[RATING]` | Your real Google star rating |
 | `[YEARS]`, `[# HOMES]`, `[# TEAM]` | Real numbers only |
@@ -246,7 +246,7 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 
 ## 5. BODY D — "Meet the Owners" (adapted from the Mint Window Cleaning ad)
 
-**Format:** Founder story. Both owners talking to camera, finishing each other's sentences, with team and job B-roll.
+**Format:** Founder story. All three owners talking to camera, finishing each other's sentences, with team and job B-roll.
 **Runtime:** about 45–60 seconds.
 
 **Don't copy Mint's numbers or claims.** "1,500 reviews / highest rated in Utah" works for them because it's true. The *structure* is what you're borrowing: who we are → why we started → proof → gratitude → invitation. Your real numbers, even small ones, work in that structure. "We're a small team and the owners still do the walk-through on every house" is a selling point.
@@ -259,33 +259,34 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 5. You live here, so your name's on every job.
 6. Thank you, and an invitation.
 
-**Example take (talking over each other is good, it's how real couples and partners talk):**
+**Example take (three owners: Gabe leads, the partners jump in. Talking over each other is good, it's how real partners talk):**
 
-> **[OWNER 1]:** Hey, I'm [OWNER 1]…
-> **[OWNER 2]:** …and I'm [OWNER 2], um, and we own [BUSINESS].
+> **GABE:** Hey, I'm Gabe…
+> **[PARTNER 1]:** I'm [PARTNER 1]…
+> **[PARTNER 2]:** …and I'm [PARTNER 2]. Um, and we own TideWater Window Cleaning.
 >
-> **[OWNER 1]:** So we started this because, honestly, every time we talked to somebody around here about their window guy, it was the same story. Like, he showed up late…
-> **[OWNER 2]:** …or didn't show up at all.
-> **[OWNER 1]:** Or didn't show up, yeah. Left streaks, never called back… *(Use your real reason.)*
+> **GABE:** So we started this because, honestly, every time we talked to somebody around here about their window guy, it was the same story. Like, he showed up late…
+> **[PARTNER 1]:** …or didn't show up at all.
+> **GABE:** Or didn't show up, yeah. Left streaks, never called back… *(Use your real reason.)*
 >
-> **[OWNER 2]:** So we were like, okay, let's just… let's build the company we'd actually want at our own house.
+> **[PARTNER 2]:** So we were like, okay, let's just… let's build the company we'd actually want at our own house.
 >
-> **[OWNER 1]:** And now it's been [YEARS] years, we've done, what, [# HOMES]?
-> **[OWNER 2]:** Something like that, yeah.
-> **[OWNER 1]:** …homes all over Albemarle. We've got [# TEAM] people on the team now, and almost 50 five-star reviews, which, like… still kind of blows my mind.
+> **GABE:** And now it's been [YEARS] years, we've done, what, [# HOMES]?
+> **[PARTNER 1]:** Something like that, yeah.
+> **GABE:** …homes all over Albemarle. We've got [# TEAM] people on the crew now, and almost 50 five-star reviews, which, like… still kind of blows my mind.
 >
-> **[OWNER 2]:** And we live here. We're in [TOWN]. So if we do a bad job, we're gonna… *[laughs]* we're gonna run into you at [local grocery store].
-> **[OWNER 1]:** Seriously.
+> **[PARTNER 2]:** And we live here. We're in [TOWN]. So if we do a bad job, we're gonna… *[laughs]* we're gonna run into you at [local grocery store].
+> **[PARTNER 1]:** Seriously.
 >
-> **[OWNER 2]:** So, um, we're just really grateful for everybody who's given us a shot. And if your windows or your siding need some love, we'd… yeah, we'd love to earn your business too.
+> **GABE:** So, um, we're just really grateful for everybody who's given us a shot. And if your windows or your siding need some love, we'd… yeah, we'd love to earn your business too.
 
-*Solo-owner version: same beats in first person. "I'm [NAME], I own [BUSINESS]…"*
+*Solo version (Gabe only): same beats in first person. "Hey, I'm Gabe, I own TideWater Window Cleaning with my two partners…"*
 
 ### Hooks for Body D (story, local and personal)
 
 | # | Hook | First 2 seconds (visual) | Who it finds |
 |---|---|---|---|
-| D-H01 | "Hi, we're [OWNER 1] and [OWNER 2], and we clean windows in Albemarle County." | Both owners in front of the truck, waving | Locals who buy from people |
+| D-H01 | "Hi, we're Gabe, [PARTNER 1] and [PARTNER 2], and we clean windows in Albemarle County." | All three owners in front of the truck, waving | Locals who buy from people |
 | D-H02 | "We started this company because nobody around here would show up when they said they would." | Owner checking a watch in an empty driveway | People burned by contractors |
 | D-H03 | "This is our entire team." | Wide shot of the whole crew in front of the trucks | Small-business supporters |
 | D-H04 | "We're not a franchise. We're your neighbors." | Owners walking somewhere recognizably local | Shop-local buyers |
@@ -304,7 +305,7 @@ Giving a *reason* for the discount is straight from Hopkins' *Scientific Adverti
 |---|---|---|
 | C1 | "Tap **Get Quote** below. Answer 3 quick questions, and we'll text you a price ⚠️ within the hour." *(Show a screen recording of the form being filled out.)* | Bodies A, B, D |
 | C2 | "Tap the button below to grab one of the 8 half-price spots before they're gone." | Body C |
-| C3 | "Call or text us at [PHONE]. You'll talk to [OWNER 1], not a call center." | Body D, older or call-preferring audience |
+| C3 | "Call or text us at [PHONE]. You'll talk to Gabe, not a call center." | Body D, older or call-preferring audience |
 
 Keep the CTA words clear (it's fine to script them), but say them in the same relaxed voice as the body so the switch into "ad voice" isn't jarring.
 
@@ -330,7 +331,7 @@ Headline: *Your neighbors already trust us*
 Headline: *Half off. 8 spots. This week.*
 
 **Body D:** Primary text:
-> We're [OWNER 1] and [OWNER 2]. We live here, we own [BUSINESS], and our name is on every house we clean. We'd love to earn yours. 👇
+> We're Gabe, [PARTNER 1] and [PARTNER 2]. We live here, we own TideWater Window Cleaning, and our name is on every house we clean. We'd love to earn yours. 👇
 
 Headline: *Local owners. Local crew.*
 
