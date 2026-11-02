@@ -102,3 +102,6 @@ Fixes from Gabe's review: no hose; black pole; the brush scrubs ONLY the top sas
 
 ### Lesson: talking-to-camera + iPhone look + 9:16 makes the model default to a selfie
 Always state: third-person, filmed by a coworker standing 2+ m away, NOT a selfie, both hands visible and occupied, no arm reaching toward the lens.
+
+### A-S2b (AI process demo): the track before → after
+Gabe's decision: the tracks before/after is AI (there's no real B-roll of it). It plays right after A-S2 ("…the tracks"), under Gabe's voiceover. Close-up of the same window track from `@loc_home_int`; hands only (sleeve matches Gabe's outfit; the same gray microfiber towel as A-S2); a cordless handheld vacuum with a crevice tool. Realistic everyday dust, not gross; the "after" looks like a real cleaned track, not brand new.

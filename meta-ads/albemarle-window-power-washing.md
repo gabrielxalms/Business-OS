@@ -76,7 +76,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 **Legal lines:**
 - **No AI-generated customers, testimonials or reviews.** The FTC rule on fake reviews and testimonials (in effect since October 2024) bans them, and that includes AI-generated ones.
-- **No AI before/afters passed off as your work.** That's deceptive advertising. Locals will also notice when your real job doesn't match the ad.
+- **AI process demos (Gabe's decision, e.g. vacuuming a track) are OK if they show a step you really do and the result looks exactly like your real work.** Never make the "after" better than what you actually deliver; locals will compare the ad to their real job.
 - Meta may add an **"AI info"** label to ads it detects as AI-made. That's fine on a hook shot. It's another reason to keep the body real.
 
 **Making AI hook clips:**
