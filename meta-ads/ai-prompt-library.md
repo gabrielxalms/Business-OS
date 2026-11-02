@@ -44,9 +44,9 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 |---|---|---|---|
 | `@loc_home` | Exterior: 2-story light gray vinyl home, brick skirt, covered porch, black door with sidelights, garage on the left, sunny autumn subdivision. 9:16. | B-H08, C-H02, C-H05 (garage), C-H08, C-H09 (if not in B-roll) | ✅ Done |
 | `@loc_home_int` | Interior: living room window of the same house, seen from inside | A-H05, C-H04 | ✅ Done |
-| `@loc_home_sale` | `@loc_home` edited: plain "FOR SALE" yard sign on the lawn, no brokerage branding | B-H08, "Getting ready to sell?" hook | ⏳ Next |
-| `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling | C-H02 | Later |
-| `@loc_garage` | Inside the same home's garage: ladder hung on wall hooks, sun through the open door | C-H05 | Later |
+| `@loc_home_sale` | `@loc_home` edited: plain "FOR SALE" yard sign on the lawn, no brokerage branding | B-H08, "Getting ready to sell?" hook | ✅ Done |
+| `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling, mums and pumpkins on the steps | C-H02 | ✅ Done |
+| `@loc_garage` | Inside the same home's garage: homeowner's extension ladder **leaning** against the wall (never mounted on hooks), cluttered family garage, sun through the open door | C-H05 | ✅ Done |
 | `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
 Rules from the Higgsfield reference: register each element under **exactly** the name used in the prompts. Any change to an asset (e.g. the house with a wreath) gets its own image, not a text instruction, if the model keeps "repairing" it.
@@ -63,3 +63,11 @@ Seedream 5.0 Pro, 9:16, with `@loc_home` attached as a reference. A white six-ov
 
 ### A-H05 (video, Seedance 2.5): "That first sunny morning after your windows get cleaned…"
 Rewritten for Hopkins (bright side, never insult the customer). Settings: Seedance 2.5, 9:16, 5 s, 1080p, audio on (sound effects only). Reference: `@loc_home_int`. Full prompt in the chat; log it here once it's approved.
+
+### Lessons from Gabe's image reviews (apply to every new asset)
+- **Real people are messy.** First passes always come out too neat. Ask for half-open bins, crushed boxes, things leaning unevenly, stuff left out.
+- **Show things the way people actually use them:** ladders lean against walls or hang high up, never mounted at chest height.
+- Get the materials right for the area (vinyl all around + brick skirt), keep it in the suburbs, and keep it sunny.
+
+### B-H08 (video, Seedance 2.5): "Realtors — here's how to make your listing photos shine."
+Reference: `@loc_home_sale`. 9:16, 5 s. Full prompt in the chat.
