@@ -48,6 +48,8 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 | `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling, mums and pumpkins on the steps | C-H02 | ✅ Done |
 | `@loc_garage` | Inside the same home's garage: homeowner's extension ladder **leaning** against the wall (never mounted on hooks), cluttered family garage, sun through the open door | C-H05 | ✅ Done |
 | `@gabe` | Gabe's character sheet from his real photos (front full body, back full body, face close-up; one face only), in his work outfit | All AI talking clips, bodies A–D, ~20 hooks | ✅ Done |
+| `@tech1` | Crew tech character sheet: same work outfit as Gabe, visually distinct from Gabe (cap, sunglasses, different build) so the two faces don't blend | A1 background, other crew shots | ⏳ Next |
+| `@prop_wfp` | Gabe's real water-fed pole: telescoping pole, brush head, very thin blue hose (<1 cm) running from the bottom of the pole along the ground | A1 background, any pole shot | ⏳ Gabe uploading an example photo |
 | `@partner1`, `@partner2` | Partners' character sheets, same format | Body D, D hooks | Later |
 | `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
@@ -79,7 +81,7 @@ Gabe's real recorded audio runs the whole way through. AI-Gabe is on screen for 
 
 | Segment | On screen | Audio (Gabe's real recording) |
 |---|---|---|
-| A1 (~4 s) | **AI-Gabe** on the front lawn of `@loc_home`, squeegee in hand, ladder behind him | Opening: "So, uh, this is basically what happens when we come out to your house." |
+| A1 (~4 s) | **AI-Gabe** on the front lawn of `@loc_home`, squeegee in hand. **No ladder.** Behind him (soft focus), a crew tech cleans a second-story window with the water-fed pole | "This is what happens when we come out to your house." *(Gabe's final recorded line)* |
 | B-roll | Real: truck, shoes off, screens, squeegee passes, tracks, water-fed pole, siding, concrete | Talking points 1–7 |
 | A2 (~4 s) | **AI-Gabe** turns from the window to camera | "And then, okay, this is my favorite part…" (or any line he wants to land on camera) |
 | B-roll | Real: the walk-through | Walk-through line |
