@@ -47,7 +47,7 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 | `@loc_home_sale` | `@loc_home` edited: plain "FOR SALE" yard sign on the lawn, no brokerage branding | B-H08, "Getting ready to sell?" hook | ✅ Done |
 | `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling, mums and pumpkins on the steps | C-H02 | ✅ Done |
 | `@loc_garage` | Inside the same home's garage: homeowner's extension ladder **leaning** against the wall (never mounted on hooks), cluttered family garage, sun through the open door | C-H05 | ✅ Done |
-| `@gabe` | Gabe's character sheet from his real photos (front full body, back full body, face close-up; one face only), in his work outfit | All AI talking clips, bodies A–D, ~20 hooks | ⏳ Next |
+| `@gabe` | Gabe's character sheet from his real photos (front full body, back full body, face close-up; one face only), in his work outfit | All AI talking clips, bodies A–D, ~20 hooks | ✅ Done |
 | `@partner1`, `@partner2` | Partners' character sheets, same format | Body D, D hooks | Later |
 | `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
@@ -73,3 +73,16 @@ Rewritten for Hopkins (bright side, never insult the customer). Settings: Seedan
 
 ### B-H08 (video, Seedance 2.5): "Realtors — here's how to make your listing photos shine."
 Reference: `@loc_home_sale`. 9:16, 5 s. Full prompt in the chat.
+
+### Body A edit plan (AI-Gabe + real B-roll)
+Gabe's real recorded audio runs the whole way through. AI-Gabe is on screen for only 3 short segments; real B-roll covers everything in between.
+
+| Segment | On screen | Audio (Gabe's real recording) |
+|---|---|---|
+| A1 (~4 s) | **AI-Gabe** on the front lawn of `@loc_home`, squeegee in hand, ladder behind him | Opening: "So, uh, this is basically what happens when we come out to your house." |
+| B-roll | Real: truck, shoes off, screens, squeegee passes, tracks, water-fed pole, siding, concrete | Talking points 1–7 |
+| A2 (~4 s) | **AI-Gabe** turns from the window to camera | "And then, okay, this is my favorite part…" (or any line he wants to land on camera) |
+| B-roll | Real: the walk-through | Walk-through line |
+| A3 (~5 s) | **AI-Gabe** to camera, relaxed | 30-day guarantee + "So… yeah. That's pretty much it." |
+
+Order: record the audio → cut it into segments → generate the AI-Gabe clips with the exact words → lip-sync them to the real audio → edit.
