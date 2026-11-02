@@ -85,4 +85,4 @@ Gabe's real recorded audio runs the whole way through. AI-Gabe is on screen for 
 | B-roll | Real: the walk-through | Walk-through line |
 | A3 (~5 s) | **AI-Gabe** to camera, relaxed | 30-day guarantee + "So… yeah. That's pretty much it." |
 
-Order: record the audio → cut it into segments → generate the AI-Gabe clips with the exact words → lip-sync them to the real audio → edit.
+Order: record the audio → trim each segment into its own file (`gabe_a1`, `gabe_a2`, `gabe_a3`) → attach that file as the audio reference when generating, so Seedance lip-syncs to Gabe's real voice from the start → edit with real B-roll in between.
