@@ -76,6 +76,17 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 | 🔤 **Text on screen, no footage needed** | B-H07 (quote must be real), B-H10 (real review screenshots), C-H01 (text over B-roll) |
 | 🎥 **Has to be real** (your crew, owners, customers, results) | A-H01, A-H07, A-H08, A-H09, A-H10, B-H01–B-H06, C-H03, C-H07, C-H10, D-H01–D-H05, D-H07–D-H10 |
 
+### Your existing B-roll comes first
+
+You already have real cleaning B-roll (crew working, no talking). **Use it before AI, every time.**
+
+- **Bodies = Gabe's real audio over the real B-roll.** Record yourself talking through each body's talking points (loose, unscripted), and lay it over the cleaning footage. That's real voice plus real cleaning, the same ingredients as your winners. On-camera clips of Gabe cleaning are still the best version when you can get them.
+- **Body B:** audio plus review screenshots over the B-roll. **Body D:** all three owners' audio over the B-roll, with real photos of the three of you cut in when each one starts talking.
+- **Hooks your B-roll already covers:** A-H01 (squeegee stripe), A-H07 (surface cleaner on concrete), C-H01 (text over a squeegee shot).
+- **Check your B-roll before generating these with AI:** A-H02 (the clean half), A-H03 (spotted glass), A-H04 (dirty track), A-H06 (green siding), C-H09 (ladder against a house). If the shot is in your footage, use it.
+- **Still need AI or graphics (your B-roll won't have these):** A-H05 (DIY streaks + paper towel), B-H08 (yard sign), C-H02 (holiday door), C-H04 (rain streaks), C-H05 (homeowner on a ladder), C-H08 (cobweb), plus graphics for B-H09, C-H06 and D-H06.
+- **Hooks with Gabe on camera** (B-H03, C-H07, C-H10, the D hooks, etc.) need a quick phone clip. If you can't film one, turn it into a voiceover over B-roll; it'll be a bit weaker.
+
 ### Filming day (real footage only)
 
 1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoe covers, pulling screens, scrubbing, squeegee passes, track vacuuming, the walk-through, surface cleaner on concrete, soft wash on siding, before/after splits. You'll reuse this footage under every body.
