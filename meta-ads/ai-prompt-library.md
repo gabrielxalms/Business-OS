@@ -44,7 +44,10 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 |---|---|---|---|
 | `@loc_home` | Exterior: 2-story light gray vinyl home, brick skirt, covered porch, black door with sidelights, garage on the left, sunny autumn subdivision. 9:16. | B-H08, C-H02, C-H05 (garage), C-H08, C-H09 (if not in B-roll) | ✅ Done |
 | `@loc_home_int` | Interior: living room window of the same house, seen from inside | A-H05, C-H04 | ✅ Done |
-| `@prop_sign` | Generic realtor yard sign, no brand | B-H08 | Later |
+| `@loc_home_sale` | `@loc_home` edited: plain "FOR SALE" yard sign on the lawn, no brokerage branding | B-H08, "Getting ready to sell?" hook | ⏳ Next |
+| `@loc_home_wreath` | `@loc_home` edited: wreath on the front door, sidelights sparkling | C-H02 | Later |
+| `@loc_garage` | Inside the same home's garage: ladder hung on wall hooks, sun through the open door | C-H05 | Later |
+| `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
 Rules from the Higgsfield reference: register each element under **exactly** the name used in the prompts. Any change to an asset (e.g. the house with a wreath) gets its own image, not a text instruction, if the model keeps "repairing" it.
 
