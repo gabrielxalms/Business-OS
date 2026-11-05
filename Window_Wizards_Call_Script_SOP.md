@@ -94,7 +94,9 @@ Listen for:
 - Rough window count. Any big sliders, skylights, French doors, hard-to-reach windows?
 - Screens? **Storm windows?** *(Storms are a big value point. See Section 4.)*
 - Hard water / sprinkler spots? Construction paint or stickers?
-- Inside and outside, or outside only?
+- **Inside and outside, or outside only? Set up the two-option close here (see Section 5):**
+  "Now, do you want the interiors cleaned as well? While we're out there, do you want us doing both sides of the windows, or just the exterior? I can actually get you a quote for both and let you decide."
+  *(Whatever they say, you now have permission to give two numbers. That turns "yes or no?" into "which one?")*
 - "Were you looking for just window cleaning, or power washing as well? Driveway, siding, patio?"
 
 ### Doubt: is DIY really an option?
@@ -159,9 +161,29 @@ Here's how we do it, and why it's different. Most guys just do the glass. We do 
 
 Quick gut-check on scope (sq ft, stories, window count, screens, storms) so the number sounds calculated.
 
+### Option A: Two-option close (default when interior is on the table)
+
+Give both numbers. **Lead with the full clean** so it sets the anchor, then give exterior-only. With two numbers, the question in their head becomes "which one?" and not "should I do this at all?"
+
+"So like I said, I got you a quote for both. For your home, the full 4-in-1, inside and out, both sides of the glass, frames, tracks, sills, and screens, comes out to **$[full price]**. If you just want the exteriors, that's **$[exterior price]**."
+
+*(Go straight into the guarantees below, then:)*
+
+"So which one makes more sense for you, both sides or just the outside?"
+
+*(Then stop talking.)*
+
+- **They pick one** → "Perfect. Now, would it make sense to pencil out a date? We're in your area [Tuesday] and [Thursday]."
+- **They pick exterior only** → that's a win. Book it. Mention the interior once on the walkthrough ("Want us to knock out the insides while we're here?"), not on the phone.
+- **"Both sound like a lot"** → that's a price objection (Section 6). Use exterior-only as the step-down **before** you offer any discount. You're trading scope, not dropping price.
+
+**When to skip it:** if they already told you "outside only" or "definitely both," don't force a second option. Quote what they asked for (Option B). You can still do two options with power washing: "windows only, or windows plus the driveway and patio?"
+
+### Option B: Single quote
+
 "So for your home, the full 4-in-1, [plus the power washing], that first initial clean comes out to **$[price]**."
 
-**Go straight into both guarantees. Don't pause after the number:**
+**With either option, go straight into both guarantees. Don't pause after the number:**
 
 "And that comes with two guarantees. First, a full satisfaction guarantee. We walk the property with you when we're done. We don't leave and you don't pay until every window is spotless. Second, a 6-month guarantee. We coat the glass so it repels dust and dirt, and if anything gets dirty in those 6 months, we come back out for free."
 
@@ -220,6 +242,10 @@ If you did Section 2 right, this shouldn't surprise you. Handle it as a **suppor
 "Totally understand. How much were you looking to spend?"
 
 *(Make sure you're comparing the same scope. If they're comparing a glass-only price to our 4-in-1, show them the difference before you touch the price.)*
+
+**If they priced both sides, step down the scope before you discount:**
+"No worries. If you want to keep it closer to that number, we can just do the exteriors for **$[exterior price]**. Same guarantees. Would that work better?"
+*(Use the discount below only if exterior-only still doesn't work.)*
 
 If their number is reasonable **and you have route flexibility**, trade the discount for something. Don't just cave:
 
@@ -293,6 +319,8 @@ Lock in the logistics while you're still on the phone:
 - "No worries." Use it to disarm before any handle.
 - "I will just say..." Use it to drop a truth softly.
 - "Okay, well hey man..." Use it to reset, offer a deal, or exit on good terms.
+- "Now, do you want the interiors cleaned as well? ... I can actually get you a quote for both and let you decide." This sets up the two-option close.
+- "So which one makes more sense for you, both sides or just the outside?"
 - "**Now, would it make sense to pencil out a date?**" This is the close. Use it after the price and after every objection handle.
 - "What are your thoughts on that?" Use it to check in during the pitch.
 - "If we were the exact same price, who would you go with?"
@@ -305,6 +333,8 @@ Lock in the logistics while you're still on the phone:
 - Build all 7 beliefs before you say a price
 - Write down their words and use them at the close
 - Confirm the exact scope before quoting
+- Offer both quotes (both sides vs. exterior only) when interior is on the table, leading with the full clean
+- Step down to exterior-only before you offer a discount
 - Rebuild value after every objection, then ask for the date again
 - One discount, traded for route flexibility, held firm
 - Vary your value language
