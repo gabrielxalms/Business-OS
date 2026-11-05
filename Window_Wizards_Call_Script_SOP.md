@@ -6,13 +6,15 @@
 
 **RULE \#1:** Talk like a normal person. Short and casual. If a line sounds like a sales line, don't say it. Put it in your own words.
 
-**RULE \#2:** Ask who else gets a say in the first 2 minutes. Not after the price.
+**RULE \#2:** Be assumptive. Never say “I can” or “want me to.” Say “I'll” and “we'll.” Talk like the job's already happening.
 
-**RULE \#3:** Ask your questions before you give a price. Most “no's” come from stuff you skipped.
+**RULE \#3:** Ask who else gets a say in the first 2 minutes. Not after the price.
 
-**RULE \#4:** One discount per call. That's it.
+**RULE \#4:** Ask your questions before you give a price. Most “no's” come from stuff you skipped.
 
-**RULE \#5:** After any pushback, remind them what they told you, then ask: “Now would it make sense to pencil out a date?”
+**RULE \#5:** One discount per call. That's it.
+
+**RULE \#6:** After any pushback, remind them what they told you, then ask: “Now would it make sense to pencil out a date?”
 
 ## **WHY PEOPLE SAY NO** (and what you skipped)
 
@@ -48,7 +50,7 @@ If you get pushback at the end, check this. It almost always means you skipped o
 
 ## **STEP 2** (who makes the call)
 
-- “So I'll just ask you a couple quick things about the house, and then I can get you a price. That cool?”
+- “So I'm just gonna ask you a couple quick things about the house, then I'll get you a price.”
 - “And is it just you on this, or does anyone else want a say? Like your wife or husband?”
 - “Do you own the place or rent?” *(If they rent, the landlord might be the one who decides.)*
 
@@ -56,10 +58,10 @@ If you get pushback at the end, check this. It almost always means you skipped o
 
 Yes, if it's easy. Don't make it a big deal. A lot of times one person hates the dirty windows, and the other one says “we can just do it ourselves.” You want to know which one you're talking to.
 
-1.  **“It's just me.”** Say: “Cool. So if it all sounds good, we could just get you on the schedule today?” *(If they say yes, you won't hear “I gotta ask my husband” at the end.)*
+1.  **“It's just me.”** Say: “Cool. So if it all sounds good, we'll just get you on the schedule today.” *(If they say yes, you won't hear “I gotta ask my husband” at the end.)*
 2.  **The spouse is home.** Say: “Oh, is \[he/she\] there? Just throw me on speaker. That way you don't have to repeat everything.”
 3.  **The spouse isn't home, but they'll be fine with it.** Keep going. Ask the spouse questions in Step 3.
-4.  **The spouse isn't home, and they're the one with the money or the one who says no.** Say: “No worries. I will just say, it's easier if I just tell you both at once. When's \[he/she\] usually home? I can call back like 6?” *(Set a real time. Not “call me whenever.”)*
+4.  **The spouse isn't home, and they're the one with the money or the one who says no.** Say: “No worries. I will just say, it's easier if I just tell you both at once. When's \[he/she\] usually home? Cool, I'll call you both at 6.” *(Set a real time. Not “call me whenever.”)*
 
 **Rule:** Don't give your best price to someone who can't say yes.
 
@@ -86,7 +88,7 @@ Listen for:
 - “About how many windows?”
 - “Do you have screens? Any storm windows?”
 - “Any hard water spots on them?”
-- **Inside too, or just outside? Ask it like this:** “Do you want the insides done too, or just the outsides? I can just give you a price for both and you can pick.” *(Now you get to give two prices. See Step 5.)*
+- **Inside too, or just outside? Ask it like this:** “And are we doing the insides too, or just the outsides? I'll get you a price for both, you pick.” *(Now you get to give two prices. See Step 5.)*
 - “Did you want any power washing too? Like the driveway or the patio?”
 
 ### DIY
@@ -148,7 +150,7 @@ Make sure you know the size of the house first, so the price makes sense.
 Give the bigger price first, then the smaller one.
 
 - “Okay, so for both sides, everything, it'd be **\$\[full price\]**. Just the outsides would be **\$\[exterior price\]**.”
-- *(Say the guarantee below, then:)* “Which one do you wanna do?” *(Then be quiet.)*
+- *(Say the guarantee below, then:)* “Which one are we doing?” *(Then be quiet.)*
 - **They pick one:** “Cool. Now would it make sense to pencil out a date? We're out your way Tuesday and Thursday.”
 - **They pick just outside:** that's still a win. Book it. You can ask about the insides when you're there.
 - **“Both are kind of a lot”:** offer just the outsides **before** you give any discount.
@@ -189,21 +191,21 @@ Give the bigger price first, then the smaller one.
 ### “I need to talk to my husband/wife”
 
 - “Yeah, no worries, that makes sense. What do you think \[he/she\]'ll say?”
-- **“Oh, \[he/she\]'ll be fine with it.”** “Cool. Want me to just pencil you in for Thursday so you don't lose the spot? If \[he/she\]'s not cool with it, just text me.”
+- **“Oh, \[he/she\]'ll be fine with it.”** “Cool. I'll pencil you in for Thursday so you don't lose the spot. If \[he/she\]'s not cool with it, just text me.”
 - **“\[He/She\]'ll say we can do it ourselves” / “It's too much.”** “Gotcha. What would you tell \[him/her\]?” *(Let them talk themselves into it.)*
-- **If that doesn't work:** “Want me to just call back when \[he/she\]'s home? It takes like 5 minutes.”
+- **If that doesn't work:** “I'll just call back when \[he/she\]'s home. Takes like 5 minutes. What time, like 6?”
 
 ### “That's more than I wanted to spend”
 
 - “Yeah, no worries. What were you hoping to spend?” *(If they got a cheaper quote, make sure it's for the same work. Lots of guys only price the glass.)*
-- **If you gave two prices, offer just the outsides first:** “Okay, we could just do the outsides. That'd be **\$\[exterior price\]**. Same guarantee.”
-- **If you're in their area that week, offer your one discount:** “Okay, well hey man, we're out your way Tuesday. If we can do it then, I can do **\$\[discounted price\]**. That's the best I can do.”
-- **If they push again, hold it:** “Yeah, I wish I could go lower, but that's really the best I can do. No worries if it's not a fit.”
+- **If you gave two prices, offer just the outsides first:** “Okay, so we'll just do the outsides then. That's **\$\[exterior price\]**. Same guarantee.”
+- **If you're in their area that week, offer your one discount:** “Okay, well hey man, we're out your way Tuesday. If we get you in then, I'll do **\$\[discounted price\]**. That's as low as it goes.”
+- **If they push again, hold it:** “Yeah man, that's as low as it goes. *(Then be quiet. If it's still a no:)* No worries if it's not a fit.”
 
 ### “Someone else is cheaper”
 
 - “Yeah, totally. I will just say, ask them if that's just the glass. A lot of guys only price the glass. We do the frames, the tracks, and the screens too.”
-- “Can I ask you something? If we were the same price, who would you pick?” *(They almost always say you.)*
+- “Real quick though. If we were the same price, who would you pick?” *(They almost always say you.)*
 - “Why's that?” *(Let them answer. Usually it's the reviews or the guarantee.)*
 - “Yeah, that's kinda why we cost what we cost. If something's not right, we come back for free.”
 
@@ -217,12 +219,12 @@ Give the bigger price first, then the smaller one.
 ### “Just text me the price”
 
 - “Yeah, for sure, I'll send it now. Was it kinda what you were expecting?” *(If not, find out why and answer it.)*
-- “Cool. Want me to pencil you in? I'll put the date in the text too.”
+- “Cool. I'll pencil you in for \[day\] and put it in the text too.”
 
 ### “Not right now” / “Maybe in the spring”
 
 - “Yeah, no worries. What made you reach out now?” *(Remind them of their reason: the party, selling the house, the spots getting worse.)*
-- If it's really not now: “Okay, well hey man, no worries. Want me to just put you down for \[month\]? I'll text you a week before.”
+- If it's really not now: “Okay, well hey man, no worries. I'll put you down for \[month\] and text you a week before.”
 
 ### When it's just not a fit
 
@@ -236,7 +238,7 @@ Lock it in before you hang up:
 - Address, gate code, pets, parking, anything fragile by the windows
 - **Make sure the person who decides will be home at the end**, for the walkthrough
 - Text them right away: the date, what we're doing, and the guarantee
-- **Then ask about every 6 months:** “Oh, and most people do it every 6 months, since the coating lasts that long. Want me to put you down for the next one too?”
+- **Then ask about every 6 months:** “Oh, and most people do it every 6 months, since the coating lasts that long. So I'll put you down for \[month\] for the next one.”
 
 ## **STEP 8** (if they don't book)
 
@@ -253,8 +255,8 @@ Lock it in before you hang up:
 - “I will just say...”
 - “Okay, well hey man...”
 - “What, um, specifically is it you need to think about?”
-- “Do you want the insides done too, or just the outsides? I can just give you a price for both and you can pick.”
-- “Which one do you wanna do?”
+- “And are we doing the insides too, or just the outsides? I'll get you a price for both, you pick.”
+- “Which one are we doing?”
 - “**Now would it make sense to pencil out a date?**”
 - “If we were the same price, who would you pick?”
 - “A lot of guys only price the glass.”
@@ -270,10 +272,11 @@ Lock it in before you hang up:
 - Offer just the outsides before you give a discount
 - After any pushback, remind them what they said, then ask for the date
 - One discount, then hold it
-- Keep it short and casual
+- Keep it short, casual, and assumptive
 
 ### DON'T
 
+- Say “I can” or “want me to.” Say “I'll” and “we'll.”
 - Find out about the spouse after you give the price
 - Give your best price to someone who can't say yes
 - Just say “okay” to “let me think about it.” Ask what it is.
