@@ -1,349 +1,283 @@
-# AZ/PA Window Wizards — Phone Sales SOP (Meta Leads)
+\[AZ/PA Window Wizards\]
 
-**What this is:** The script and rules for calling back Meta leads for window cleaning and power washing.
+# PHONE SALES SOP
 
-**How the call works:** We don't win the job by handling objections at the end. We win it by **preventing** them in the middle. Every objection traces back to a belief we never built. If you build all 7 before you say a price, most calls end with "okay, when can you come out?" and not "let me think about it."
+**GOAL:** Get the person who makes the call on the phone, show them why we're worth it, give a price, book the job.
 
-| Belief | What they have to believe | Objection you get if it's missing |
-|---|---|---|
-| **Pain** | Something about the windows bugs them | "I'm just getting prices" / no urgency at all |
-| **Doubt** | They can't (or shouldn't) do this themselves | "I'll just do them myself" / "my husband will do it" |
-| **Cost** | Waiting has a cost (event, listing, season, hard water getting worse) | **"Let me think about it"** / "maybe in the spring" |
-| **Desire** | They can picture the finished result and want it | Lukewarm. "Yeah, sounds good I guess." |
-| **Money** | It's worth the number to them | "That's more than I wanted to spend" |
-| **Support** | Whoever else has a say is on board | **"I need to talk to my wife/husband"** |
-| **Trust** | Our *method* is the right way to do it, and we're the right people to do it | "Someone else is cheaper" / "I need to get other quotes" |
+**RULE \#1:** Talk like a normal person. Short and casual. If a line sounds like a sales line, don't say it. Put it in your own words.
 
-If you get an objection at the end, look at the table. That's the belief you skipped.
+**RULE \#2:** Ask who else gets a say in the first 2 minutes. Not after the price.
 
----
+**RULE \#3:** Ask your questions before you give a price. Most “no's” come from stuff you skipped.
 
-## 0. Before You Dial
+**RULE \#4:** One discount per call. That's it.
 
-- Call within **5 minutes** of the lead coming in if you can. A Meta lead goes cold fast.
-- Pull up the lead form, the address on Google Maps / Street View (stories, roughly how many windows, screens, a pool, a big slider), and your route for the week. Know which days you're near them **before** you call.
-- Have your note sheet open. You'll write down **their exact words**, because you'll use them again at the close.
-- **Tonality:** calm, curious, certain. You're the expert they called, not a guy begging for a job. Talk like you'd talk to a neighbor. Slow down.
+**RULE \#5:** After any pushback, remind them what they told you, then ask: “Now would it make sense to pencil out a date?”
 
----
+## **WHY PEOPLE SAY NO** (and what you skipped)
 
-## 1. Opening (first 60 seconds)
+If you get pushback at the end, check this. It almost always means you skipped one of these earlier in the call.
 
-"Hey [Name], how are you? It's [Name] from [AZ/PA] Window Wizards. You filled out that form wanting to get the windows taken care of. Did I catch you at an okay time?"
 
-"Perfect. Could you remind me of your address?"
 
-*(Confirm the address and look at the house while they talk.)*
+| What they need to feel                     | What you hear if it's missing                       | Where to fix it         |
+|--------------------------------------------|-----------------------------------------------------|-------------------------|
+| **Something's bugging them**               | “I'm just getting prices”                           | Step 3: what's going on |
+| **They can't easily do it themselves**     | “We'll just do them ourselves”                      | Step 3: DIY             |
+| **There's a reason to do it now**          | **“Let me think about it”** / “Maybe in the spring” | Step 3: why now         |
+| **They want the end result**               | “Yeah, sounds good I guess”                         | Step 3: what they want  |
+| **It's worth the money**                   | “That's more than I wanted to spend”                | Steps 4 and 5           |
+| **Their spouse is on board**               | **“I need to talk to my wife/husband”**             | Step 2                  |
+| **They trust us more than the other guys** | “Someone else is cheaper”                           | Step 4                  |
 
-"Besides the uh, windows, how's your week been?"
 
-*(Real rapport, 20–30 seconds max. Let them talk. Don't fake it.)*
 
----
+## **STEP 0** (before you call)
 
-## 2. Frame the Call + Decision Maker (do this EARLY)
+- Call within **5 minutes** of the lead coming in. Leads go cold fast.
+- Look up the house on Google Maps. How many stories? Lots of windows? Big sliders? Pool?
+- Know what days you're in their area this week **before** you call.
+- Have something to write on. Write down what they say, **in their words**. You'll use it later.
+- **How to sound:** calm, chill, friendly. Like you're talking to a neighbor. Not a guy reading a script. Slow down.
 
-Set the agenda so they know where the call is going, then find out right away who makes the decision. **Never** find out at the end, after you've given the price, that the person on the phone can't say yes.
+## **STEP 1** (opening)
 
-"So here's how I usually do these. I'll ask you a couple quick questions about the house so I'm not guessing, I'll tell you how we do it, and then I'll give you an exact number. Sound good?"
+- “Hey, is this \[Name\]? Hey, it's \[Name\] with Window Wizards. You filled out that form about getting your windows done, right?”
+- “Cool. What's the address there?” *(Pull it up while they talk.)*
+- “And besides the windows, how's your week going?” *(Just chat for a bit. Don't fake it.)*
 
-"And real quick, is it just you I'm working with on this, or is there anyone else who'd want a say? A husband, wife, partner?"
+## **STEP 2** (who makes the call)
 
-*(Also check: **Do they own it?** "Is this your place, or are you renting?" Renters, landlords, property managers and HOAs all change who decides.)*
+- “So I'll just ask you a couple quick things about the house, and then I can get you a price. That cool?”
+- “And is it just you on this, or does anyone else want a say? Like your wife or husband?”
+- “Do you own the place or rent?” *(If they rent, the landlord might be the one who decides.)*
 
-### Should we push to get the other decision maker on the call?
+### Do we try to get the spouse on the phone?
 
-**Yes, when it's easy. Don't make it a hoop they have to jump through.** Window cleaning isn't a $10k decision, but it's more of a "household" decision than people think. One spouse usually owns the problem ("the windows drive me nuts"), and the other one owns the checkbook or the skepticism ("we can just do them ourselves").
+Yes, if it's easy. Don't make it a big deal. A lot of times one person hates the dirty windows, and the other one says “we can just do it ourselves.” You want to know which one you're talking to.
 
-**Use this decision tree:**
+1.  **“It's just me.”** Say: “Cool. So if it all sounds good, we could just get you on the schedule today?” *(If they say yes, you won't hear “I gotta ask my husband” at the end.)*
+2.  **The spouse is home.** Say: “Oh, is \[he/she\] there? Just throw me on speaker. That way you don't have to repeat everything.”
+3.  **The spouse isn't home, but they'll be fine with it.** Keep going. Ask the spouse questions in Step 3.
+4.  **The spouse isn't home, and they're the one with the money or the one who says no.** Say: “No worries. I will just say, it's easier if I just tell you both at once. When's \[he/she\] usually home? I can call back like 6?” *(Set a real time. Not “call me whenever.”)*
 
-1. **"It's just me."** → Lock it in now:
-   "Perfect. So if everything sounds good and the price makes sense, you'd be comfortable getting it on the calendar today?"
-   *(If they say yes, you've just removed "I need to talk to my husband" from the end of the call.)*
+**Rule:** Don't give your best price to someone who can't say yes.
 
-2. **"My husband/wife would want to know," and they're home right now** → Get them on:
-   "Is [he/she] around right now? Throw me on speaker. That way you're not stuck playing telephone with my answers, and I can make sure we cover whatever [he/she] cares about."
+## **STEP 3** (ask questions)
 
-3. **They aren't around, but the prospect is just "letting them know"** → Keep going, and **pre-handle support during discovery** (see Section 3, "Support"). Bank on this person to sell it for you, so get them **100% sold** first.
+This is where you win the job. Ask, listen, and write down what they say. If they say something interesting, just ask “Oh yeah? How so?”
 
-4. **They aren't around, and they control the money or they're the skeptic** → Get the details now, and set the price conversation for when they're both there:
-   "No worries. I will just say, I don't want you having to explain all this secondhand. Let me grab the details so the number's accurate, and let's find 5 minutes when you're both around. When's [he/she] usually home? Tonight around 6?"
-   *(Book the specific time. Don't say "call me back whenever.")*
+### What's going on
 
-**Rule:** Don't drop your best discount on someone who can't say yes. Save it for the decision maker.
-
----
-
-## 3. Discovery (build the beliefs)
-
-This is where the sale happens. Ask, listen, **write down their words.** Tie each question back to their answer: "What do you mean by that?" "Tell me more." "How long has that been going on?"
-
-### Pain: why are they calling?
-"So what's going on with the windows? What's bothering you about them right now?"
-"Have you ever had them cleaned professionally before?"
+- “So what's going on with the windows?”
+- “Have you ever had them done by a pro before?”
 
 Listen for:
-- **Selling the house / just moved in / post-construction** → move faster. Less price-sensitive.
-- **Event coming up** (party, family visiting, holidays) → that's your urgency. Write down the date.
-- **Hard water spots / haze / can't see out** → it's a real pain. Ask how long it's been like that.
-- **Recurring maintenance** → set up the 6-month routine conversation (Section 7).
-- **Partial job** (some windows already done) → reprice for the actual scope now. Don't quote full price and then negotiate down.
 
-### Background: scope (this makes the price sound calculated, not made up)
-- Square footage and stories
-- Rough window count. Any big sliders, skylights, French doors, hard-to-reach windows?
-- Screens? **Storm windows?** *(Storms are a big value point. See Section 4.)*
-- Hard water / sprinkler spots? Construction paint or stickers?
-- **Inside and outside, or outside only? Set up the two-option close here (see Section 5):**
-  "Now, do you want the interiors cleaned as well? While we're out there, do you want us doing both sides of the windows, or just the exterior? I can actually get you a quote for both and let you decide."
-  *(Whatever they say, you now have permission to give two numbers. That turns "yes or no?" into "which one?")*
-- "Were you looking for just window cleaning, or power washing as well? Driveway, siding, patio?"
+- **Selling the house, just moved in, or just built:** they usually want it done fast, and price matters less.
+- **Something coming up** (party, family visiting, holidays): write down the date. That's your reason to do it now.
+- **Hard water spots, can't see out:** ask how long it's been like that.
+- **They want it done regularly:** bring up the every-6-months plan after they book (Step 7).
+- **Only some windows:** price just those. Don't quote the whole house and then drop it.
 
-### Doubt: is DIY really an option?
-"Have you ever tried doing them yourself? How'd that go?"
+### The house
 
-*(Let them tell you about the ladder, the streaks, the second story, the hard water that won't come off, the whole Saturday it took.)*
+- “How many stories is it?”
+- “About how many windows?”
+- “Do you have screens? Any storm windows?”
+- “Any hard water spots on them?”
+- **Inside too, or just outside? Ask it like this:** “Do you want the insides done too, or just the outsides? I can just give you a price for both and you can pick.” *(Now you get to give two prices. See Step 5.)*
+- “Did you want any power washing too? Like the driveway or the patio?”
 
-"Yeah, most people say the same thing. It's not the glass that's hard, it's the second story, the screens, the tracks, and getting it streak-free."
+### DIY
 
-### Cost: why now? (this is what prevents "let me think about it")
-"What made you reach out now instead of a few months ago?"
-"Is there anything coming up you want them done before?"
-"What happens if they just stay like this for a while?"
+- “Have you ever tried doing them yourself?” *(Let them tell you about the ladder, the streaks, the high ones.)*
+- “Yeah, most people say that. The glass isn't really the hard part. It's the high ones and the screens.”
 
-*(For hard water in AZ: it etches the longer it sits. For selling: listing photos and showings. For an event: the date. Get them to say why waiting is worse, **in their own words**.)*
+### Why now
 
-### Desire: what does "done" look like?
-"When we're done and you're standing in the living room, what do you want it to look like?"
-"What would that mean for you? Is it the light, the view, how it looks from the street?"
+This is the part that stops “let me think about it” later.
 
-### Support: pre-handle the spouse (if there's another decision maker who isn't on the call)
-"What do you think [he/she] is going to think about getting them done?"
-"Are you two on the same page about it, or is it more your project?"
-"Does [he/she] know you were reaching out?"
+- “What made you reach out now?”
+- “Got anything coming up? Like people coming over?”
+- “How long have they been bugging you?”
+- *(Hard water in AZ:)* “Yeah, hard water gets worse the longer it sits.”
 
-*(If the answer is "oh, he'll be thrilled, he hates doing them," that's great. If it's "he'll say we can do them ourselves," that's a doubt problem you have to solve **now**, with the prospect, before the price.)*
+### What they want
 
-### Money: soft temperature check
-"Have you gotten any other quotes yet, or are we the first call?"
+- “So when they're done, what are you hoping it looks like?”
 
-*(If they've gotten other quotes, ask what was included. Set up the "most guys only price the glass" point in Section 4.)*
+### The spouse (if they're not on the phone)
 
-### Recap + agreement (DO NOT SKIP)
-Play their words back to them, then get a yes before you pitch:
+- “What do you think \[he/she\]'ll think about it?”
+- “Is \[he/she\] into getting them done too, or is this more your thing?”
 
-"Okay, so let me make sure I got this right. You've got [two stories, about 25 windows, the big slider in back], the hard water spots have been driving you nuts for [a year], you tried doing them yourself and [couldn't get the top ones], and you want them done before [your family comes on the 20th]. Did I miss anything?"
+*(If they say “\[he/she\]'ll be stoked, \[he/she\] hates doing them,” great. If they say “\[he/she\]'ll say we can do them ourselves,” deal with it now. Go back to the DIY questions with them.)*
 
----
+### Other quotes
 
-## 4. The Rundown (sell the METHOD, then the company)
+- “Have you gotten any other quotes yet?”
+- *(If yes:)* “What did they say they'd do?” *(Most guys only price the glass. You'll use that in Step 4.)*
 
-Sell **the way we clean** first. If they believe our method is the right way to do it, hiring us follows naturally. Tie each piece back to what they told you in discovery.
+### Sum it up (DON'T SKIP)
 
-"So my name's [Name], I'm the owner of [AZ/PA] Window Wizards. We've got 400+ reviews on Google at 4.9 stars.
+- “Okay, so just so I got it. Two stories, about 25 windows, the big slider out back. The spots have been bugging you for like a year, and you want it done before the 20th. That right?”
 
-Here's how we do it, and why it's different. Most guys just do the glass. We do a full 4-in-1 clean: both sides of the glass, inside and out, plus all the frames, sills, sliding doors, tracks, and screens. Top to bottom, all four sides. We pop the screens out, run them through our screen cleaning machine, wipe down all the tracks and sills, finish with our spot-free pure-water system, and reinstall everything."
+## **STEP 4** (how we do it)
 
-**Tie it to their pain:**
-- *(Hard water)* "That spot-free system is the reason those hard water spots you mentioned won't come right back the next time the sprinklers hit."
-- *(DIY failed)* "That's exactly the stuff you were fighting with when you did it yourself. The top floor and the streaks are what we're set up for."
-- *(Storm windows)* "Storms are the part nobody wants to touch. They have to come out and go back in right, so nothing gets bent or broken. [Your storm-window story: e.g. 'I've done a ton of older homes with storms. Just did a house with big storms the other day.']"
+Tell them how we clean. Keep it short. Tie it back to what they told you.
 
-*(If power washing is included:)* "And we'll power wash the siding, driveway, and front/back patio."
+- “So I'm \[Name\], I own the company. We've got 400-plus reviews on Google, 4.9 stars.”
+- “Most guys just do the glass. We do everything. Inside and out, the frames, the tracks, the sills, the screens. We take the screens out and run them through a machine. Then we use pure water so there's no spots, and put it all back.”
+- *(If power washing:)* “And we'll power wash the house, the driveway, and the patio.”
 
-**Check in. Don't monologue:**
-"What are your thoughts on that?"
-*(Say "What are your thoughts on that?" and not "Any questions?" It gets them talking, and their agreement is what makes the belief stick.)*
+**Tie it back to them:**
 
----
+- *(Hard water)* “That pure water is why those spots won't come right back.”
+- *(Tried DIY)* “That's all the stuff you were fighting with. The high ones, the streaks. That's what we do all day.”
+- *(Storm windows)* “Storms are the part nobody wants to touch. They gotta come out and go back in right, or they bend.” \[Add your own quick storm-window story here.\]
 
-## 5. Price + Close
+**Then check in:** “How's that sound?” *(Let them talk. Don't just keep going.)*
 
-Quick gut-check on scope (sq ft, stories, window count, screens, storms) so the number sounds calculated.
+## **STEP 5** (price + booking)
 
-### Option A: Two-option close (default when interior is on the table)
+Make sure you know the size of the house first, so the price makes sense.
 
-Give both numbers. **Lead with the full clean** so it sets the anchor, then give exterior-only. With two numbers, the question in their head becomes "which one?" and not "should I do this at all?"
+### Option A: two prices (use this when inside is on the table)
 
-"So like I said, I got you a quote for both. For your home, the full 4-in-1, inside and out, both sides of the glass, frames, tracks, sills, and screens, comes out to **$[full price]**. If you just want the exteriors, that's **$[exterior price]**."
+Give the bigger price first, then the smaller one.
 
-*(Go straight into the guarantees below, then:)*
+- “Okay, so for both sides, everything, it'd be **\$\[full price\]**. Just the outsides would be **\$\[exterior price\]**.”
+- *(Say the guarantee below, then:)* “Which one do you wanna do?” *(Then be quiet.)*
+- **They pick one:** “Cool. Now would it make sense to pencil out a date? We're out your way Tuesday and Thursday.”
+- **They pick just outside:** that's still a win. Book it. You can ask about the insides when you're there.
+- **“Both are kind of a lot”:** offer just the outsides **before** you give any discount.
+- **When to skip it:** if they already said “just outside” or “both for sure,” just give one price. You can still do two prices with power washing: “Windows only, or windows and the driveway?”
 
-"So which one makes more sense for you, both sides or just the outside?"
+### Option B: one price
 
-*(Then stop talking.)*
+- “Okay, so for your house it'd be **\$\[price\]**.”
 
-- **They pick one** → "Perfect. Now, would it make sense to pencil out a date? We're in your area [Tuesday] and [Thursday]."
-- **They pick exterior only** → that's a win. Book it. Mention the interior once on the walkthrough ("Want us to knock out the insides while we're here?"), not on the phone.
-- **"Both sound like a lot"** → that's a price objection (Section 6). Use exterior-only as the step-down **before** you offer any discount. You're trading scope, not dropping price.
+### The guarantee (say it right after the price)
 
-**When to skip it:** if they already told you "outside only" or "definitely both," don't force a second option. Quote what they asked for (Option B). You can still do two options with power washing: "windows only, or windows plus the driveway and patio?"
+- “And we don't leave and you don't pay till it's spotless. We walk it with you at the end. Plus we put a coating on the glass, so if they get dirty in the next 6 months, we come back for free.”
 
-### Option B: Single quote
+### Book it
 
-"So for your home, the full 4-in-1, [plus the power washing], that first initial clean comes out to **$[price]**."
+- “**Now would it make sense to pencil out a date?** We're out your way Tuesday and Thursday. Which one's better?” *(Then be quiet. Let them answer.)*
 
-**With either option, go straight into both guarantees. Don't pause after the number:**
+## **STEP 6** (when they push back)
 
-"And that comes with two guarantees. First, a full satisfaction guarantee. We walk the property with you when we're done. We don't leave and you don't pay until every window is spotless. Second, a 6-month guarantee. We coat the glass so it repels dust and dirt, and if anything gets dirty in those 6 months, we come back out for free."
+- **One discount per call.** That's it.
+- **Never argue.** Start with “Yeah, no worries” or “Totally.” Then ask a question.
+- **After you answer it,** remind them what they told you, then ask: “Now would it make sense to pencil out a date?”
+- “Let me think about it” is almost never the real reason. Find out what it really is.
 
-**Then close:**
+### “I need to think about it”
 
-"**Now, would it make sense to pencil out a date?** We're in your area [Tuesday] and [Thursday]. Which works better?"
+- **Ask:** “Yeah, no worries at all. What, um, specifically is it you need to think about?”
 
-*(Then stop talking. Silence is fine.)*
+**Then it goes one of these ways:**
 
----
+- **It's the price.** Go to the price section below.
+- **It's the spouse.** Go to the spouse section below.
+- **It's timing.** Go to “Not right now” below.
+- **“Nah, nothing really. I just like to think stuff over.”** Yes, you still ask for the date. Just make it easy to say yes, and easy to back out. First remind them what they said, then book it:
+  - “Yeah, totally. I mean, you said those spots on the back slider have been bugging you for like a year, and you got family coming on the 20th. We'll get every window, and if it's not perfect we come back. Now would it make sense to pencil out a date? If anything changes, just text me and we'll move it.”
+- **They still say no.** Don't push. “Okay, well hey man, no worries. I'll text you the price. Just let me know.” Then follow up (Step 8).
 
-## 6. Objection Handling
+### “I need to talk to my husband/wife”
 
-**Rules:**
-- **One discount per call, max.** Hold it.
-- **Never argue.** Agree, then ask a question. Start every handle with something like "No worries," "Totally fair," or "Totally understand."
-- **After you handle it, rebuild value using THEIR words from discovery, then close again:** "Now, would it make sense to pencil out a date?"
-- Find the **real** objection before you handle it. "Think about it" is almost never the real one.
+- “Yeah, no worries, that makes sense. What do you think \[he/she\]'ll say?”
+- **“Oh, \[he/she\]'ll be fine with it.”** “Cool. Want me to just pencil you in for Thursday so you don't lose the spot? If \[he/she\]'s not cool with it, just text me.”
+- **“\[He/She\]'ll say we can do it ourselves” / “It's too much.”** “Gotcha. What would you tell \[him/her\]?” *(Let them talk themselves into it.)*
+- **If that doesn't work:** “Want me to just call back when \[he/she\]'s home? It takes like 5 minutes.”
 
-### "I need to think about it" / "Let me get back to you"
+### “That's more than I wanted to spend”
 
-This usually means a **cost** belief is missing (no urgency), or there's a hidden concern they're not saying out loud. Don't accept it, and don't fight it. Find out what's behind it.
+- “Yeah, no worries. What were you hoping to spend?” *(If they got a cheaper quote, make sure it's for the same work. Lots of guys only price the glass.)*
+- **If you gave two prices, offer just the outsides first:** “Okay, we could just do the outsides. That'd be **\$\[exterior price\]**. Same guarantee.”
+- **If you're in their area that week, offer your one discount:** “Okay, well hey man, we're out your way Tuesday. If we can do it then, I can do **\$\[discounted price\]**. That's the best I can do.”
+- **If they push again, hold it:** “Yeah, I wish I could go lower, but that's really the best I can do. No worries if it's not a fit.”
 
-**Step 1: Disarm and isolate.**
-"No worries at all. I will just say, usually when someone wants to think it over, there's one piece that's not sitting 100%. Is it more the price, the timing, or are you not totally sold we're the right people for it?"
+### “Someone else is cheaper”
 
-**Alternate isolation (Cole's "100% certain" question):**
-"Totally fair. Let's take the money off the table for a second. Based on everything we talked about, do you feel 100% confident we'd get them looking the way you want?"
-- **"Yeah, 100%."** → "Okay, so it sounds like it's more the [price / timing], right?" → handle *that* objection.
-- **"Yeah... I mean..."** (hesitant tone) → "Be honest with me, what's keeping you from being 100% sure?" → handle what they say.
+- “Yeah, totally. I will just say, ask them if that's just the glass. A lot of guys only price the glass. We do the frames, the tracks, and the screens too.”
+- “Can I ask you something? If we were the same price, who would you pick?” *(They almost always say you.)*
+- “Why's that?” *(Let them answer. Usually it's the reviews or the guarantee.)*
+- “Yeah, that's kinda why we cost what we cost. If something's not right, we come back for free.”
 
-**Step 2: Rebuild value.** Use their words from your notes:
-"Here's why I ask. You told me those hard water spots on the back slider have been driving you crazy for a year, you tried them yourself and couldn't get the top ones, and you've got family coming on the 20th. We'd do the full 4-in-1, coat the glass so it stays clean for 6 months, and if anything's not right, we're back out for free. You don't pay until you've walked it with me and it's spotless."
+**Don't say the same thing every call.** Switch it up:
 
-**Step 3: Close again.**
-"**Now, would it make sense to pencil out a date?** I can hold [Thursday] for you."
+- “If it's not right, we come back for free.”
+- “We don't leave till it's spotless.”
+- “That's kinda why we've got 400-plus reviews.”
+- Or just stick to your price and stay quiet. That's fine.
 
-**If they're closed off (they've stayed surface-level the whole call), go softer:**
-"Totally get it. Just so I know, when you're thinking it over, what's the main thing you'll be weighing? That way I can make sure you've got everything you need."
-*(Whatever they say is the real objection. Handle that.)*
+### “Just text me the price”
 
-### "I need to talk to my husband/wife/partner"
+- “Yeah, for sure, I'll send it now. Was it kinda what you were expecting?” *(If not, find out why and answer it.)*
+- “Cool. Want me to pencil you in? I'll put the date in the text too.”
 
-If you did Section 2 right, this shouldn't surprise you. Handle it as a **support** question, not a stall.
+### “Not right now” / “Maybe in the spring”
 
-"No worries, that makes total sense. How do you think [he/she] is going to feel about getting them done?"
+- “Yeah, no worries. What made you reach out now?” *(Remind them of their reason: the party, selling the house, the spots getting worse.)*
+- If it's really not now: “Okay, well hey man, no worries. Want me to just put you down for \[month\]? I'll text you a week before.”
 
-- **"Oh, they'll be fine with it."** → "Perfect. Then let's pencil out [Thursday] so you don't lose the spot. If [he/she] has any questions, just text me back tonight and I'll answer them, or we'll move it. Sound fair?"
-  *(A tentative hold keeps the momentum without pushing them.)*
-- **"They'll probably say we can do it ourselves" / "They'll say it's too much."** → That's doubt or money hiding behind the spouse. Handle it with the prospect now:
-  "Totally fair. If [he/she] said that, what would you tell [him/her]?" *(Let them sell themselves.)*
-- **Last resort:** "Would it be easier to just jump on a quick 5-minute call with both of you tonight? That way you're not playing telephone. When's [he/she] usually home?"
+### When it's just not a fit
 
-### "That's more than I wanted to spend" / price
+- “Okay, well hey man, no worries at all. I'll text you my number. If anything changes, just hit me up.” *(End on good terms. A lot of these book later.)*
 
-"Totally understand. How much were you looking to spend?"
+## **STEP 7** (after they say yes)
 
-*(Make sure you're comparing the same scope. If they're comparing a glass-only price to our 4-in-1, show them the difference before you touch the price.)*
+Lock it in before you hang up:
 
-**If they priced both sides, step down the scope before you discount:**
-"No worries. If you want to keep it closer to that number, we can just do the exteriors for **$[exterior price]**. Same guarantees. Would that work better?"
-*(Use the discount below only if exterior-only still doesn't work.)*
+- Date and time window
+- Address, gate code, pets, parking, anything fragile by the windows
+- **Make sure the person who decides will be home at the end**, for the walkthrough
+- Text them right away: the date, what we're doing, and the guarantee
+- **Then ask about every 6 months:** “Oh, and most people do it every 6 months, since the coating lasts that long. Want me to put you down for the next one too?”
 
-If their number is reasonable **and you have route flexibility**, trade the discount for something. Don't just cave:
+## **STEP 8** (if they don't book)
 
-"Okay, well hey man, here's what I can do. We're going to be in your area [Tuesday]. If we get you in then, I can do **$[one discounted price]**. That's the best I can do."
+- **Right away:** text them the price, what's included, the guarantee, and the open day.
+- **Next day:** call. “Hey \[Name\], it's \[Name\] from Window Wizards. Did you get a chance to talk to \[him/her\]? I still got Thursday open.”
+- **Day 3 and Day 7:** quick text. “Hey, still got a spot Thursday when we're out your way. Want it?”
+- Write down why they didn't book, so you know what to fix.
 
-Hold that number. If they push again:
+## **QUICK REFERENCE**
 
-"I wish I could go lower, but that's genuinely the best I can do. No worries if it's not the right fit right now. Let me know if anything changes."
+### Your lines
 
-### "Someone else is cheaper" / "I'm getting other quotes"
+- “Yeah, no worries at all.”
+- “I will just say...”
+- “Okay, well hey man...”
+- “What, um, specifically is it you need to think about?”
+- “Do you want the insides done too, or just the outsides? I can just give you a price for both and you can pick.”
+- “Which one do you wanna do?”
+- “**Now would it make sense to pencil out a date?**”
+- “If we were the same price, who would you pick?”
+- “A lot of guys only price the glass.”
+- “We don't leave and you don't pay till it's spotless.”
 
-**First, compare apples to apples:**
-"Totally fair. One thing to check on those quotes: most guys only price the glass. Ask if the frames, tracks, sills, and screens are in the number. That's usually where the difference is."
+### DO
 
-**Then:**
-"Let me ask you this. If we were the exact same price, who would you go with?"
-*(They'll almost always say "you guys.")*
-"Exactly. Why's that?"
-*(Let them answer. It's usually the reviews, trust, or the guarantee. Their answer is the value, and they said it, not you.)*
-"Right, and that's exactly why we're priced where we are. You're not just paying for the clean, you're paying for the guarantee behind it."
+- Ask who else gets a say in the first 2 minutes
+- Get the spouse on speaker if they're home
+- Ask your questions before you give a price
+- Write down what they say and use it later
+- Give two prices (both sides vs. just outside) when you can
+- Offer just the outsides before you give a discount
+- After any pushback, remind them what they said, then ask for the date
+- One discount, then hold it
+- Keep it short and casual
 
-**Vary the justification.** Don't say "you get what you pay for" on every call. Rotate:
-- "If it's not right, we're back out for free. A cheaper company can't say that."
-- "We don't leave and you don't pay until every window is spotless."
-- "That's part of why we've got 400+ five-star reviews."
-- Or just hold the price with confidence. Silence is fine.
+### DON'T
 
-### "Just text me the quote"
-
-"For sure, I'll send it right now. While I've got you, though, did the number itself make sense, or was it more than you expected?"
-*(That brings out the real objection. Handle it, then:)* "Now, would it make sense to pencil out a date? I'll put it in the text too."
-
-### "Not right now / maybe in the spring"
-
-That means cost is missing. Go back to why they filled out the form:
-"No worries. I will just say, you reached out now for a reason. What made you fill out the form this week?"
-*(Rebuild the urgency: the event, the listing, the hard water etching, the season, the route day.)*
-If it's truly not right now: "Okay, well hey man, no worries at all. Want me to pencil you in for [month] so you've got a spot? I'll text you a week before."
-
-### Soft exit (when it really isn't a fit)
-"Okay, well hey man, no worries at all. I appreciate you taking the time. I'll text you my info. If anything changes, you know where to find me."
-*(Leave on good terms. Half of follow-ups close later.)*
-
----
-
-## 7. After the Yes
-
-Lock in the logistics while you're still on the phone:
-- Date and arrival window
-- Confirm the address, gate code, pets, parking, and anything breakable near the windows
-- **Make sure the decision maker will be home for the final walkthrough** (that's part of the satisfaction guarantee)
-- Send a confirmation text right away: the date, what's included, and both guarantees
-
-**Recurring upsell (bring it up after the yes, not before):**
-"And just so you know, most of our customers get on a 6-month routine, since the coating lasts 6 months. Want me to pencil in the next one when we're out there? Recurring clients get [priority scheduling / locked-in rate]."
-
----
-
-## 8. If They Don't Book: Follow-Up
-
-- **Within 5 min:** a recap text with their words, the price, both guarantees, and the open date.
-- **Next day:** a call. "Hey [Name], just wanted to see if you got a chance to talk it over with [spouse]. Still have [Thursday] open."
-- **Day 3 and Day 7:** short texts. "Still got a spot open [day] when we're in your area."
-- Log every objection in the CRM so you can see which belief you keep missing.
-
----
-
-## Quick Reference
-
-**Your lines (use them every call):**
-- "No worries." Use it to disarm before any handle.
-- "I will just say..." Use it to drop a truth softly.
-- "Okay, well hey man..." Use it to reset, offer a deal, or exit on good terms.
-- "Now, do you want the interiors cleaned as well? ... I can actually get you a quote for both and let you decide." This sets up the two-option close.
-- "So which one makes more sense for you, both sides or just the outside?"
-- "**Now, would it make sense to pencil out a date?**" This is the close. Use it after the price and after every objection handle.
-- "What are your thoughts on that?" Use it to check in during the pitch.
-- "If we were the exact same price, who would you go with?"
-- "Most guys only price the glass."
-- "We don't leave and you don't pay until every window is spotless."
-
-**DO:**
-- Ask who the decision maker is in the first 2 minutes
-- Get the other decision maker on speaker if they're home
-- Build all 7 beliefs before you say a price
-- Write down their words and use them at the close
-- Confirm the exact scope before quoting
-- Offer both quotes (both sides vs. exterior only) when interior is on the table, leading with the full clean
-- Step down to exterior-only before you offer a discount
-- Rebuild value after every objection, then ask for the date again
-- One discount, traded for route flexibility, held firm
-- Vary your value language
-
-**DON'T:**
-- Find out about the spouse after you've given the price
-- Give your best discount to someone who can't say yes
-- Pitch before you recap and get an agreement
-- Accept "let me think about it" without finding the real concern
-- Drop the price 2–3 times in one call
-- Quote full price for a partial job
-- Repeat the same justification line on every call
+- Find out about the spouse after you give the price
+- Give your best price to someone who can't say yes
+- Just say “okay” to “let me think about it.” Ask what it is.
+- Drop the price 2 or 3 times
+- Quote the whole house for a partial job
+- Say the same line every call
+- Sound like you're reading a script
