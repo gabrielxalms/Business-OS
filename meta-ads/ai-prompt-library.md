@@ -83,7 +83,7 @@ Gabe's real recorded audio runs the whole way through. AI-Gabe is on screen for 
 | Segment | On screen | Audio (Gabe's real recording) |
 |---|---|---|
 | A1 (~4 s) | **AI-Gabe** on the front lawn of `@loc_home`, squeegee in hand. **No ladder.** Behind him (soft focus), a crew tech cleans a second-story window with the water-fed pole | "This is what happens when we come out to your house." *(Gabe's final recorded line)* |
-| B-roll | Real: truck, shoes off, screens, squeegee passes, tracks, water-fed pole, siding, concrete | Talking points 1–7 |
+| B-roll | Real: truck, shoes off, screens, squeegee passes, tracks, water-fed pole, siding (no concrete; no surface cleaning) | Talking points 1–7 |
 | A2 (~4 s) | **AI-Gabe** turns from the window to camera | "And then, okay, this is my favorite part…" (or any line he wants to land on camera) |
 | B-roll | Real: the walk-through | Walk-through line |
 | A3 (~5 s) | **AI-Gabe** to camera, relaxed | 30-day guarantee + "So… yeah. That's pretty much it." |

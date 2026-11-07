@@ -6,6 +6,8 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 
 ---
 
+> **Services TideWater sells now:** window cleaning (inside, outside, screens, tracks, sills) and soft-washing siding. **No surface cleaning** (driveways, walkways, concrete). Never promise it in an ad.
+
 ## 0. How Meta works now and what it means for these ads
 
 - **Your creative does the targeting now.** Meta's delivery system (Andromeda) mostly ignores the narrow interest targeting you set. It reads each ad and finds the people that ad fits. So the **hook is your targeting**. A hook about "well water spots in Earlysville" finds rural homeowners on well water. A hook about "Hosting Thanksgiving?" finds people about to host. Target broad and let the hooks split up the audience.
@@ -13,7 +15,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 - **Meta's personal-attributes policy.** You can't assert or imply things like a viewer's age, health, disability or financial situation ("Are you a retiree?", "Got a bad back?", "Can't afford…"). The hooks below talk around that ("If climbing a ladder isn't your idea of a Saturday…"). Calling out a location ("Crozet homeowners") is fine.
 - **Proof wins.** Hormozi's audit of his own ad account found that about 80% of his winning ads "told one story: this product works." That's why your process body worked: it *showed* the work. The reviews body should do the same thing for trust.
 - **Hopkins' rules (*Scientific Advertising*, in this repo). Every line in this doc has to pass them:**
-  1. **Never insult the customer.** Blame the pollen, the clay, the well water or the paper towels, never the homeowner's effort, home or judgment. Never imply neglect. Hopkins: *don't say "Why do you neglect this offer?" That suggests that people are neglecting.*
+  1. **Never insult the customer.** Blame the pollen, the weather, the well water or the paper towels, never the homeowner's effort, home or judgment. Never imply neglect. Hopkins: *don't say "Why do you neglect this offer?" That suggests that people are neglecting.*
   2. **Show the bright side.** Lead with the result and the feeling (sun through spotless glass, the view, a guest-ready home), not the grime. Hopkins found positive ads outpulled negative ones *"four to one."* Problem footage only appears as a quick moment inside a demonstration of your work.
   3. **Never knock competitors.** No "most window cleaners skip…" and no "the last guy ghosted you." *"To attack a rival is never good advertising."*
   4. **Tell people what to do, not what to avoid.** "3 questions to ask," not "Don't hire anyone until…"
@@ -59,7 +61,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 **How to get a body that sounds natural:**
 
 1. **Don't memorize the example takes.** Each body below has **talking points** (the beats you have to hit) and an **example take** that shows how it should *sound*. Read the example once to get the feel, then put it away and say it your way. A memorized "um" sounds more fake than a script.
-2. **Always be cleaning on camera.** This is what wins for you. Gabe talks *while* squeegeeing, pulling screens or running the surface cleaner, or talks while the crew works in the frame behind him. Prop the phone on a ladder or have someone hold it. When your hands are busy, you also talk more naturally. Pause the work for a second when you want to make a point, then go back to it.
+2. **Always be cleaning on camera.** This is what wins for you. Gabe talks *while* squeegeeing, pulling screens or running the water-fed pole, or talks while the crew works in the frame behind him. Prop the phone on a ladder or have someone hold it. When your hands are busy, you also talk more naturally. Pause the work for a second when you want to make a point, then go back to it.
 3. **Talk to one person.** Picture a neighbor leaning over the fence asking "so what do you guys actually do?" and answer them.
 4. **Do 3–5 takes and keep the most real one** that still hits every talking point. It's usually not the cleanest take.
 5. **Keep the stumbles in editing.** Only cut dead air longer than about a second, or a tangent that loses the thread. Leave the "um"s, restarts, laughs and "oh, look at this."
@@ -72,7 +74,7 @@ Built on the GOATed Ads assembly method in this repo (`$100M Goated ads`, `$100M
 **The bodies have to be real people and real footage.** Three reasons:
 1. **AI can't fake "unscripted" yet.** AI voices and avatars saying "um" and pausing sound uncanny. The natural feel you want only comes from you actually talking.
 2. **The body is the proof.** It's the part that says "this company is real and does good work." If it's AI, there's no proof in it.
-3. **Real cleaning is what makes your winners win.** It's also what AI video gets wrong most visibly: squeegee strokes, water sheeting off glass, a surface cleaner on concrete. If people are stopping to watch real work, that's the one part you never fake.
+3. **Real cleaning is what makes your winners win.** It's also what AI video gets wrong most visibly: squeegee strokes, water sheeting off glass, a pole brushing high windows. If people are stopping to watch real work, that's the one part you never fake.
 
 **Legal lines:**
 - **No AI-generated customers, testimonials or reviews.** The FTC rule on fake reviews and testimonials (in effect since October 2024) bans them, and that includes AI-generated ones.
@@ -98,7 +100,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 - **Bodies = Gabe's real audio over the real B-roll.** Record yourself talking through each body's talking points (loose, unscripted), and lay it over the cleaning footage. That's real voice plus real cleaning, the same ingredients as your winners. On-camera clips of Gabe cleaning are still the best version when you can get them.
 - **Body B:** audio plus review screenshots over the B-roll. **Body D:** all three owners' audio over the B-roll, with real photos of the three of you cut in when each one starts talking.
-- **Hooks your B-roll already covers:** A-H01 (squeegee stripe), A-H07 (surface cleaner on concrete), C-H01 (text over a squeegee shot).
+- **Hooks your B-roll already covers:** A-H01 (squeegee stripe), A-H07 (a final squeegee pass), C-H01 (text over a squeegee shot).
 - **Your B-roll also covers (Hopkins rewrite):** A-H03 (spot removal), A-H04 (track brushing, now AI per Gabe), A-H06 (siding soft wash), and C-H09 (ladder against a house) if you have it.
 - **Check your footage first:** A-H02 (a clear window with a mountain view). Use AI only if you don't have it.
 - **Still need AI or graphics:** A-H05 (sun through a spotless window), B-H08 (yard sign at a sparkling house), C-H02 (sunlit holiday door), C-H04 (raindrops, then sun), C-H05 (ladder hung up in the garage), C-H08 (whole house sparkling in the sun), plus graphics for B-H09, C-H06 and D-H06 (friendly text mockup).
@@ -106,7 +108,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 
 ### Filming day (real footage only)
 
-1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoes coming off at the door, pulling screens, scrubbing, squeegee passes, track brushing, the walk-through, surface cleaner on concrete, soft wash on siding, before/after splits. You'll reuse this footage under every body.
+1. **Bodies on one real job (2–3 hours).** Film B-roll throughout: truck arriving, shoes coming off at the door, pulling screens, scrubbing, squeegee passes, track brushing, the walk-through, soft wash on siding, before/after splits. You'll reuse this footage under every body.
 2. **The "real" hooks, same day (about 20 clips, 3 seconds each).** Change spots between them.
 3. **CTAs (10 minutes).** Record all 3, plus a screen recording of someone filling out your lead form.
 4. **AI hook clips:** generate them separately, using the table above.
@@ -129,7 +131,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 4. Scrub, squeegee, then hand-detail the edges. *[squeegee pass]*
 5. The tracks and sills, the detail people notice. *[brushing out a track, then a towel wipe]*
 6. Purified water on high glass (a customer called it "a special tool that takes all the minerals out of your water").
-7. Siding and red clay: soft wash, no blasting. *[siding reveal, concrete stripe]*
+7. Siding: soft wash, no blasting. *[siding reveal]*
 8. The walk-through (you check our work before we leave) and the 30-day guarantee.
 
 **Example take (how it should sound, not lines to memorize):**
@@ -148,7 +150,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 >
 > Up high we use purified water. It takes all the minerals out, so it dries without spots.
 >
-> And, uh, if your siding's got that green stuff on it, or the driveway's all red from the clay, we do that too. Soft wash, so we're not, you know, blasting your paint off.
+> And, uh, if your siding's got that green stuff on it, we do that too. Soft wash, so we're not, you know, blasting your paint off.
 >
 > Then before we leave, we walk the house with you. If you see a streak, even one, we fix it right there. And if anything's not spotless in the next 30 days, we just come back. Free.
 >
@@ -164,7 +166,7 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 | A-H04 | "The detail that makes a clean window look brand new: the tracks." | **Reuse `A-S2b_tracks-clean`** (no new generation) | Detail-minded homeowners |
 | A-H05 | "That first sunny morning after your windows get cleaned…" | AI: sunlight pouring through a spotless living-room window, a coffee mug on the sill (`@loc_home_int`) | Everyone (the feeling) |
 | A-H06 | "Want your siding looking like the day you moved in?" | Real B-roll: soft wash turning vinyl siding bright again | Power-wash buyers |
-| A-H07 | "Watch red clay come right off this driveway." | Real B-roll: surface cleaner leaving a bright white stripe | Power-wash buyers |
+| A-H07 | "The best your windows have looked since the day they were installed." | Real B-roll: a final squeegee pass, then a sparkling pane *(replaced the red clay hook: TideWater no longer does surface cleaning)* | Everyone (customer language) |
 | A-H08 | "Inside, outside, and the screens. Every single window." | Real B-roll montage: screens off, inside pane, outside pane *(replaced the old A-H08, which repeated the body's first line)* | Thorough-minded buyers |
 | A-H09 | ⚠️ "We just finished a house in Earlysville and the owner asked if we'd taken the glass out." | A real customer reaching out to touch the glass | Everyone (story) |
 | A-H10 | "Every cleaning includes these 4 things." | AI-Gabe on the lawn of `@loc_home` holding up 4 fingers, strip washer in his other hand (lip-synced to his recorded hook line) | Comparison shoppers |
@@ -404,7 +406,6 @@ Use this to write the next batches. Each row is a small audience Meta can find i
 | Mountain-view homes (Crozet, Ivy, Free Union, Old Trail) | The view looks hazy | "You paid for the view" |
 | Rural homes on wells (Earlysville, North Garden, Keswick) | Hard-water spots from sprinklers | "Here's how we get them off for good" |
 | North-facing / shaded homes | Green algae on siding | "That's not dirt" |
-| Anyone with concrete | Red clay stains, mildew on walkways | Before/after "watch this" |
 | Holiday hosts (Nov–Dec) | Guests coming | "Your guests will notice" |
 | Spring (Mar–May) | Yellow pollen on everything | "A year of pollen coming off" |
 | Home sellers and realtors | Listing photos | "Make your listing photos shine" |
