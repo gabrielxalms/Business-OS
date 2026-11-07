@@ -50,7 +50,7 @@ Gabe approved this look on the `@loc_home` reference. Every new prompt has to fo
 | `@gabe` | Gabe's character sheet from his real photos (front full body, back full body, face close-up; one face only), in his work outfit | All AI talking clips, bodies A–D, ~20 hooks | ✅ Done |
 | `@tech1` | Crew tech character sheet: same work outfit as Gabe, visually distinct from Gabe (cap, sunglasses, different build) so the two faces don't blend | A1 background, other crew shots | ✅ Done (full body + close-up) |
 | `@prop_wfp` | Gabe's real water-fed pole: black telescoping pole with a brush head. **Show it without a hose.** Scrubbing is slow and only on the **top sash** of a double-hung window | A1 background, any pole shot | ✅ Photo uploaded in Higgsfield |
-| `@prop_squeegee` | Gabe's real squeegee (photo) | Every AI-Gabe clip where he holds it | ✅ Photo uploaded in Higgsfield |
+| `@prop_squeegee` | Gabe's real tool (photo): a short black-and-blue plastic handle with a strip-washer (mop) head attached. **Gabe grips ONLY the handle in his fist; his hand never touches the mop head.** | Every AI-Gabe clip where he holds it | ✅ Photo uploaded in Higgsfield |
 | `@partner1`, `@partner2` | Partners' character sheets, same format | Body D, D hooks | Later |
 | `@loc_view` | Clean window framing a Blue Ridge view (only if no real footage) | A-H02 | Optional |
 
