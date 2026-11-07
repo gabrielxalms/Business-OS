@@ -108,3 +108,5 @@ Gabe's decision: the tracks before/after is AI (there's no real B-roll of it). I
 
 - **A-S2** ✅ / **A-S2b** ✅ `A-S2b_tracks-clean_v1`: AI track before/after with Gabe's handheld brush + a damp microfiber towel (no vacuum).
 - **A-S3** next: AI-Gabe at the bottom of the front steps of `@loc_home` at the end of the job (warmer, later light), towel on his shoulder, squeegee in hand. Audio `gabe_a3`: "And if anything's not spotless in the next 30 days, we just come back. Free. So… yeah. That's pretty much it." Upload: image1 house, image2–4 Gabe, image5 squeegee, audio1. ~8 s.
+
+- **A-S3** final audio (Gabe's recording): "If anything is not up to your liking, or there happens to be build-up in the 30 days after we service your home, give us a call, and we'll come out for totally free and get your windows clear, sparkling, and exactly how you like again." It's long (~12–15 s): set the clip length to audio + 1 s; if it drifts, split it at "give us a call," into A-S3a / A-S3b.
