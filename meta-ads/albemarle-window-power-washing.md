@@ -161,13 +161,13 @@ You already have real cleaning B-roll (crew working, no talking). **Use it befor
 | A-H01 | "One pass. Watch the glass disappear." | Real B-roll: one squeegee pass leaves glass so clear it looks invisible, sun glinting | Everyone (demonstration) |
 | A-H02 | "Crozet — this is the Blue Ridge view you bought your house for." | A crystal-clear window framing the mountains (real job footage, or AI) | View homes: Crozet, Ivy, Free Union, Old Trail |
 | A-H03 | "Well water leaves white spots on glass. Here's how we get them off for good." | Real B-roll: spot removal on glass, ending on a clear pane | Rural homes on wells: Earlysville, Free Union, North Garden |
-| A-H04 | "The detail that makes a clean window look brand new: the tracks." | AI process demo: a handheld brush cleaning a track, then a towel wipe (like A-S2b) | Detail-minded homeowners |
+| A-H04 | "The detail that makes a clean window look brand new: the tracks." | **Reuse `A-S2b_tracks-clean`** (no new generation) | Detail-minded homeowners |
 | A-H05 | "That first sunny morning after your windows get cleaned…" | AI: sunlight pouring through a spotless living-room window, a coffee mug on the sill (`@loc_home_int`) | Everyone (the feeling) |
 | A-H06 | "Want your siding looking like the day you moved in?" | Real B-roll: soft wash turning vinyl siding bright again | Power-wash buyers |
 | A-H07 | "Watch red clay come right off this driveway." | Real B-roll: surface cleaner leaving a bright white stripe | Power-wash buyers |
-| A-H08 | "Here's exactly what happens when we come to your house." | Real B-roll: truck pulling in, tech taking shoes off at the door | Cautious, product-aware buyers |
+| A-H08 | "Inside, outside, and the screens. Every single window." | Real B-roll montage: screens off, inside pane, outside pane *(replaced the old A-H08, which repeated the body's first line)* | Thorough-minded buyers |
 | A-H09 | ⚠️ "We just finished a house in Earlysville and the owner asked if we'd taken the glass out." | A real customer reaching out to touch the glass | Everyone (story) |
-| A-H10 | "Every cleaning includes these 4 things." | Gabe holds up 4 fingers mid-job, or a quick B-roll montage of the 4 steps | Comparison shoppers |
+| A-H10 | "Every cleaning includes these 4 things." | AI-Gabe on the lawn of `@loc_home` holding up 4 fingers, strip washer in his other hand (lip-synced to his recorded hook line) | Comparison shoppers |
 
 ---
 
