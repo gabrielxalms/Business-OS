@@ -380,7 +380,7 @@ Headline: *Local owners. Local crew.*
 - **Objective:** Leads → Instant Form, set to **"Higher intent"** (adds a review screen, so fewer junk leads). Ask for their address and which service they want (windows / power washing / both).
 - **Location:** Albemarle County plus Charlottesville city. In Ads Manager use ZIP codes (22901, 22902, 22903, 22911, 22932 Crozet, 22936 Earlysville, 22940 Free Union, 22945 Ivy, 22947 Keswick, 22959 North Garden, plus the smaller rural ZIPs; type each town name in Ads Manager to confirm its code). Set it to **"People living in this location,"** not "people recently in." Otherwise you pay for UVA visitors and tourists.
 - **Audience:** Broad / Advantage+. No interests. Let the hooks do the targeting.
-- **Structure:** One campaign, **one ad set per body** (A, B, C, D), with that body's 10 hook ads inside. Start with about **$20–30/day per ad set**. If budget is tight, launch A (proven) and B first, then add C and D in week 2.
+- **Structure:** **One campaign for everything**, with **Advantage+ campaign budget (CBO)** and **one ad set per body** (A, B, C, D), each holding that body's hook ads. Meta moves the budget to whichever body and hook is winning, and you can still read results body by body. **Don't wait for all four:** launch the campaign with Body A's ad set now and add B, C and D as new ad sets in the same campaign as each is finished. Budget: about $20–30/day per active ad set (e.g. $25/day with A only, then about $100/day with all four).
 
 **Reading the results**
 
