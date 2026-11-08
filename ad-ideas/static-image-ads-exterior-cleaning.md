@@ -1,6 +1,6 @@
 # Static Image Ads: Window Cleaning & Soft Washing
 
-**For:** [Business Name], serving all of Albemarle County, VA (most customers in Charlottesville, Crozet and Glenmore)
+**For:** TideWater Window Cleaning, serving all of Albemarle County, VA (most customers in Charlottesville, Crozet and Glenmore)
 **Buyer:** Homeowners 45 to 85+, mostly women. Lots of windows, little time, can't reach the outsides. Trust and quality matter more than price. Local first.
 **Built from:** the avatar sheet plus these files in this repo: `$100M Hooks`, `$100M GOATed Ads`, `ACQ Advertising Handbook` (20 frameworks + Ad Kaleidoscope), `100M Leads` (paid ads chapter), `$100M Proof Checklist`, *Ogilvy on Advertising* (headlines + illustrations), *Breakthrough Advertising* (awareness + sophistication), `Hooks_and_Mechanisms_Chris_Haddad`, `THE DIRECT RESPONSE HEADLINE ENGINE`, `Hawkins_Human_Psychology_Emotions_Decisions` (Map of Consciousness), `$100M Branding`.
 
@@ -97,7 +97,7 @@ We also flip their own words up a level: "picky" becomes "high standards," "too 
 
 ### 4. Put social proof on every ad, not just the review ad
 
-- **A trust strip on all 15** (the bottom text): `★★★★★ [#] five-star Google reviews · [Business Name]`, e.g. "TideWater Window Cleaning · 47 five-star Google reviews." Hormozi's Branding book ranks what other people say above what you say. The `Proof Checklist` agrees.
+- **A trust strip on all 15** (the bottom text): `★★★★★ 47 five-star Google reviews · TideWater Window Cleaning`. Hormozi's Branding book ranks what other people say above what you say. The `Proof Checklist` agrees.
 - **Hawkins' "company we keep":** people rise when they see others like them who had the same problem and got past it. Use real customers' words.
 - **Use proximity:** neighbors, streets and neighborhood names.
 
@@ -205,7 +205,7 @@ Every post ends with the standard CTA: "Tap Get Quote for a fair price in minute
 - **Text on image:** New headline: "Check our reviews first. We'd want you to." Then the review card and the trust strip.
 - **Post:**
   > We didn't write this. [First name] in [Crozet] did.
-  > Checking reviews before you let anyone near your home is smart. We'd do the same. There are [#] more on Google, and we read every one.
+  > Checking reviews before you let anyone near your home is smart. We'd do the same. There are 46 more on Google, and we read every one.
   > Tap Get Quote for a fair price in minutes. No visit, no pressure.
 - **What changed:** The headline went from bragging about a number to approving of their caution. It isn't needy, it affirms who they are, and the number still shows in the strip.
 
@@ -450,7 +450,7 @@ Every post ends with the standard CTA: "Tap Get Quote for a fair price in minute
 
 71. ★ **The Route Ad.** Bold text plus your truck on a neighborhood street. *"Looking for 6 more homes in [Crozet] on [May 12]. [4] of your neighbors are already on the route."* `M`
 72. **Looking for 10 Overdue Homes.** Text-led static. *"Looking for 10 Albemarle homes whose windows haven't been cleaned in 3+ years."* `P`
-73. **Price in Minutes.** Phone screen showing an incoming call from [Business Name]. *"Get your price over the phone in 5 minutes. No home visit."* `M`
+73. **Price in Minutes.** Phone screen showing an incoming call from TideWater Window Cleaning. *"Get your price over the phone in 5 minutes. No home visit."* `M`
 74. **Dirtiest Windows Contest.** *"Think you have the dirtiest windows in Charlottesville? Send us a photo. Winner gets a free whole-house cleaning."* `U` (everyone who enters is a lead with a photo of their windows)
 75. **The Complete Clean.** Checklist graphic. *"Inside. Outside. Screens. Sills. Tracks. The whole job."* `S`
 76. **Streak-Free Promise.** Handwritten guarantee card. *"See a streak within [7] days? We come back free."* `M` (only if true)

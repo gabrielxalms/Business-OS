@@ -28,9 +28,9 @@ Hawkins says people respond to the emotional energy of what's in front of them b
 
 Every prompt ends with the same slim bar across the bottom:
 
-`★★★★★ [#] five-star Google reviews · [Business Name]`
+`★★★★★ 47 five-star Google reviews · TideWater Window Cleaning`
 
-For example: "TideWater Window Cleaning · 47 five-star Google reviews." AI sometimes draws the wrong number of stars, so check it every time.
+AI sometimes draws the wrong number of stars, so check it every time.
 
 ### 3. Real photo vs. AI photo (unchanged from v1)
 
@@ -77,7 +77,7 @@ Top: a solid [brand color] bar with bold white sans-serif text, spelled exactly:
 Just under the bar, smaller white text with a soft shadow, spelled exactly:
 "Can't remember? You're in good company."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 Attached logo, small, bottom right, just above the strip.
 No other text, icons, or watermarks.
 ```
@@ -94,7 +94,7 @@ Top: a solid [brand color] bar with bold white sans-serif text, spelled exactly:
 Just under the bar, smaller white text with a soft shadow, spelled exactly:
 "Can't remember? You're in good company."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -116,7 +116,7 @@ On the glass, two small labels in white letters with a thin dark outline, spelle
 on the dirty half: "What you get used to"
 on the clean half: "What you've been missing"
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 Attached logo, small, bottom right, just above the strip. No other text.
 ```
 
@@ -137,7 +137,7 @@ Top third: bold white sans-serif with a soft dark shadow, spelled exactly:
 "Notice this when the sun hits?"
 Under it, smaller, spelled exactly: "Good eye. That's years of pollen and film."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -153,7 +153,7 @@ Top: a cream-colored bar with large dark-gray serif text in quotation marks, spe
 "You remind me of my son."
 Under it, small, spelled exactly: "— A customer in [Glenmore]"
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 Attached logo, small, bottom right, just above the strip. No other text.
 ```
 
@@ -168,7 +168,7 @@ Top: a cream-colored bar with large dark-gray serif text in quotation marks, spe
 "You remind me of my son."
 Under it, small, spelled exactly: "— A customer in [Glenmore]"
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -190,7 +190,7 @@ Top, bold white sans-serif, spelled exactly, two lines:
 "We'd want you to."
 Center: a large, completely blank white card with rounded corners and a soft shadow, about 80% of the width. Leave it empty. I'll place a real review screenshot inside it.
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -212,7 +212,7 @@ Under that, white text in a friendly, slightly smaller font, spelled exactly:
 "[4] of your neighbors are already on the route."
 Lower third: the attached truck photo inside a rounded rectangle with a white border. Do not redraw or change the truck or its logo.
 Bottom: a slim white strip with [brand color] text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -234,7 +234,7 @@ Under it, smaller, spelled exactly: "Your home. Your rules."
 Just above the bottom strip, small italic text, spelled exactly:
 "'Kind, polite, took their shoes off while inside.' — Google review"
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -256,7 +256,7 @@ Top, bold white sans-serif with a dark shadow, spelled exactly, two lines:
 Make "It's alive." larger and bright green.
 Under it, smaller white text, spelled exactly: "Good news: it comes off gently."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -275,7 +275,7 @@ Top: a solid [brand color] bar with bold white sans-serif, spelled exactly:
 Under the bar, smaller white text with a shadow, spelled exactly:
 "Gentle on paint, old wood, plants and pets."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -297,7 +297,7 @@ Top third: a white bar with bold dark sans-serif, spelled exactly, two lines:
 Under the bar, smaller dark text, spelled exactly:
 "You've already got good help. Let's finish the job."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -314,7 +314,7 @@ Bottom area: a dark see-through bar with white sans-serif text, spelled exactly:
 "If you can write in it, it's time."
 Under it, smaller, spelled exactly: "(Happens to the nicest homes.)"
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -334,7 +334,7 @@ Top: a solid red bar with bold white sans-serif, spelled exactly, two lines:
 Under the bar, larger white text with a shadow, spelled exactly: "Leave the ladder to us."
 Very small, just above the bottom strip, spelled exactly: "Source: CDC"
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -347,7 +347,7 @@ Overall feeling: light, warm, a little funny, content.
 Top: bold dark-navy sans-serif on a white bar, spelled exactly:
 "Retire the ladder. Keep everything else."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -371,7 +371,7 @@ Below the clipboard, a navy bar with white text, spelled exactly, two lines:
 "High standards? Good."
 "We don't leave until you've walked the house with us."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -391,7 +391,7 @@ Top bar: bold white sans-serif, spelled exactly, two lines:
 "Every pin is a neighbor."
 Just under the top bar, small white text on a rounded [brand color] tag, spelled exactly: "Find your street."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
@@ -411,7 +411,7 @@ Top third, over the sky: bold white sans-serif with a soft shadow, spelled exact
 "You bought the house for this view."
 Under it, smaller, spelled exactly: "Let's get it back."
 Bottom: a slim [brand color] strip with white text, spelled exactly:
-"★★★★★ [#] five-star Google reviews · [Business Name]"
+"★★★★★ 47 five-star Google reviews · TideWater Window Cleaning"
 No other text.
 ```
 
