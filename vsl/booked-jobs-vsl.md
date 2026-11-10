@@ -136,19 +136,21 @@ So when I tell you something works, it's not because I read it somewhere. It's b
 
 That Virginia company is where this started.
 
-It's a six-figure exterior cleaning company in Charlottesville. I took over their ads and their booking, and I did the whole thing remotely.
+It's called Tidewater Window Cleaning. A six-figure exterior cleaning company in Charlottesville. I took over their ads and their booking, and I did the whole thing remotely.
 
 The first ten days, we didn't run a single lead ad. We set everything up and warmed up the account. That's part of the system.
 
 Then we went live. Twenty dollars a day.
 
-In the first three days: twenty-two hundred dollars in booked jobs. `[CONFIRM: $2,200, and how many jobs?]`
+In the first three days: twenty-two hundred dollars in booked jobs.
 
 Three days at twenty bucks a day is about sixty dollars in ad spend. Sixty dollars in. Twenty-two hundred out.
 
-By day thirty of running ads: twelve booked jobs. Sixty-five hundred dollars. `[CONFIRM total ad spend. If it stayed at $20/day, add: "For under six hundred dollars in ad spend."]`
+Once we knew it worked, we turned it up to fifty dollars a day.
 
-*[On screen: Ads Manager screenshot showing $20/day and spend. Job calendar. Invoice totals. "$60 in → $2,200 out" / "12 jobs, $6,500 in 30 days"]*
+By day thirty of running ads: twelve booked jobs. Sixty-five hundred dollars.
+
+*[On screen: Ads Manager screenshot showing the $20/day start, the move to $50/day, and spend. Job calendar. Invoice totals. "$60 in → $2,200 out" / "12 jobs, $6,500 in 30 days"]*
 
 Now, I'm not going to pretend that's a million-dollar case study. It's twelve jobs. But here's why it matters to you.
 
@@ -238,13 +240,13 @@ Agentic Ads flips that. Here's how it works, in plain English.
 
 **Step two: setup and warm-up.** About ten days. I build everything and warm up your ad account, so when we go live, it's ready to perform.
 
-**Step three: the ads go live, and AI does the heavy lifting.** AI helps me make way more ad creative than a person could make by hand. Then Meta's AI tests those ads against each other and pushes your budget to the ones that are actually bringing in homeowners. The losers stop getting money. The winners get more. Every single day.
+**Step three: the ads go live, and AI does the heavy lifting.** We run around fifty dollars a day, which is the sweet spot for ten booked jobs a month. AI helps me make way more ad creative than a person could make by hand. Then Meta's AI tests those ads against each other and pushes your budget to the ones that are actually bringing in homeowners. The losers stop getting money. The winners get more. Every single day.
 
 **Step four: every lead gets to me in seconds.** The second a homeowner fills out the form, the system pulls them straight from the ad into my dialer and alerts me. No spreadsheet. No waiting.
 
 *[On screen: screen recording of a lead coming in and hitting your phone.]*
 
-**Step five: I call and book the job.** Here's why that matters. Seventy-eight percent of customers buy from whoever responds first. You're up a ladder at two o'clock on a Tuesday. You can't call a lead back in five minutes. I can. I qualify them, and I put the job on your calendar with the address, the service and the details. `[CONFIRM: what does a booked job include? e.g. price quoted and confirmed]`
+**Step five: I call and book the job.** Here's why that matters. Seventy-eight percent of customers buy from whoever responds first. You're up a ladder at two o'clock on a Tuesday. You can't call a lead back in five minutes. I can. I qualify them, and I put a confirmed job on your schedule, with the address, the service and the details.
 
 *[On screen: "78% of customers buy from whoever responds first."]*
 
@@ -294,7 +296,7 @@ You're out nothing. Zero.
 
 *[On screen: "10 booked jobs in 30 days, or every dollar back. Including ad spend." Small text: "Terms apply. Details on the call."]*
 
-I got that Charlottesville company twelve. I'm guaranteeing you ten. That's how confident I am.
+I got Tidewater twelve. I'm guaranteeing you ten. That's how confident I am.
 
 Think about what that means. The worst case: you get thirty days of ads tested in your market, for free, and I eat the cost. The best case: a full calendar.
 
@@ -341,10 +343,10 @@ You're already good at the work. Let's go fill your calendar.
 The video promises a refund of **the setup fee plus ad spend**. Whatever you say on camera is what you'll be held to, so:
 
 - **Your written terms have to say the same thing as the video.** If the contract only refunds the setup fee, the video and the contract contradict each other. That causes refund disputes and is a false-advertising risk.
-- **Define a "booked job" in the contract:** for example, a confirmed appointment with a quoted price inside their service area.
+- **Put your definition of a booked job in the contract:** a confirmed job on the schedule. Also decide whether a job still counts if the homeowner cancels later, or if the client turns it down.
 - **Say the 30 days start when ads go live,** not during the 10-day warm-up. The script already says "first thirty days of running ads."
-- **Put the client's conditions in writing:** they keep the agreed daily budget, take the jobs you book, and send the photos you need. This is the conditional guarantee from $100M Offers. The video doesn't need to list conditions, so "Terms apply. Details on the call" goes on screen.
-- **Know your worst case before you set the setup fee.** If a client misses, you refund the setup fee plus about 30 days of their ad spend (about $600 at $20/day) out of your own pocket.
+- **Put the client's conditions in writing:** they keep the $50/day budget, take the jobs you book, and send the photos you need. This is the conditional guarantee from $100M Offers. The video doesn't need to list conditions, so "Terms apply. Details on the call" goes on screen.
+- **Know your worst case before you set the setup fee.** If a client misses, you refund the setup fee plus about 30 days of ad spend, which is about $1,500 at $50/day, out of your own pocket.
 
 ---
 
@@ -352,8 +354,8 @@ The video promises a refund of **the setup fee plus ad spend**. Whatever you say
 
 You have one result, so **show it, don't just say it.** In order of impact:
 
-1. **The Charlottesville owners on camera** for 30–60 seconds, saying what happened in the first three days in their own words. This is the biggest single upgrade available: "trust me" becomes a real client saying it. You'll also need their OK to show their numbers and name.
-2. **An unedited screen recording of Ads Manager** showing the $20/day budget, the spend in the first three days and the date range.
+1. **Tidewater's owners on camera** for 30–60 seconds, saying what happened in the first three days in their own words. This is the biggest single upgrade available: "trust me" becomes a real client saying it. You'll also need their OK to show their numbers and name.
+2. **An unedited screen recording of Ads Manager** showing the $20/day start, the first three days' spend, the move to $50/day and the date range.
 3. **Their job calendar or CRM** showing the bookings.
 4. **Invoice or payment totals:** $2,200 for the first three days, $6,500 for the month.
 5. **The automation running:** a screen recording of a test lead coming in and hitting your dialer within seconds. That's Agentic Ads you can actually see.
@@ -364,13 +366,9 @@ You have one result, so **show it, don't just say it.** In order of impact:
 
 ## What I still need from you
 
-1. **First three days:** is it $2,200, and how many jobs? (Earlier you said 3 jobs and $2.3k.)
-2. **Total ad spend for the 30 days.** Did it stay at $20/day? If so, the script can say "under $600 in ad spend" and "about $50 per booked job."
-3. **Can you get the Charlottesville owners on camera,** and are you allowed to name the company?
-4. **What counts as a booked job** for the guarantee: confirmed with a price, or an estimate appointment?
-5. **Pricing beyond the setup fee:** monthly fee, per job, or both? Is there a minimum ad spend? This decides how section 14 talks about price.
-6. **What you need from the client,** time-wise. Is section 11's bracket right?
-7. **One company per area:** yes or no? Only keep section 15 if it's true.
-8. **What happens on the call and what's in the roadmap,** so CTA B promises exactly that.
-9. **Who you want as clients** (revenue range, number of crews), so section 4 matches your application filter.
-10. **Your name and a line or two of backstory** for section 2.
+1. **Pricing beyond the setup fee:** monthly fee, per job, or both? This decides how section 14 talks about price.
+2. **What you need from the client,** time-wise. Is section 11's bracket right?
+3. **One company per area:** yes or no? Only keep section 15 if it's true.
+4. **What happens on the call and what's in the roadmap,** so CTA B promises exactly that.
+5. **Who you want as clients** (revenue range, number of crews), so section 4 matches your application filter.
+6. **Your name and a line or two of backstory** for section 2.
