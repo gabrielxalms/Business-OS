@@ -1,8 +1,8 @@
-# Booked Jobs VSL: Exterior Cleaners
+# Agentic Ads VSL: Exterior Cleaners
 
 Three parts:
 1. **Why the Viral Coach VSL is built the way it is**: what each section does and why it comes where it does.
-2. **What I changed for you and why**: you have one strong proof point, not twenty, so the structure has to change.
+2. **What I changed for you and why**: your proof is one client result, so the structure has to change, built around Agentic Ads and your guarantee.
 3. **The script**: ready to record. Anything in `[BRACKETS]` is an assumption or placeholder you need to confirm.
 
 ---
@@ -49,27 +49,42 @@ If the order changes, the logic breaks. Proof before the viewer cares is just no
 
 ## Part 2: What I changed for you and why
 
-**1. I flipped the expertise beat.** He says: "we're not experts in your industry, we're experts in growth." You're the opposite: an exterior cleaner who figured out marketing. For blue-collar owners who get DMs from "marketing agencies" every week, *"I'm one of you"* beats *"I'm a marketing expert."* This is your biggest asset, so it moves from beat 13 up to beat 2.
+**1. Agentic Ads is the mechanism. Booked jobs are the product.** The headline names the mechanism so you don't sound like "another ads guy." The script explains it once in plain English, then says: *"You don't need to remember any of that. All you need to know is jobs show up on your calendar."* People buy the outcome. The mechanism only explains why this time will be different. Every claim in that section is true: AI-made creative, Meta's AI moving budget to the winning ads (that's what a CBO campaign does), automation getting each lead into your dialer in seconds, and you booking by phone. It sounds just as good, and it holds up if a prospect asks about it on the call.
 
-**2. Proof moves up front, and I squeeze every drop out of it.** He has ten case studies, so he can stack them in the middle. You have one test, so it goes early, and you **do the math out loud**: about $600 in, $6,500 out, about $50 per booked job, about 10x. One number explained is more convincing than ten numbers rushed past. Then the **"if it worked there, it'll work for you"** frame: new business, no reviews, NYC ad prices, $20/day. The harder the conditions you prove it in, the more each viewer assumes it'll work in their easier situation.
+**2. I flipped the expertise beat.** He says: "we're not experts in your industry, we're experts in growth." You're the opposite. You're in the industry: you run a window cleaning company in Brooklyn, and you're the one on the phone with the leads. Owners who get agency DMs every week trust *"I'm in this industry"* more than *"I'm a marketing expert."* So this moves from beat 13 up to beat 2.
 
-**3. Your weakness becomes a trust builder.** He admits "not every client has life-changing success." You admit "I don't have 100 client case studies yet," and say it before they can think it. That makes everything else believable and sets up a founding-client offer and guarantee (see the questions at the bottom).
+**3. The Charlottesville result is a client result, and that's better than your own.** You ran the ads and booking remotely for a company you don't own. That proves you can do it *for someone else* and *from somewhere else*. The script uses the remote angle to answer "will this work in my area?" before they ask. The script doesn't claim you own that company.
 
-**4. The vehicle comparison uses your prospect's real alternatives.** Not "social media vs. SEO and email." It's ads plus booking vs. shared Angi and Thumbtack leads, door hangers, yard signs, SEO and Facebook groups. Those are what your viewer actually uses today.
+**4. Proof goes up front, and you do the math out loud.** About $60 in, $2,200 out in the first three days. Twelve jobs and $6,500 by day 30. One result explained carefully beats ten results rushed past.
 
-**5. I added a speed-to-lead beat.** It's the mechanism behind "booked jobs, not leads," and it handles the time objection at the same moment. A guy on a roof at 2pm can't call a lead back in 5 minutes. (Stat source: $100M Lead Nurture cites Lead Connect: 78% of customers buy from the company that responds first.)
+**5. The guarantee answers your weakness.** "I don't have 100 case studies yet. So instead of asking you to trust me, I'll take all the risk." It's teased in the opener, delivered in full in section 14, and repeated in both endings. The strongest line: *"I got them twelve. I'm guaranteeing you ten."*
 
-**6. The CTA gives a reason to show up.** Straight from $100M Lead Nurture: *"Figure out what leads want, get that thing for them, and then tell them they can have it if they show up."* So the call promises something specific: their market's numbers and the actual ads.
+**6. The channel comparison uses your prospect's real alternatives:** Angi and Thumbtack shared leads, door hangers, yard signs, SEO and Facebook groups.
 
-**7. There are two openers.** The same video sits on the homepage (cold) and after the roadmap (warm). Record the first 30 seconds twice and the CTA twice. Everything in between is shared.
+**7. Speed-to-lead is now part of Agentic Ads.** The lead goes straight to your dialer and you call within minutes. 78% of customers buy from whoever responds first (Lead Connect, cited in $100M Lead Nurture). It explains "booked jobs, not leads" and answers "I don't have time" in one go.
 
-**Length:** about 1,800 spoken words per version (one opener plus one CTA), roughly 12 minutes at a normal pace. That's fine for post-roadmap viewers. For the homepage, you can cut sections 6 and 12 to get it near 10 minutes.
+**8. The ending gives a reason to show up to the call.** From $100M Lead Nurture: *"Figure out what leads want, get that thing for them, and then tell them they can have it if they show up."* So the call promises specific things: their market's numbers and the actual ads that booked $2,200 in three days.
+
+**9. There are two openers and two endings.** One version is for the homepage (cold), the other for after the roadmap (warm). Everything in between is shared.
+
+**Length:** about 1,900 spoken words per version, roughly 12–13 minutes. For the homepage, cut sections 6 and 12 to get near 10 minutes.
 
 ---
 
 ## Part 3: The script
 
-> **Delivery notes:** Talk like you're standing in someone's driveway, not on a stage. Short sentences. Pause after every number. On-screen notes are in *italics*.
+> **Delivery notes:** Talk like you're standing in someone's driveway, not on a stage. Short sentences. Pause after every number. "Agentic" is said "uh-JEN-tick." On-screen notes are in *italics*.
+
+### Page headline and subheadline
+
+**Headline:** Scale Your Business With Agentic Ads
+
+**Subheadline (pick one):**
+- **A (recommended):** *For exterior cleaning companies: 10 booked jobs in your first 30 days of ads, or every dollar back, including your ad spend.*
+- **B:** *How exterior cleaners are getting booked jobs on $20 a day, with no shared leads and no chasing.*
+- **C:** *10 booked jobs in 30 days, or you're out nothing. Not even your ad spend.*
+
+Why the subheadline matters: "Scale Your Business" doesn't say who it's for or what they get. The subheadline has to do that job, or a cleaner landing on your homepage won't know in the first three seconds that the page is for them. Option A does both and puts the guarantee above the video.
 
 ---
 
@@ -77,73 +92,67 @@ If the order changes, the logic breaks. Proof before the viewer cares is just no
 
 If you own a pressure washing, soft washing or window cleaning company... you're good at the work... but the phone doesn't ring as much as you want it to... give me the next ten minutes.
 
-I'm going to show you how I booked twelve jobs in my first thirty days, three of them in the first week, on twenty dollars a day in ads. And how we do the same thing for exterior cleaners like you.
+I'm going to show you how a system I call Agentic Ads booked twenty-two hundred dollars in jobs in three days, on twenty dollars a day. How I do the same thing for exterior cleaners like you. And why, if I don't get you ten booked jobs in your first thirty days, you get every dollar back. Including your ad spend.
 
-*[On screen: "12 jobs. 30 days. $20/day."]*
+*[On screen: "$2,200 in 3 days. $20/day."]*
 
 ### OPENER B: After-roadmap version (warm, just got the roadmap)
 
 You just got your roadmap. Everything in there is real, and you can run it yourself.
 
-But before you do, give me ten minutes. I want to show you the actual numbers behind it: how I booked twelve jobs in thirty days on twenty dollars a day. And what it looks like if you'd rather have us run it for you, so all you have to do is show up and do the work.
+But before you do, give me ten minutes. I want to show you the system behind it, Agentic Ads, and how it booked twenty-two hundred dollars in jobs in three days on twenty dollars a day. And what it looks like if you'd rather have me run it for you, with a guarantee where you can't lose a dollar.
 
-*[On screen: "12 jobs. 30 days. $20/day."]*
+*[On screen: "$2,200 in 3 days. $20/day."]*
 
 ---
 
 ### 1. The reframe
 
-Here's what I've learned running my own exterior cleaning company: nobody in this business actually wants leads.
+Here's what I've learned working in this industry: nobody in this business actually wants leads.
 
 You've had leads. You've paid for leads. Leads that never pick up. Leads that want their whole house washed for ninety-nine bucks. Leads that got sent to four other companies the same minute they got sent to you.
 
 What you actually want is jobs on the calendar. Real homeowners, at real prices, on a real date, at an address you can drive to.
 
-That's the only thing we sell. Booked jobs.
+That's the only thing I sell. Booked jobs.
 
-*[On screen: "We don't sell leads. We sell booked jobs."]*
+*[On screen: "I don't sell leads. I sell booked jobs."]*
 
 ### 2. Who's talking to you
 
 And I want to be clear about who's talking to you, because it matters.
 
-I'm not a marketing guy who found the exterior cleaning niche on YouTube. I'm an exterior cleaner who figured out marketing.
+I'm not a marketing guy who found the exterior cleaning niche on YouTube. I'm in this industry.
 
-My exterior cleaning company does six figures a year. And this year I started a second company: window cleaning for historic brownstones in Brooklyn, New York.
+I run my own window cleaning company here in Brooklyn, New York, serving historic brownstones. And I run the ads and the booking for an exterior cleaning company down in Virginia.
 
-I've been up the ladders. I've quoted the driveways. I know what a good job looks like, and I know what a tire-kicker sounds like on the phone.
+I know what a good job looks like. And because I'm the one on the phone with the leads, I know exactly what a tire-kicker sounds like.
 
-So when I tell you something works, it's not because I read it somewhere. It's because I paid for it with my own money, in my own business, first.
+So when I tell you something works, it's not because I read it somewhere. It's because I've done it for a real company, with real money.
 
-*[B-roll: you on a ladder at a brownstone. Your truck/rig. A before/after.]*
+*[B-roll: a brownstone window job. You on the phone booking a job.]*
 
 ### 3. The test
 
-So here's what happened.
+That Virginia company is where this started.
 
-When I launched the window business, I had zero customers. No reviews. No referrals. No word of mouth. Nothing. `[CONFIRM: is this the business that got the 12 jobs?]`
+It's a six-figure exterior cleaning company in Charlottesville. I took over their ads and their booking, and I did the whole thing remotely.
 
-And I picked about the hardest place you could pick: Brooklyn. One of the most expensive ad markets in the country. Old buildings, picky owners, and homeowners who get pitched by somebody every single day.
+The first ten days, we didn't run a single lead ad. We set everything up and warmed up the account. That's part of the system.
 
-I set the budget at twenty dollars a day.
+Then we went live. Twenty dollars a day.
 
-First week: three booked jobs. Twenty-three hundred dollars.
+In the first three days: twenty-two hundred dollars in booked jobs. `[CONFIRM: $2,200, and how many jobs?]`
 
-By day thirty: twelve booked jobs. Sixty-five hundred dollars.
+Three days at twenty bucks a day is about sixty dollars in ad spend. Sixty dollars in. Twenty-two hundred out.
 
-*[On screen: Ads Manager screenshot showing $20/day and total spend. Calendar or job list. Invoice totals.]*
+By day thirty of running ads: twelve booked jobs. Sixty-five hundred dollars. `[CONFIRM total ad spend. If it stayed at $20/day, add: "For under six hundred dollars in ad spend."]`
 
-Let me do the math for you, because the math is the whole point.
+*[On screen: Ads Manager screenshot showing $20/day and spend. Job calendar. Invoice totals. "$60 in → $2,200 out" / "12 jobs, $6,500 in 30 days"]*
 
-Twenty bucks a day for thirty days is about six hundred dollars. `[CONFIRM: $20/day the full 30 days?]` Six hundred in. Sixty-five hundred out. That's about fifty dollars per booked job, and roughly ten dollars back for every dollar I spent.
+Now, I'm not going to pretend that's a million-dollar case study. It's twelve jobs. But here's why it matters to you.
 
-In the first month. In a brand-new business. In New York City.
-
-*[On screen: "$600 in → $6,500 out" / "~$50 per booked job" / "~10x"]*
-
-Now, I'm not going to pretend that's a million-dollar case study. It's twelve jobs. But here's why I'm showing it to you.
-
-If it works for a brand-new business with no reviews, in a city where everything costs more, on twenty bucks a day... think about what it does for an established company like yours. You've got reviews. You've got a reputation. And you're probably in a market that's a lot cheaper to advertise in.
+I did all of that remotely. Which means it doesn't matter where your business is. I don't need to be in your town to fill your calendar. If there are homeowners near you who want their houses clean, this works.
 
 ### 4. Who this is for
 
@@ -153,7 +162,7 @@ When you get in front of a homeowner, when you walk the property, give them the 
 
 Your problem was never the work. And it was never closing.
 
-Your problem is that word of mouth is slow, and you can't control it. Some months the phone rings off the hook. Some months it doesn't. And you can't plan a crew, a truck, or a second rig around "maybe."
+Your problem is that word of mouth is slow, and you can't control it. Some months the phone rings off the hook. Some months it doesn't. And you can't plan a crew, a truck or a second rig around "maybe."
 
 That's exactly the kind of business ads were made for. Because instead of one neighbor telling one neighbor, an ad puts you in front of thousands of homeowners in your service area, every single day, for less than you spend on gas.
 
@@ -187,11 +196,11 @@ Now, I'll be honest with you. More leads doesn't automatically mean more money.
 
 I've seen guys get a hundred leads and book four. The leads sit for hours. Nobody calls back. The quote goes out three days later, and by then that homeowner already hired someone else.
 
-That's why we don't sell leads. And that's why we don't work with everyone.
+That's why I don't sell leads. And that's why I don't work with everyone.
 
 If you bought your first pressure washer off Marketplace last month, this isn't for you. If you're not insured, if you don't show up when you say you will, if you're not good at the work, more jobs will just make that problem bigger, faster. Please don't book a call.
 
-We need to send these jobs to companies that already do great work. Because for those companies, more booked jobs fix almost everything.
+I need to send these jobs to companies that already do great work. Because for those companies, more booked jobs fix almost everything.
 
 ### 8. Every problem is a jobs problem
 
@@ -217,63 +226,85 @@ You're not chasing anybody. You're not refreshing your phone. You're not saying 
 
 So let me ask you: how much more would you charge if you weren't afraid of losing the job? And how fast would you hire if you knew the jobs were coming?
 
-### 10. How it works
+### 10. Agentic Ads: how it works
 
-So here's exactly what we do. `[CONFIRM: every step below matches what you actually deliver]`
+So how do I actually do it? I call it Agentic Ads.
 
-**Step one: the roadmap.** *(Post-roadmap version: "You've already got this.")* We look at your market: your services, your prices, your service area, and what's working in exterior cleaning right now. Then we build the plan.
+Here's the old way. Some agency guy makes three ads. Checks on them once a week. Emails you a spreadsheet of leads on Friday. And you call them back six hours later, after the homeowner already booked somebody else.
 
-**Step two: we build and run the ads.** The offer, the creative, the targeting, the budget. The same playbook that booked my first twelve jobs. You never touch Ads Manager.
+Agentic Ads flips that. Here's how it works, in plain English.
 
-**Step three: we turn leads into booked jobs.** This is the part everyone else skips. `[We contact every lead within minutes, follow up until they answer, qualify them, and put them straight on your calendar with the address, the service and the details.]`
+**Step one: the roadmap.** *(Post-roadmap version: "You've already got this.")* We map out your services, your prices and your service area.
 
-Here's why that matters. Seventy-eight percent of customers buy from whoever responds first. You're up a ladder at two o'clock on a Tuesday. You can't call a lead back in five minutes. We can.
+**Step two: setup and warm-up.** About ten days. I build everything and warm up your ad account, so when we go live, it's ready to perform.
+
+**Step three: the ads go live, and AI does the heavy lifting.** AI helps me make way more ad creative than a person could make by hand. Then Meta's AI tests those ads against each other and pushes your budget to the ones that are actually bringing in homeowners. The losers stop getting money. The winners get more. Every single day.
+
+**Step four: every lead gets to me in seconds.** The second a homeowner fills out the form, the system pulls them straight from the ad into my dialer and alerts me. No spreadsheet. No waiting.
+
+*[On screen: screen recording of a lead coming in and hitting your phone.]*
+
+**Step five: I call and book the job.** Here's why that matters. Seventy-eight percent of customers buy from whoever responds first. You're up a ladder at two o'clock on a Tuesday. You can't call a lead back in five minutes. I can. I qualify them, and I put the job on your calendar with the address, the service and the details. `[CONFIRM: what does a booked job include? e.g. price quoted and confirmed]`
 
 *[On screen: "78% of customers buy from whoever responds first."]*
 
-**Step four: you show up, do great work, and get paid.**
+**Step six: you show up, do great work, and get paid.**
+
+That's Agentic Ads. AI does the grunt work, and a real person who knows this industry books your jobs.
+
+But honestly? You don't need to remember any of that. Here's all you need to know: jobs show up on your calendar.
 
 ### 11. "I don't have time for this"
 
-And I know exactly how much time you have, because I'm running two companies. I don't have time to sit in Ads Manager or chase leads all day either.
+And I know how busy you are, because I run my own window cleaning company. I don't have time to babysit ads either. That's the whole point of Agentic Ads.
 
-That's why I built it this way. All we need from you is `[before-and-after photos and a few short phone videos from your jobs, plus a 30-minute kickoff call]`. After that, your job is to answer the calendar and do the work.
+All I need from you is `[before-and-after photos, a few short phone videos from your jobs, and a 30-minute kickoff call]`. I handle the ads. I handle the calls. Your job is to show up and do the work.
 
 ### 12. If you're already paying for leads
 
 And if you're already paying for leads, whether that's Angi, Thumbtack, a lead gen guy or boosting posts, here's the difference.
 
-Most of those are set up to test with your money. They spend your budget, and when it doesn't work, they tell you to spend more and try again.
+Those companies get paid whether you book a job or not. They spend your budget, and when it doesn't work, they tell you to spend more and try again.
 
-We already know what works, because I tested it on my money first. So by the time we touch your budget, the guessing is already done.
+With me, if the jobs don't come, I don't get to keep your money. And I mean that literally. Here's how.
 
 ### 13. Why me and not the guy in your DMs
 
-Every week you probably get a message from some "marketing agency" promising you thirty leads a month.
+But first: every week you probably get a message from some "marketing agency" promising you thirty leads a month.
 
-Ask them one question: "What did you book for your own exterior cleaning company?"
+Ask them two questions. One: "How many jobs did you book for an exterior cleaning company last month?" Two: "If you don't deliver, will you refund my ad spend?"
 
-They don't have one. Most of them have never washed a house. Never priced a roof. Never had to make payroll in February. They found exterior cleaning on a list of niches.
+Watch how fast that conversation ends.
 
-I'm not telling you I'm the biggest. I'm telling you I've actually done it: in my own business, with my own money, in one of the hardest markets in America. And I'm the one looking at your numbers.
+Most of them have never washed a house. Never priced a roof. Never had to make payroll in February. They found exterior cleaning on a list of niches.
 
-### 14. Straight talk
+I'm not telling you I'm the biggest. I'm telling you I'm in this industry, I've done it for a real exterior cleaning company, and I'm the one on the phone with your leads.
+
+### 14. The guarantee
 
 Now I'm going to be straight with you, because you'd figure it out anyway.
 
-I don't have a wall of a hundred client case studies yet. I'm building this the right way. I proved it on my own businesses first, and now I'm taking on a small number of exterior cleaning companies to do it for.
+I don't have a wall of a hundred client case studies yet. So instead of asking you to trust me, I'm going to take all the risk.
 
-`[IF FOUNDING OFFER: Which is good news for you, because the first companies we work with get [founding pricing / a stronger guarantee] in exchange for letting us film their results.]`
+Here's my guarantee.
 
-`[IF GUARANTEE: And here's how sure I am: [GUARANTEE, e.g. "X booked jobs in your first 30 days, or you don't pay"].]`
+If I don't get you at least ten booked jobs in your first thirty days of running ads, I'll refund everything you spent. The setup fee. And your ad spend. Every single dollar.
 
-And we're not going to be the cheapest option. The cheapest option is a shared lead. But cheap leads that don't book are the most expensive thing in this business.
+You're out nothing. Zero.
 
-So whether you work with me or not, here's the one piece of advice I'll give you: never take marketing advice from someone who's never booked a job for their own business.
+*[On screen: "10 booked jobs in 30 days, or every dollar back. Including ad spend." Small text: "Terms apply. Details on the call."]*
+
+I got that Charlottesville company twelve. I'm guaranteeing you ten. That's how confident I am.
+
+Think about what that means. The worst case: you get thirty days of ads tested in your market, for free, and I eat the cost. The best case: a full calendar.
+
+And no, I'm not the cheapest option out there. The cheapest option is a shared lead. But cheap leads that don't book are the most expensive thing in this business. And nobody selling cheap leads is going to hand you back your ad spend.
+
+So whether you work with me or not, here's one piece of advice: never pay a marketing company that won't put its own money on the line.
 
 ### 15. One company per area `[ONLY IF TRUE]`
 
-One more thing. We only work with one exterior cleaning company per service area. It doesn't make sense for us to run ads for you and the guy across town at the same time. So once your area's taken, it's taken.
+One more thing. I only work with one exterior cleaning company per service area. It doesn't make sense for me to run ads for you and the guy across town at the same time. So once your area's taken, it's taken.
 
 ---
 
@@ -283,6 +314,8 @@ Below this video there's a short application. It takes about two minutes.
 
 Fill it out and you'll get a free roadmap built for your market. If it looks like a fit, you'll be able to grab a time with me.
 
+And remember: ten booked jobs in your first thirty days of ads, or every dollar back, including your ad spend. You're out nothing.
+
 You're already good at the work. Let's go fill your calendar.
 
 *[On screen: arrow down to the application button.]*
@@ -291,11 +324,11 @@ You're already good at the work. Let's go fill your calendar.
 
 Below this video, pick a time on my calendar.
 
-Here's what we'll do on the call. `[CONFIRM]` We'll pull up your service area and go over what your cost per booked job should look like. I'll show you the exact ads that booked my first twelve jobs. And we'll work out how many jobs a month you need to hit your number.
+Here's what we'll do on the call. `[CONFIRM]` We'll go over your service area and what your cost per booked job should look like. I'll show you the exact ads that booked twenty-two hundred dollars in three days. And we'll work out how many jobs a month you need to hit your number.
 
-If it's a fit, I'll show you exactly how we'd do it for you. If it's not, no hard feelings. You keep the roadmap and walk away with a plan you can run yourself.
+If it's a fit, I'll show you exactly how I'd do it for you, backed by the guarantee: ten booked jobs in thirty days, or every dollar back, including ad spend.
 
-Either way, you'll leave knowing exactly what to do next.
+If it's not, no hard feelings. You keep the roadmap and walk away with a plan you can run yourself.
 
 You're already good at the work. Let's go fill your calendar.
 
@@ -303,32 +336,41 @@ You're already good at the work. Let's go fill your calendar.
 
 ---
 
-## Proof to film or screenshot (this is what makes the script believable)
+## Before you record: match your terms to the guarantee
 
-You have one result, so **show it, don't just say it.** In order of impact:
+The video promises a refund of **the setup fee plus ad spend**. Whatever you say on camera is what you'll be held to, so:
 
-1. **An unedited screen recording of Ads Manager** showing the $20/day budget, total spend and date range.
-2. **Your job calendar or CRM** (Jobber, Housecall Pro, or whatever you use) showing the 12 jobs.
-3. **Invoice or payment totals** adding up to $2.3k (week 1) and $6.5k (month).
-4. **The actual ads** that ran, which also serves as the teaser for the call.
-5. **You on site at a brownstone.** This shows you're a real operator, not an agency guy.
-6. **Google reviews** from the exterior cleaning company.
+- **Your written terms have to say the same thing as the video.** If the contract only refunds the setup fee, the video and the contract contradict each other. That causes refund disputes and is a false-advertising risk.
+- **Define a "booked job" in the contract:** for example, a confirmed appointment with a quoted price inside their service area.
+- **Say the 30 days start when ads go live,** not during the 10-day warm-up. The script already says "first thirty days of running ads."
+- **Put the client's conditions in writing:** they keep the agreed daily budget, take the jobs you book, and send the photos you need. This is the conditional guarantee from $100M Offers. The video doesn't need to list conditions, so "Terms apply. Details on the call" goes on screen.
+- **Know your worst case before you set the setup fee.** If a client misses, you refund the setup fee plus about 30 days of their ad spend (about $600 at $20/day) out of your own pocket.
 
 ---
 
-## What I need from you to finalize this
+## Proof to film or screenshot
 
-Ordered by how much the answer changes the script:
+You have one result, so **show it, don't just say it.** In order of impact:
 
-1. **Which business got the 12 jobs in 30 days?** Was it the new Brooklyn brownstone window business, or the exterior cleaning company when it started? The script assumes the window business launching from zero. If that's right, it's your strongest angle. If not, section 3 needs rewriting.
-2. **Was it $20/day for the whole 30 days (about $600 total)?** The cost-per-job and ROI math depends on it.
-3. **Pricing model.** Pay per booked job, monthly retainer, or a mix? Who pays the ad spend? This decides how section 14 frames price.
-4. **Will you offer a guarantee?** With no client case studies yet, a strong guarantee is the best substitute for proof (it's the core idea in $100M Offers). Something like "X booked jobs in 30 days or you don't pay," or "we work free until you hit X." I'd strongly push for one.
-5. **What do you actually do vs. what they do?** Do you call and text leads and put them on the client's calendar, or hand over leads? What counts as "booked": a confirmed job with a price, or an estimate appointment? Which services (house wash, roof, windows, gutters, concrete)?
-6. **What do you need from the client, time-wise?** Photos? Onboarding call? Approving ads?
-7. **One company per service area?** Only keep section 15 if it's true.
-8. **Founding-client spots?** Would you discount the first few clients in exchange for filmed case studies?
-9. **Any client results at all yet?** Even one beta client with "4 jobs in week one" would be worth a lot here.
-10. **Your story.** Your name, company names, how long you've been cleaning, how you started (one pressure washer in the back of a truck?). This makes "I'm one of you" hit harder.
-11. **What's in the roadmap and who takes the call?** So CTA B promises exactly what happens.
-12. **Who you want** (revenue range, number of crews). This makes section 4 match the filter in your application.
+1. **The Charlottesville owners on camera** for 30–60 seconds, saying what happened in the first three days in their own words. This is the biggest single upgrade available: "trust me" becomes a real client saying it. You'll also need their OK to show their numbers and name.
+2. **An unedited screen recording of Ads Manager** showing the $20/day budget, the spend in the first three days and the date range.
+3. **Their job calendar or CRM** showing the bookings.
+4. **Invoice or payment totals:** $2,200 for the first three days, $6,500 for the month.
+5. **The automation running:** a screen recording of a test lead coming in and hitting your dialer within seconds. That's Agentic Ads you can actually see.
+6. **The actual ads** that ran, which also works as the teaser for the call.
+7. **You at a brownstone job,** showing you're in the industry.
+
+---
+
+## What I still need from you
+
+1. **First three days:** is it $2,200, and how many jobs? (Earlier you said 3 jobs and $2.3k.)
+2. **Total ad spend for the 30 days.** Did it stay at $20/day? If so, the script can say "under $600 in ad spend" and "about $50 per booked job."
+3. **Can you get the Charlottesville owners on camera,** and are you allowed to name the company?
+4. **What counts as a booked job** for the guarantee: confirmed with a price, or an estimate appointment?
+5. **Pricing beyond the setup fee:** monthly fee, per job, or both? Is there a minimum ad spend? This decides how section 14 talks about price.
+6. **What you need from the client,** time-wise. Is section 11's bracket right?
+7. **One company per area:** yes or no? Only keep section 15 if it's true.
+8. **What happens on the call and what's in the roadmap,** so CTA B promises exactly that.
+9. **Who you want as clients** (revenue range, number of crews), so section 4 matches your application filter.
+10. **Your name and a line or two of backstory** for section 2.
